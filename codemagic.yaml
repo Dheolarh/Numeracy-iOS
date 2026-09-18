@@ -1,0 +1,35 @@
+workflows:
+  ios-distribution:
+    name: iOS App Store Distribution
+    max_build_duration: 60
+    environment:
+      groups:
+        - ios-credentials
+      vars:
+        BUNDLE_ID: com.osirisxstudios.numeracy
+    scripts:
+      - name: Set up code signing
+        script: |
+          xcode-project use-profiles
+      - name: Build and archive
+        script: |
+          xcodebuild -project "Unity-iPhone.xcodeproj" \
+            -scheme Unity-iPhone \
+            -configuration Release \
+            -archivePath build/Unity-iPhone.xcarchive \
+            archive \
+            CODE_SIGN_STYLE=Manual \
+            PROVISIONING_PROFILE_SPECIFIER="Numeracy AppStore"
+      - name: Export IPA
+        script: |
+          xcode-project build-ipa \
+            --project "Unity-iPhone.xcodeproj" \
+            --archive-path build/Unity-iPhone.xcarchive
+    artifacts:
+      - build/ios/ipa/*.ipa
+    publishing:
+      app_store_connect:
+        api_key: $APP_STORE_CONNECT_PRIVATE_KEY
+        key_id: $APP_STORE_CONNECT_KEY_IDENTIFIER
+        issuer_id: $APP_STORE_CONNECT_ISSUER_ID
+        submit_to_testflight: true
