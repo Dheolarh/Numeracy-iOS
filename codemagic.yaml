@@ -10,9 +10,17 @@ workflows:
     scripts:
       - name: Set up code signing
         script: |
+          # Install certificate
+          echo $CM_CERTIFICATE | base64 --decode > /tmp/certificate.p12
           keychain initialize
-          certificate add-certificates --certificate $CM_CERTIFICATE --certificate-password $CM_CERTIFICATE_PASSWORD
-          xcode-project use-profiles --profile $CM_PROVISIONING_PROFILE
+          keychain add-certificates --certificate /tmp/certificate.p12 --certificate-password "$CM_CERTIFICATE_PASSWORD"
+          
+          # Install provisioning profile
+          echo $CM_PROVISIONING_PROFILE | base64 --decode > /tmp/profile.mobileprovision
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          UUID=$(security cms -D -i /tmp/profile.mobileprovision | plutil -extract UUID raw -)
+          cp /tmp/profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/$UUID.mobileprovision
+          echo "Installed profile with UUID: $UUID"
       - name: Build and archive
         script: |
           xcodebuild -project "Unity-iPhone.xcodeproj" \
