@@ -10,7 +10,9 @@ workflows:
     scripts:
       - name: Set up code signing
         script: |
-          xcode-project use-profiles
+          keychain initialize
+          certificate add-certificates --certificate $CM_CERTIFICATE --certificate-password $CM_CERTIFICATE_PASSWORD
+          xcode-project use-profiles --profile $CM_PROVISIONING_PROFILE
       - name: Build and archive
         script: |
           xcodebuild -project "Unity-iPhone.xcodeproj" \
