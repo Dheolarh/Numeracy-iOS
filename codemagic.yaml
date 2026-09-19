@@ -16,6 +16,10 @@ workflows:
     scripts:
       - name: Set up code signing
         script: xcode-project use-profiles
+      - name: Fix script permissions
+        script: |
+          chmod +x process_symbols.sh
+          chmod +x process_symbols_il2cpp.sh
       - name: Build ipa for distribution
         script: |
           xcode-project build-ipa \
