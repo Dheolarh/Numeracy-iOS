@@ -2,43 +2,29 @@ workflows:
   ios-distribution:
     name: iOS App Store Distribution
     max_build_duration: 60
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Numeracy
     environment:
-      groups:
-        - Numeracy-iOS
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.osirisxstudios.numeracy
       vars:
         BUNDLE_ID: com.osirisxstudios.numeracy
+        XCODE_PROJECT: Unity-iPhone.xcodeproj
+        XCODE_SCHEME: Unity-iPhone
     scripts:
       - name: Set up code signing
-        script: |
-          echo $CM_CERTIFICATE | base64 --decode > /tmp/certificate.p12
-          keychain initialize
-          keychain add-certificates --certificate /tmp/certificate.p12 --certificate-password "$CM_CERTIFICATE_PASSWORD"
-          echo $CM_PROVISIONING_PROFILE | base64 --decode > /tmp/profile.mobileprovision
-          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
-          UUID=$(security cms -D -i /tmp/profile.mobileprovision | plutil -extract UUID raw -)
-          cp /tmp/profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/$UUID.mobileprovision
-          echo "Installed profile with UUID: $UUID"
-      - name: Build and archive
-        script: |
-          xcodebuild -project "Unity-iPhone.xcodeproj" \
-            -scheme Unity-iPhone \
-            -configuration Release \
-            -archivePath build/Unity-iPhone.xcarchive \
-            archive \
-            CODE_SIGN_STYLE=Manual \
-            CODE_SIGN_IDENTITY="Apple Distribution" \
-            DEVELOPMENT_TEAM="CVSZVBKWKH" \
-            PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]="Numeracy AppStore"
-      - name: Export IPA
+        script: xcode-project use-profiles
+      - name: Build ipa for distribution
         script: |
           xcode-project build-ipa \
-            --project "Unity-iPhone.xcodeproj" \
-            --archive-path build/Unity-iPhone.xcarchive
+            --project "$CM_BUILD_DIR/$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME"
     artifacts:
       - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
     publishing:
       app_store_connect:
-        api_key: $APP_STORE_CONNECT_PRIVATE_KEY
-        key_id: $APP_STORE_CONNECT_KEY_IDENTIFIER
-        issuer_id: $APP_STORE_CONNECT_ISSUER_ID
+        auth: integration
         submit_to_testflight: true
