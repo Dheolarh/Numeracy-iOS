@@ -10,12 +10,9 @@ workflows:
     scripts:
       - name: Set up code signing
         script: |
-          # Install certificate
           echo $CM_CERTIFICATE | base64 --decode > /tmp/certificate.p12
           keychain initialize
           keychain add-certificates --certificate /tmp/certificate.p12 --certificate-password "$CM_CERTIFICATE_PASSWORD"
-          
-          # Install provisioning profile
           echo $CM_PROVISIONING_PROFILE | base64 --decode > /tmp/profile.mobileprovision
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
           UUID=$(security cms -D -i /tmp/profile.mobileprovision | plutil -extract UUID raw -)
@@ -30,8 +27,8 @@ workflows:
             archive \
             CODE_SIGN_STYLE=Manual \
             CODE_SIGN_IDENTITY="Apple Distribution" \
-            PROVISIONING_PROFILE_SPECIFIER="Numeracy AppStore" \
-            DEVELOPMENT_TEAM="CVSZVBKWKH"
+            DEVELOPMENT_TEAM="CVSZVBKWKH" \
+            PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]="Numeracy AppStore"
       - name: Export IPA
         script: |
           xcode-project build-ipa \
