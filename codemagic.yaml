@@ -1,0 +1,34 @@
+workflows:
+  ios-distribution:
+    name: iOS App Store Distribution
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Numeracy
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.osirisxstudios.numeracy
+      vars:
+        BUNDLE_ID: com.osirisxstudios.numeracy
+        XCODE_PROJECT: Unity-iPhone.xcodeproj
+        XCODE_SCHEME: Unity-iPhone
+    scripts:
+      - name: Set up code signing
+        script: xcode-project use-profiles
+      - name: Fix script permissions
+        script: |
+          chmod +x process_symbols.sh
+          chmod +x process_symbols_il2cpp.sh
+      - name: Build ipa for distribution
+        script: |
+          xcode-project build-ipa \
+            --project "$CM_BUILD_DIR/$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME"
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true
