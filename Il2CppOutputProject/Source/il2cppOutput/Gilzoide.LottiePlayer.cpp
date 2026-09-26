@@ -1209,7 +1209,7 @@ IL2CPP_EXTERN_C void DEFAULT_CALL lottie_shutdown();
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58292
+// Method Definition Index: 58308
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmbeddedAttribute__ctor_mEF40989139B2C5294182BD81CCDE7E0EE50B7699 (EmbeddedAttribute_tAA0F203C05CD79BCE8432FD10572A8208F6C52F8* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1225,7 +1225,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmbeddedAttribute__ctor_mEF40989139B2C52
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58293
+// Method Definition Index: 58309
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeIntegerAttribute__ctor_mDD8A62C381A9EADA5A2406ED49D31F22E39F8E65 (NativeIntegerAttribute_t05A4C385DE7F21D07CE6C9352FFD2031D62D484B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1245,7 +1245,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeIntegerAttribute__ctor_mDD8A62C381
 		return;
 	}
 }
-// Method Definition Index: 58294
+// Method Definition Index: 58310
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeIntegerAttribute__ctor_m983BF8CDA49814AE57784EE063B16AB64BC7F3FC (NativeIntegerAttribute_t05A4C385DE7F21D07CE6C9352FFD2031D62D484B* __this, BooleanU5BU5D_tD317D27C31DB892BE79FAE3AEBC0B3FFB73DE9B4* ___0_p, const RuntimeMethod* method) 
 {
 	{
@@ -1264,7 +1264,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeIntegerAttribute__ctor_m983BF8CDA4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58295
+// Method Definition Index: 58311
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t753F2E6B958B62362CDD6FA082C2ECD0F490B9CE UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m2C088206E0D757C3E7761CCC05D5F795107A0B4F (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1298,7 +1298,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_t753F2E6B958B62362CDD6FA082C2E
 		return L_6;
 	}
 }
-// Method Definition Index: 58296
+// Method Definition Index: 58312
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mA2387EEEC31ED877F99212BD06E35C126586AF96 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_tFD25290309296EE1C1AF961B4DED861FD449F62D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1384,7 +1384,7 @@ IL2CPP_EXTERN_C void MonoScriptData_t753F2E6B958B62362CDD6FA082C2ECD0F490B9CE_ma
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58304
+// Method Definition Index: 58320
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ILottieAnimation_Render_mE632BD53515AAF447A06CAAEA047672EEB1FE867 (RuntimeObject* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, uint32_t ___4_bytesPerLine, bool ___5_keepAspectRatio, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1405,7 +1405,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ILottieAnimation_Render_mE632BD53515AAF4
 		return;
 	}
 }
-// Method Definition Index: 58306
+// Method Definition Index: 58322
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ILottieAnimation_RenderAsync_m09A33DED9C8655F3023F248BB25F94B7672922EF (RuntimeObject* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, uint32_t ___4_bytesPerLine, bool ___5_keepAspectRatio, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1442,7 +1442,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ILottieAnimation_RenderAsync_m09A33DED9C
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58332
+// Method Definition Index: 58348
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B LottieAnimation_get_NativeHandle_m44ECC3B9A0278D3CFB18C84553B8E7BB013ABAB8 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1451,7 +1451,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08
 		return L_0;
 	}
 }
-// Method Definition Index: 58333
+// Method Definition Index: 58349
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LottieAnimation_get_IsCreated_m8B63F28A5D545C4878D908EC84420B15ECD2ED67 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1462,7 +1462,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LottieAnimation_get_IsCreated_m8B63F28A5
 		return L_1;
 	}
 }
-// Method Definition Index: 58334
+// Method Definition Index: 58350
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m0CD6E3CE67F063BC9F8645DD5AF453302A4A2F22 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_nativeHandle, const RuntimeMethod* method) 
 {
 	{
@@ -1475,7 +1475,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m0CD6E3CE67F063BC9
 		return;
 	}
 }
-// Method Definition Index: 58335
+// Method Definition Index: 58351
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m485F3A4E4506298F85CADAD052A341B634D00FEA (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_path, const RuntimeMethod* method) 
 {
 	{
@@ -1491,7 +1491,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m485F3A4E4506298F8
 		return;
 	}
 }
-// Method Definition Index: 58336
+// Method Definition Index: 58352
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m20F29082D9874A91270EB37951DDCC6942909825 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_data, String_t* ___1_key, String_t* ___2_resourcePath, const RuntimeMethod* method) 
 {
 	{
@@ -1509,7 +1509,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation__ctor_m20F29082D9874A912
 		return;
 	}
 }
-// Method Definition Index: 58337
+// Method Definition Index: 58353
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_Finalize_mCD18F1EA1D7759CF3D75F155CFBA9812BFE6E05E (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1541,7 +1541,7 @@ IL_000f:
 		return;
 	}
 }
-// Method Definition Index: 58338
+// Method Definition Index: 58354
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_Dispose_m19A8D6D6E4304BD36DF1E6DDAD2763F6A931291E (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1552,7 +1552,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_Dispose_m19A8D6D6E4304BD
 		return;
 	}
 }
-// Method Definition Index: 58339
+// Method Definition Index: 58355
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A LottieAnimation_GetSize_m48C7C402BEF8FD90E6AD9E08938DCD612064F5EE (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1563,7 +1563,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_t69B2886EBAB732D9B880565E18E7568F3
 		return L_1;
 	}
 }
-// Method Definition Index: 58340
+// Method Definition Index: 58356
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimation_GetDuration_m0C4FFE1E8E93AC58564F418AF6B9F503B1155CEF (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1574,7 +1574,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimation_GetDuration_m0C4FFE1E8
 		return L_1;
 	}
 }
-// Method Definition Index: 58341
+// Method Definition Index: 58357
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimation_GetTotalFrame_m24265624566EDBE40ACE400F17AE1B178CE2B8CC (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1585,7 +1585,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimation_GetTotalFrame_m24265
 		return L_1;
 	}
 }
-// Method Definition Index: 58342
+// Method Definition Index: 58358
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimation_GetFrameRate_m07A57964EF74D929838271071E0591206DDA1138 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1596,7 +1596,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimation_GetFrameRate_m07A57964
 		return L_1;
 	}
 }
-// Method Definition Index: 58343
+// Method Definition Index: 58359
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimation_GetFrameAtPos_mA03679EE39E9DD8AB0A050BC2C620C4F8070F76E (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, float ___0_pos, const RuntimeMethod* method) 
 {
 	{
@@ -1608,7 +1608,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimation_GetFrameAtPos_mA0367
 		return L_2;
 	}
 }
-// Method Definition Index: 58344
+// Method Definition Index: 58360
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E578FCF13* LottieAnimation_RenderTree_m3A2F2866E974ECC6BA3BC51500A3BDFBD156BAEA (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, const RuntimeMethod* method) 
 {
 	{
@@ -1622,7 +1622,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E57
 		return L_4;
 	}
 }
-// Method Definition Index: 58345
+// Method Definition Index: 58361
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_Render_mB7B091D78B20A83497E58DAAD6E9C064F4960290 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, bool ___4_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -1638,7 +1638,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_Render_mB7B091D78B20A834
 		return;
 	}
 }
-// Method Definition Index: 58346
+// Method Definition Index: 58362
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_RenderAsync_m955055000A88CC572ADF6F6BF6DD00AFDD934573 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, bool ___4_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -1654,7 +1654,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_RenderAsync_m955055000A8
 		return;
 	}
 }
-// Method Definition Index: 58347
+// Method Definition Index: 58363
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_RenderAsyncFlush_mC189F30C5DA36BF7AB3B7F762EC0C775465D45D1 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1665,7 +1665,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_RenderAsyncFlush_mC189F3
 		return;
 	}
 }
-// Method Definition Index: 58348
+// Method Definition Index: 58364
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BEA71CE73* LottieAnimation_GetMarkerList_mC0939C4891C03178F09B13BC257FF6BDBED74804 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1676,7 +1676,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BE
 		return L_1;
 	}
 }
-// Method Definition Index: 58349
+// Method Definition Index: 58365
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetFillColorOverride_mE384233AA0D0680694DE7E6A9D3CAB22D7F2B65F (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1689,7 +1689,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetFillColorOverride_mE3
 		return;
 	}
 }
-// Method Definition Index: 58350
+// Method Definition Index: 58366
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetFillOpacityOverride_m6077CADAD591BF4F9008562F3ECCAAC153692BB0 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1702,7 +1702,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetFillOpacityOverride_m
 		return;
 	}
 }
-// Method Definition Index: 58351
+// Method Definition Index: 58367
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeColorOverride_m784841733491748161A5201AF385F4DC5FF3BBC0 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1715,7 +1715,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeColorOverride_m
 		return;
 	}
 }
-// Method Definition Index: 58352
+// Method Definition Index: 58368
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeOpacityOverride_m8A16C6848A08412CCEDFC9B83EDF899157379738 (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1728,7 +1728,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeOpacityOverride
 		return;
 	}
 }
-// Method Definition Index: 58353
+// Method Definition Index: 58369
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeWidthOverride_m62ECE7B24049ECDA28A890B6C223034158B64FDB (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1741,7 +1741,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetStrokeWidthOverride_m
 		return;
 	}
 }
-// Method Definition Index: 58354
+// Method Definition Index: 58370
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformPositionOverride_m237CDAF04F2A426B4B3DDBF3E898AE533D4F36AF (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1754,7 +1754,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformPositionOver
 		return;
 	}
 }
-// Method Definition Index: 58355
+// Method Definition Index: 58371
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformScaleOverride_m3E2D3B17EB45DF6EEE2D01E9010CB656EE57E33F (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1767,7 +1767,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformScaleOverrid
 		return;
 	}
 }
-// Method Definition Index: 58356
+// Method Definition Index: 58372
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformRotationOverride_m4C3E2118C6A42922E71B44D1FE4955F14D6E8C0B (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -1780,7 +1780,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimation_SetTransformRotationOver
 		return;
 	}
 }
-// Method Definition Index: 58357
+// Method Definition Index: 58373
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B LottieAnimation_op_Implicit_mDA8F798DD87137D2955D7C210756E2D2472A47AC (LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* ___0_animation, const RuntimeMethod* method) 
 {
 	NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B V_0;
@@ -1815,7 +1815,7 @@ IL_000d:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58358
+// Method Definition Index: 58374
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_get_CacheKey_m9D5B171BD59BE18EFAA62362CB3932C0462CB169 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1846,7 +1846,7 @@ IL_000f:
 		return G_B2_0;
 	}
 }
-// Method Definition Index: 58359
+// Method Definition Index: 58375
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimationAsset_set_CacheKey_m1E967E0AA0F4056ED372DD4967A0304CF5D77CC9 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, String_t* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1885,7 +1885,7 @@ IL_000b:
 		return;
 	}
 }
-// Method Definition Index: 58360
+// Method Definition Index: 58376
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_get_ResourcePath_m83AD51CB4EECA9E1F5AA658DB2688E37A1D21260 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1916,7 +1916,7 @@ IL_000f:
 		return G_B2_0;
 	}
 }
-// Method Definition Index: 58361
+// Method Definition Index: 58377
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimationAsset_set_ResourcePath_mD534F54790841C79D0F23A91DA8A27D3ECF0DF83 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, String_t* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -1955,7 +1955,7 @@ IL_000b:
 		return;
 	}
 }
-// Method Definition Index: 58362
+// Method Definition Index: 58378
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_get_Json_mD63768D5168E44BD08A2CF601889E56E0CA01D25 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -1964,7 +1964,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_get_Json_mD637
 		return L_0;
 	}
 }
-// Method Definition Index: 58363
+// Method Definition Index: 58379
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimationAsset_set_Json_m1B9F68548D177CD89121BAD932BDD55D37B87A74 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, String_t* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2003,7 +2003,7 @@ IL_000b:
 		return;
 	}
 }
-// Method Definition Index: 58364
+// Method Definition Index: 58380
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A LottieAnimationAsset_get_Size_mED9F242A811BFF503AD14A6F2547E6646D844297 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2012,7 +2012,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_t69B2886EBAB732D9B880565E18E7568F3
 		return L_0;
 	}
 }
-// Method Definition Index: 58365
+// Method Definition Index: 58381
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimationAsset_get_FrameCount_mA87C941FB01A78757D110CA62006CCAFC12D1E0E (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2021,7 +2021,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t LottieAnimationAsset_get_FrameCount_
 		return L_0;
 	}
 }
-// Method Definition Index: 58366
+// Method Definition Index: 58382
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimationAsset_get_FrameRate_mEB9126487022EB76702CF31A2293CA36A48CB8F2 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2030,7 +2030,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimationAsset_get_FrameRate_mEB
 		return L_0;
 	}
 }
-// Method Definition Index: 58367
+// Method Definition Index: 58383
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimationAsset_get_Duration_m546F4B941195B3BE898F650A2533F960F7673745 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2039,7 +2039,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double LottieAnimationAsset_get_Duration_m546
 		return L_0;
 	}
 }
-// Method Definition Index: 58368
+// Method Definition Index: 58384
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A2EE1044545C3* LottieAnimationAsset_CreateAnimation_m3C8A8FA64EF63BF1D5F049F623E2DF843B58A596 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2061,7 +2061,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimation_tFCC2EFE5D5A064E26244D1B1D64A
 		return L_3;
 	}
 }
-// Method Definition Index: 58369
+// Method Definition Index: 58385
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B LottieAnimationAsset_CreateNativeAnimation_m7C8785CDED6092B2CE0C916704517F94AB3861BC (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2078,7 +2078,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08
 		return L_3;
 	}
 }
-// Method Definition Index: 58370
+// Method Definition Index: 58386
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LottieAnimationAsset_UpdateMetadata_m9B006782BE4714D65F74F4B6551429EDE76A093E (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B V_0;
@@ -2153,7 +2153,7 @@ IL_005a:
 		return L_6;
 	}
 }
-// Method Definition Index: 58371
+// Method Definition Index: 58387
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimationAsset__ctor_m8463FC0F3810B804783C96FCB62CABA3A2FF2A65 (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2181,7 +2181,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LottieAnimationAsset__ctor_m8463FC0F3810
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58372
+// Method Definition Index: 58388
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52 LottieAnimationJobs_CreateRenderJob_m8459A107934D6F2D2DF5E4A3C49BBA434392BFF7 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, Texture2D_tE6505BC111DD8A424A9DBE8E05D7D09E11FFFCF4* ___2_texture, bool ___3_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -2196,7 +2196,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimationRenderJob_t0AA350053B5620F569F
 		return L_4;
 	}
 }
-// Method Definition Index: 58373
+// Method Definition Index: 58389
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52 LottieAnimationJobs_CreateRenderJob_mB03905473483010B34EC0B5F27828D8AB7098633 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, uint32_t ___2_width, uint32_t ___3_height, NativeArray_1_t0783F5E3C7AF6C600A6A20DA7A32D82CA836528D ___4_buffer, bool ___5_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -2213,7 +2213,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimationRenderJob_t0AA350053B5620F569F
 		return L_6;
 	}
 }
-// Method Definition Index: 58374
+// Method Definition Index: 58390
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52 LottieAnimationJobs_CreateRenderJob_mBEA596B899BA5B60ABC849117A7F1D69E0DAA4C4 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, uint32_t ___2_width, uint32_t ___3_height, NativeArray_1_t0783F5E3C7AF6C600A6A20DA7A32D82CA836528D ___4_buffer, Nullable_1_tD043F01310E483091D0E9A5526C3425F13EF2099 ___5_bytesPerLine, bool ___6_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -2307,7 +2307,7 @@ IL2CPP_EXTERN_C void LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A
 IL2CPP_EXTERN_C void LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52_marshal_com_cleanup(LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52_marshaled_com& marshaled)
 {
 }
-// Method Definition Index: 58375
+// Method Definition Index: 58391
 IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void LottieAnimationRenderJob__ctor_m0844FF444F6C6D5BEDD561D63D8057EC8D74051E (LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52* IL2CPP_PARAMETER_RESTRICT __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, Texture2D_tE6505BC111DD8A424A9DBE8E05D7D09E11FFFCF4* ___2_texture, bool ___3_keepAspectRatio, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2345,7 +2345,7 @@ IL2CPP_EXTERN_C  void LottieAnimationRenderJob__ctor_m0844FF444F6C6D5BEDD561D63D
 	_thisAdjusted = reinterpret_cast<LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52*>(__this + _offset);
 	LottieAnimationRenderJob__ctor_m0844FF444F6C6D5BEDD561D63D8057EC8D74051E(_thisAdjusted, ___0_animation, ___1_frameNum, ___2_texture, ___3_keepAspectRatio, method);
 }
-// Method Definition Index: 58376
+// Method Definition Index: 58392
 IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void LottieAnimationRenderJob__ctor_m6A8E568090E3A5B4680D4F4CDB73BA4EC8C77821 (LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52* IL2CPP_PARAMETER_RESTRICT __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, uint32_t ___2_width, uint32_t ___3_height, NativeArray_1_t0783F5E3C7AF6C600A6A20DA7A32D82CA836528D ___4_buffer, bool ___5_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -2378,7 +2378,7 @@ IL2CPP_EXTERN_C  void LottieAnimationRenderJob__ctor_m6A8E568090E3A5B4680D4F4CDB
 	_thisAdjusted = reinterpret_cast<LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52*>(__this + _offset);
 	LottieAnimationRenderJob__ctor_m6A8E568090E3A5B4680D4F4CDB73BA4EC8C77821(_thisAdjusted, ___0_animation, ___1_frameNum, ___2_width, ___3_height, ___4_buffer, ___5_keepAspectRatio, method);
 }
-// Method Definition Index: 58377
+// Method Definition Index: 58393
 IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void LottieAnimationRenderJob__ctor_m280144997C02C56027E09E2982E294E4A2679793 (LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52* IL2CPP_PARAMETER_RESTRICT __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, uint32_t ___1_frameNum, uint32_t ___2_width, uint32_t ___3_height, NativeArray_1_t0783F5E3C7AF6C600A6A20DA7A32D82CA836528D ___4_buffer, Nullable_1_tD043F01310E483091D0E9A5526C3425F13EF2099 ___5_bytesPerLine, bool ___6_keepAspectRatio, const RuntimeMethod* method) 
 {
 	{
@@ -2401,7 +2401,7 @@ IL2CPP_EXTERN_C  void LottieAnimationRenderJob__ctor_m280144997C02C56027E09E2982
 	_thisAdjusted = reinterpret_cast<LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52*>(__this + _offset);
 	LottieAnimationRenderJob__ctor_m280144997C02C56027E09E2982E294E4A2679793(_thisAdjusted, ___0_animation, ___1_frameNum, ___2_width, ___3_height, ___4_buffer, ___5_bytesPerLine, ___6_keepAspectRatio, method);
 }
-// Method Definition Index: 58378
+// Method Definition Index: 58394
 IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void LottieAnimationRenderJob_Execute_mF2C63BE2021B2297C96611A28946B75B5DDCDA0F (LottieAnimationRenderJob_t0AA350053B5620F569F7C40384812D05A6B98E52* IL2CPP_PARAMETER_RESTRICT __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2438,7 +2438,7 @@ IL2CPP_EXTERN_C  void LottieAnimationRenderJob_Execute_mF2C63BE2021B2297C96611A2
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58379
+// Method Definition Index: 58395
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t NativeLottieAnimation_get_NativeHandle_m59B3FF5A31A693CDDC695EBDED5B03C1C71F0BEE (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2456,7 +2456,7 @@ IL2CPP_EXTERN_C  intptr_t NativeLottieAnimation_get_NativeHandle_m59B3FF5A31A693
 	_returnValue = NativeLottieAnimation_get_NativeHandle_m59B3FF5A31A693CDDC695EBDED5B03C1C71F0BEE_inline(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58380
+// Method Definition Index: 58396
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_set_NativeHandle_m724382F01E99807CB230869EC28EEC3992F7CF17 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, intptr_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -2473,7 +2473,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_set_NativeHandle_m724382F01E99807CB2
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_set_NativeHandle_m724382F01E99807CB230869EC28EEC3992F7CF17_inline(_thisAdjusted, ___0_value, method);
 }
-// Method Definition Index: 58381
+// Method Definition Index: 58397
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_get_IsCreated_m84E242F32B6D1455F145B437BD5BCE73C82435CB (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -2494,7 +2494,7 @@ IL2CPP_EXTERN_C  bool NativeLottieAnimation_get_IsCreated_m84E242F32B6D1455F145B
 	_returnValue = NativeLottieAnimation_get_IsCreated_m84E242F32B6D1455F145B437BD5BCE73C82435CB(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58382
+// Method Definition Index: 58398
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B NativeLottieAnimation_get_Invalid_mAB4E4F56C6D66CCD5C5C7B053684260FB4E36DF1 (const RuntimeMethod* method) 
 {
 	NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B V_0;
@@ -2506,7 +2506,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NativeLottieAnimation_t649C3D38A6579AEADBFB08
 		return L_0;
 	}
 }
-// Method Definition Index: 58383
+// Method Definition Index: 58399
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation__ctor_m41F3A1647BA0FE6A70FE2F8060FD6DA9DF6CD2DC (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_path, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2533,7 +2533,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation__ctor_m41F3A1647BA0FE6A70FE2F8060FD6
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation__ctor_m41F3A1647BA0FE6A70FE2F8060FD6DA9DF6CD2DC(_thisAdjusted, ___0_path, method);
 }
-// Method Definition Index: 58384
+// Method Definition Index: 58400
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation__ctor_mBE24DE4F83031DAD24C6331CC8CD39335A6AFC7A (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_data, String_t* ___1_key, String_t* ___2_resourcePath, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2562,7 +2562,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation__ctor_mBE24DE4F83031DAD24C6331CC8CD3
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation__ctor_mBE24DE4F83031DAD24C6331CC8CD39335A6AFC7A(_thisAdjusted, ___0_data, ___1_key, ___2_resourcePath, method);
 }
-// Method Definition Index: 58385
+// Method Definition Index: 58401
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation__ctor_mAF32829069CA47A7CC887E3D2D689946694738B3 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, intptr_t ___0_nativeHandle, const RuntimeMethod* method) 
 {
 	{
@@ -2580,7 +2580,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation__ctor_mAF32829069CA47A7CC887E3D2D689
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation__ctor_mAF32829069CA47A7CC887E3D2D689946694738B3(_thisAdjusted, ___0_nativeHandle, method);
 }
-// Method Definition Index: 58386
+// Method Definition Index: 58402
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_Equals_m4F6400EE2DA5E20193B961E505F4E1AC53AA3104 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, RuntimeObject* ___0_obj, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2626,7 +2626,7 @@ IL2CPP_EXTERN_C  bool NativeLottieAnimation_Equals_m4F6400EE2DA5E20193B961E505F4
 	_returnValue = NativeLottieAnimation_Equals_m4F6400EE2DA5E20193B961E505F4E1AC53AA3104(_thisAdjusted, ___0_obj, method);
 	return _returnValue;
 }
-// Method Definition Index: 58387
+// Method Definition Index: 58403
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t NativeLottieAnimation_GetHashCode_m72FFEFC801CF426FE7D65169F48906DB09CC5E33 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	intptr_t V_0;
@@ -2650,7 +2650,7 @@ IL2CPP_EXTERN_C  int32_t NativeLottieAnimation_GetHashCode_m72FFEFC801CF426FE7D6
 	_returnValue = NativeLottieAnimation_GetHashCode_m72FFEFC801CF426FE7D65169F48906DB09CC5E33(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58388
+// Method Definition Index: 58404
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_op_Equality_m929F2C68D8565C562DE70B4E32876D4DEF7508DD (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_a, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___1_b, const RuntimeMethod* method) 
 {
 	{
@@ -2664,7 +2664,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_op_Equality_m929F2
 		return L_2;
 	}
 }
-// Method Definition Index: 58389
+// Method Definition Index: 58405
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_op_Inequality_m604B0EEB90FBB4EF61CFFF204D1F426E1D2BFBCF (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_a, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___1_b, const RuntimeMethod* method) 
 {
 	{
@@ -2678,7 +2678,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool NativeLottieAnimation_op_Inequality_m604
 		return L_2;
 	}
 }
-// Method Definition Index: 58390
+// Method Definition Index: 58406
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_Dispose_m709AB4931BF5823FCB35AE4585BEBE3E289BFDEA (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2719,7 +2719,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_Dispose_m709AB4931BF5823FCB35AE4585B
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_Dispose_m709AB4931BF5823FCB35AE4585BEBE3E289BFDEA(_thisAdjusted, method);
 }
-// Method Definition Index: 58391
+// Method Definition Index: 58407
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A NativeLottieAnimation_GetSize_mBD1128177CA6BA5EAD38D2F9E250C5FE5B2C0402 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2761,7 +2761,7 @@ IL2CPP_EXTERN_C  Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A NativeLott
 	_returnValue = NativeLottieAnimation_GetSize_mBD1128177CA6BA5EAD38D2F9E250C5FE5B2C0402(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58392
+// Method Definition Index: 58408
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double NativeLottieAnimation_GetDuration_m05F06B7F77F27046AFB79E79D650D00BC86734C5 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2791,7 +2791,7 @@ IL2CPP_EXTERN_C  double NativeLottieAnimation_GetDuration_m05F06B7F77F27046AFB79
 	_returnValue = NativeLottieAnimation_GetDuration_m05F06B7F77F27046AFB79E79D650D00BC86734C5(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58393
+// Method Definition Index: 58409
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t NativeLottieAnimation_GetTotalFrame_m7A04C75172C9E376D55EEF29889E1DED73BC98B7 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2823,7 +2823,7 @@ IL2CPP_EXTERN_C  uint32_t NativeLottieAnimation_GetTotalFrame_m7A04C75172C9E376D
 	_returnValue = NativeLottieAnimation_GetTotalFrame_m7A04C75172C9E376D55EEF29889E1DED73BC98B7(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58394
+// Method Definition Index: 58410
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double NativeLottieAnimation_GetFrameRate_mB6B1DF2BBEAA718737F5EE0C5373608D456440E7 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2853,7 +2853,7 @@ IL2CPP_EXTERN_C  double NativeLottieAnimation_GetFrameRate_mB6B1DF2BBEAA718737F5
 	_returnValue = NativeLottieAnimation_GetFrameRate_mB6B1DF2BBEAA718737F5EE0C5373608D456440E7(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58395
+// Method Definition Index: 58411
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t NativeLottieAnimation_GetFrameAtPos_m0040ED8FF41884182DDC53A9CCD9B534BFC7BDE3 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, float ___0_pos, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2886,7 +2886,7 @@ IL2CPP_EXTERN_C  uint32_t NativeLottieAnimation_GetFrameAtPos_m0040ED8FF41884182
 	_returnValue = NativeLottieAnimation_GetFrameAtPos_m0040ED8FF41884182DDC53A9CCD9B534BFC7BDE3(_thisAdjusted, ___0_pos, method);
 	return _returnValue;
 }
-// Method Definition Index: 58396
+// Method Definition Index: 58412
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E578FCF13* NativeLottieAnimation_RenderTree_m49FB36F4558438E807BDE704A35699060DA0B622 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -2919,7 +2919,7 @@ IL2CPP_EXTERN_C  LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E578FCF13* NativeLott
 	_returnValue = NativeLottieAnimation_RenderTree_m49FB36F4558438E807BDE704A35699060DA0B622(_thisAdjusted, ___0_frameNum, ___1_width, ___2_height, method);
 	return _returnValue;
 }
-// Method Definition Index: 58397
+// Method Definition Index: 58413
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_Render_m75B95CFD064020F52A0D80CFF0D1108EE2C3A0F1 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, bool ___4_keepAspectRatio, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3031,7 +3031,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_Render_m75B95CFD064020F52A0D80CFF0D1
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_Render_m75B95CFD064020F52A0D80CFF0D1108EE2C3A0F1(_thisAdjusted, ___0_frameNum, ___1_width, ___2_height, ___3_buffer, ___4_keepAspectRatio, method);
 }
-// Method Definition Index: 58398
+// Method Definition Index: 58414
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_RenderAsync_m22942CC43C438C8AEBCA395E8456CCF1E4ACF3C9 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, uint32_t ___0_frameNum, uint32_t ___1_width, uint32_t ___2_height, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___3_buffer, bool ___4_keepAspectRatio, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3143,7 +3143,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_RenderAsync_m22942CC43C438C8AEBCA395
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_RenderAsync_m22942CC43C438C8AEBCA395E8456CCF1E4ACF3C9(_thisAdjusted, ___0_frameNum, ___1_width, ___2_height, ___3_buffer, ___4_keepAspectRatio, method);
 }
-// Method Definition Index: 58399
+// Method Definition Index: 58415
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_RenderAsyncFlush_m0CCD829BB0390A19F014FCF4039C074335ECAA33 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3172,7 +3172,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_RenderAsyncFlush_m0CCD829BB0390A19F0
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_RenderAsyncFlush_m0CCD829BB0390A19F014FCF4039C074335ECAA33(_thisAdjusted, method);
 }
-// Method Definition Index: 58400
+// Method Definition Index: 58416
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BEA71CE73* NativeLottieAnimation_GetMarkerList_mB7E171BA4007E626AAF2E0113E9DE20AF2961427 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3202,7 +3202,7 @@ IL2CPP_EXTERN_C  MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BEA71CE73* NativeLot
 	_returnValue = NativeLottieAnimation_GetMarkerList_mB7E171BA4007E626AAF2E0113E9DE20AF2961427(_thisAdjusted, method);
 	return _returnValue;
 }
-// Method Definition Index: 58401
+// Method Definition Index: 58417
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetFillColorOverride_mF778711C2B593B2D9D116830DFA2EB53F3EAB4F5 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3221,7 +3221,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetFillColorOverride_mF778711C2B593B
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetFillColorOverride_mF778711C2B593B2D9D116830DFA2EB53F3EAB4F5(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58402
+// Method Definition Index: 58418
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetFillOpacityOverride_mC7AC93E3EDCE7B14475172BF377059CF0C37EF8E (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3240,7 +3240,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetFillOpacityOverride_mC7AC93E3EDCE
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetFillOpacityOverride_mC7AC93E3EDCE7B14475172BF377059CF0C37EF8E(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58403
+// Method Definition Index: 58419
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetStrokeColorOverride_m5EBA1D738FADC5BC7CD259314CEB564D6F1A04A3 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3259,7 +3259,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetStrokeColorOverride_m5EBA1D738FAD
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetStrokeColorOverride_m5EBA1D738FADC5BC7CD259314CEB564D6F1A04A3(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58404
+// Method Definition Index: 58420
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetStrokeOpacityOverride_m8DB14BB21793C5242891666DBD1FDA682CC053AD (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3278,7 +3278,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetStrokeOpacityOverride_m8DB14BB217
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetStrokeOpacityOverride_m8DB14BB21793C5242891666DBD1FDA682CC053AD(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58405
+// Method Definition Index: 58421
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetStrokeWidthOverride_mD6927B3F2892175CF28A3A0B8EA26871D389DE8E (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3297,7 +3297,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetStrokeWidthOverride_mD6927B3F2892
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetStrokeWidthOverride_mD6927B3F2892175CF28A3A0B8EA26871D389DE8E(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58406
+// Method Definition Index: 58422
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetTransformPositionOverride_mA85716DF647B7ACF6A73F884B766FD8D0034DEB8 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3316,7 +3316,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetTransformPositionOverride_mA85716
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetTransformPositionOverride_mA85716DF647B7ACF6A73F884B766FD8D0034DEB8(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58407
+// Method Definition Index: 58423
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetTransformScaleOverride_m381F71A0320D52234FBB5B6FA3280400AF41AD2F (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3335,7 +3335,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetTransformScaleOverride_m381F71A03
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetTransformScaleOverride_m381F71A0320D52234FBB5B6FA3280400AF41AD2F(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58408
+// Method Definition Index: 58424
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetTransformRotationOverride_mF6CB7D6841B9AA53E38C8D6DFB1125CCFB1D9367 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, String_t* ___0_keypath, float ___1_value, const RuntimeMethod* method) 
 {
 	{
@@ -3354,7 +3354,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetTransformRotationOverride_mF6CB7D
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetTransformRotationOverride_mF6CB7D6841B9AA53E38C8D6DFB1125CCFB1D9367(_thisAdjusted, ___0_keypath, ___1_value, method);
 }
-// Method Definition Index: 58409
+// Method Definition Index: 58425
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetPropertyOverride_m6316441A000E43097CF5E5B500E9B4E641A702A4 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, int32_t ___0_type, String_t* ___1_keypath, float ___2_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3385,7 +3385,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetPropertyOverride_m6316441A000E430
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetPropertyOverride_m6316441A000E43097CF5E5B500E9B4E641A702A4(_thisAdjusted, ___0_type, ___1_keypath, ___2_value, method);
 }
-// Method Definition Index: 58410
+// Method Definition Index: 58426
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetPropertyOverride_m19DBE8AC02E42BFE7A5C090B4E8C3EBA13BADDB1 (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, int32_t ___0_type, String_t* ___1_keypath, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___2_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3419,7 +3419,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetPropertyOverride_m19DBE8AC02E42BF
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetPropertyOverride_m19DBE8AC02E42BFE7A5C090B4E8C3EBA13BADDB1(_thisAdjusted, ___0_type, ___1_keypath, ___2_value, method);
 }
-// Method Definition Index: 58411
+// Method Definition Index: 58427
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_SetPropertyOverride_mBFE61FADC82F28931EE9E05A59BA7936653046FB (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, int32_t ___0_type, String_t* ___1_keypath, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___2_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3455,7 +3455,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_SetPropertyOverride_mBFE61FADC82F289
 	_thisAdjusted = reinterpret_cast<NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B*>(__this + _offset);
 	NativeLottieAnimation_SetPropertyOverride_mBFE61FADC82F28931EE9E05A59BA7936653046FB(_thisAdjusted, ___0_type, ___1_keypath, ___2_value, method);
 }
-// Method Definition Index: 58412
+// Method Definition Index: 58428
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeLottieAnimation_ThrowIfNotCreated_mBDC6D80392C021BFE4D2AB43830EE92150EB6ACE (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3495,7 +3495,7 @@ IL2CPP_EXTERN_C  void NativeLottieAnimation_ThrowIfNotCreated_mBDC6D80392C021BFE
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58413
+// Method Definition Index: 58429
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4A700* ImageLottiePlayer_get_mainTexture_m789F52E8433228BEF8D0B8D6FBD37FD555C7D8B7 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3504,7 +3504,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Texture_t791CBB51219779964E0E8A2ED7C1AA5F92A4
 		return L_0;
 	}
 }
-// Method Definition Index: 58414
+// Method Definition Index: 58430
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ImageLottiePlayer_get_IsPlaying_mC120F734C9028EC77B0619154D733DAF2D1CF90C (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3513,7 +3513,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ImageLottiePlayer_get_IsPlaying_mC120F73
 		return (bool)((!(((RuntimeObject*)(Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B*)L_0) <= ((RuntimeObject*)(RuntimeObject*)NULL)))? 1 : 0);
 	}
 }
-// Method Definition Index: 58415
+// Method Definition Index: 58431
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnEnable_m776222E42E12D22F3ADE5A8541FBBADA9B0E684C (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3554,7 +3554,7 @@ IL_0022:
 		return;
 	}
 }
-// Method Definition Index: 58416
+// Method Definition Index: 58432
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Start_m9B289DBDB9F5CAD70253ED4E37FDACD0A6C5F618 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3593,7 +3593,7 @@ IL_001c:
 		return;
 	}
 }
-// Method Definition Index: 58417
+// Method Definition Index: 58433
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnDisable_mC492EF22A025DE9E7E477C9D529C3DD36A169B6F (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3605,7 +3605,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnDisable_mC492EF22A02
 		return;
 	}
 }
-// Method Definition Index: 58418
+// Method Definition Index: 58434
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnDestroy_m4356788522B750BFC1FF244D51F4AAFB1E3051D1 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3630,7 +3630,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnDestroy_m4356788522B
 		return;
 	}
 }
-// Method Definition Index: 58419
+// Method Definition Index: 58435
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_OnPopulateMesh_mE996D433048FE703369188D1BD21249DF743C90E (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, VertexHelper_tB905FCB02AE67CBEE5F265FE37A5938FC5D136FE* ___0_vh, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3778,7 +3778,7 @@ IL_003a:
 		return;
 	}
 }
-// Method Definition Index: 58420
+// Method Definition Index: 58436
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_SetAnimationAsset_mA4028D45618DD4839F4CC006078489CF5A630182 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* ___0_animationAsset, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3818,7 +3818,7 @@ IL_000f:
 		return;
 	}
 }
-// Method Definition Index: 58421
+// Method Definition Index: 58437
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_SetAnimation_mE15F637145C0C4B930F91FF1EFBC83BFFFF2AABF (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_animation, const RuntimeMethod* method) 
 {
 	{
@@ -3851,7 +3851,7 @@ IL_000f:
 		return;
 	}
 }
-// Method Definition Index: 58422
+// Method Definition Index: 58438
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Play_m06EC5F24ED38AD06BAB80779E6010ED8D6CBED21 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3861,7 +3861,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Play_m06EC5F24ED38AD06
 		return;
 	}
 }
-// Method Definition Index: 58423
+// Method Definition Index: 58439
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Play_m3EBCB14819AEC8C2E25424DF164A84030B8E32B0 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, float ___0_startTime, const RuntimeMethod* method) 
 {
 	{
@@ -3876,7 +3876,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Play_m3EBCB14819AEC8C2
 		return;
 	}
 }
-// Method Definition Index: 58424
+// Method Definition Index: 58440
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Pause_m57FEFE95334C38573B299049A197F390510C7A5B (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -3902,7 +3902,7 @@ IL_001b:
 		return;
 	}
 }
-// Method Definition Index: 58425
+// Method Definition Index: 58441
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_Unpause_m25EB7C0720B7CD8BE24FF905D9F3F8710C7653B4 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3945,7 +3945,7 @@ IL_0027:
 		return;
 	}
 }
-// Method Definition Index: 58426
+// Method Definition Index: 58442
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ImageLottiePlayer_PlayRoutine_mC7EC2C220FC8E97A4A1C8416DD0ED10B91B820F1 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -3964,7 +3964,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ImageLottiePlayer_PlayRoutine_
 		return L_1;
 	}
 }
-// Method Definition Index: 58427
+// Method Definition Index: 58443
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_RecreateAnimationIfNeeded_m8160C5909DD0655BDF98ED8576DB49007AFB216E (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4044,7 +4044,7 @@ IL_0058:
 		return;
 	}
 }
-// Method Definition Index: 58428
+// Method Definition Index: 58444
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_RecreateAnimationIfNeeded_mEFAD85474C5D699DF76895845FDF94296B42CC47 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B ___0_newAnimation, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4170,7 +4170,7 @@ IL_009f:
 		return;
 	}
 }
-// Method Definition Index: 58429
+// Method Definition Index: 58445
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_RenderNow_m2EB24CC1B4DAD0F2A286CA2501CB4B1B1E153B68 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4195,7 +4195,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_RenderNow_m2EB24CC1B4D
 		return;
 	}
 }
-// Method Definition Index: 58430
+// Method Definition Index: 58446
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_ScheduleRenderJob_mFB1B531C5B2EA02D98BF2114466CA12D13714FE2 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, uint32_t ___0_frame, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4222,7 +4222,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_ScheduleRenderJob_mFB1
 		return;
 	}
 }
-// Method Definition Index: 58431
+// Method Definition Index: 58447
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_CompleteRenderJob_m5CA1527B1DFA54D794697A67D1B86D2EEF2EDE4F (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4240,7 +4240,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_CompleteRenderJob_m5CA
 		return;
 	}
 }
-// Method Definition Index: 58432
+// Method Definition Index: 58448
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_DiscardRenderJob_m0AB8AC727C885BF19A829BA828BC47AB4CD0EFF1 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4251,7 +4251,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer_DiscardRenderJob_m0AB8
 		return;
 	}
 }
-// Method Definition Index: 58433
+// Method Definition Index: 58449
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer__ctor_mFDE7293B7A43C4B79188CB7DDB1D58C84149BAF2 (ImageLottiePlayer_t2A3211CF4E29DE05CD0263233EB3C3A7896CB9DF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4277,7 +4277,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ImageLottiePlayer__ctor_mFDE7293B7A43C4B
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58434
+// Method Definition Index: 58450
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPlayRoutineU3Ed__29__ctor_mA947685BC13167CBE54359B20CBD573D4D49A5CE (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -4287,14 +4287,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPlayRoutineU3Ed__29__ctor_mA947685BC1
 		return;
 	}
 }
-// Method Definition Index: 58435
+// Method Definition Index: 58451
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPlayRoutineU3Ed__29_System_IDisposable_Dispose_m3A29A2BDB9EB04C9A84575247CE7E7226B62CD01 (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 58436
+// Method Definition Index: 58452
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CPlayRoutineU3Ed__29_MoveNext_m936DD70F25BFDF3E65A1AFABB087AFCA85C04B10 (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4458,7 +4458,7 @@ IL_00ad:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 58437
+// Method Definition Index: 58453
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPlayRoutineU3Ed__29_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4988474F4251FE2AA6B4B4CDABB04B7074129C59 (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4466,7 +4466,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPlayRoutineU3Ed__29_System_
 		return L_0;
 	}
 }
-// Method Definition Index: 58438
+// Method Definition Index: 58454
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPlayRoutineU3Ed__29_System_Collections_IEnumerator_Reset_mE393B20B96A834A7521B120691F349D66DF84298 (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4475,7 +4475,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CPlayRoutineU3Ed__29_System_Collection
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CPlayRoutineU3Ed__29_System_Collections_IEnumerator_Reset_mE393B20B96A834A7521B120691F349D66DF84298_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 58439
+// Method Definition Index: 58455
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPlayRoutineU3Ed__29_System_Collections_IEnumerator_get_Current_mF17301F935F3E29EC7E8AC11D7E178FF95187DC7 (U3CPlayRoutineU3Ed__29_t16469341D851529C2D81E67C6C6BEBC836099D46* __this, const RuntimeMethod* method) 
 {
 	{
@@ -4499,7 +4499,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CPlayRoutineU3Ed__29_System_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58440
+// Method Definition Index: 58456
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MathExtensions_GetAspect_m9D1AD65D4EAE733EC7818B6150F641F67BB3438B (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_vector, const RuntimeMethod* method) 
 {
 	{
@@ -4511,7 +4511,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MathExtensions_GetAspect_m9D1AD65D4EAE7
 		return ((float)(L_1/L_3));
 	}
 }
-// Method Definition Index: 58441
+// Method Definition Index: 58457
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MathExtensions_GetAspect_mE9F5143B01E0A8610BC91E3EA755282EB0FF2ECB (Vector2Int_t69B2886EBAB732D9B880565E18E7568F3DE0CE6A ___0_vector, const RuntimeMethod* method) 
 {
 	{
@@ -4523,7 +4523,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float MathExtensions_GetAspect_mE9F5143B01E0A
 		return ((float)(((float)L_0)/((float)L_1)));
 	}
 }
-// Method Definition Index: 58442
+// Method Definition Index: 58458
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 MathExtensions_WithX_m3EA3177F34E3F7BC7E8DD2CC677AB5C3B4101EA5 (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_vector, float ___1_x, const RuntimeMethod* method) 
 {
 	{
@@ -4537,7 +4537,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D
 		return L_3;
 	}
 }
-// Method Definition Index: 58443
+// Method Definition Index: 58459
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 MathExtensions_WithY_m69283569B26F9329B2F2589823EF8253B2B9BA3A (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_vector, float ___1_y, const RuntimeMethod* method) 
 {
 	{
@@ -4551,7 +4551,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D
 		return L_3;
 	}
 }
-// Method Definition Index: 58444
+// Method Definition Index: 58460
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 MathExtensions_AspectFit_m93878E8E5740F6638D291FC1FC98341D4A749701 (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_vector, float ___1_aspect, const RuntimeMethod* method) 
 {
 	float V_0 = 0.0f;
@@ -4624,7 +4624,7 @@ IL_0045:
 		return L_18;
 	}
 }
-// Method Definition Index: 58445
+// Method Definition Index: 58461
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D MathExtensions_AspectFit_m7F90E48F19F843CC98333C6421F9D7B44AE89B95 (Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D ___0_rect, float ___1_aspect, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4694,7 +4694,7 @@ IL_0018:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58446
+// Method Definition Index: 58462
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t ModelCacheSize_get_CacheSize_m8C61AAE16A173E796A694F10AE1FF8783B015886 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4710,7 +4710,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t ModelCacheSize_get_CacheSize_m8C61AA
 		return L_0;
 	}
 }
-// Method Definition Index: 58447
+// Method Definition Index: 58463
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ModelCacheSize_set_CacheSize_m803D39B36907573563C6F400F4CBE6C889A20D5A (uint32_t ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4733,7 +4733,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ModelCacheSize_set_CacheSize_m803D39B369
 		return;
 	}
 }
-// Method Definition Index: 58448
+// Method Definition Index: 58464
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ModelCacheSize__cctor_m2C54B9F391B0E404EA4338CEE0244AE63A5AA7A9 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4810,7 +4810,7 @@ IL2CPP_EXTERN_C void Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891_marshal_com
 IL2CPP_EXTERN_C void Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891_marshal_com_cleanup(Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891_marshaled_com& marshaled)
 {
 }
-// Method Definition Index: 58449
+// Method Definition Index: 58465
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Scope__ctor_m7AA85E73DEF90E8DA931B456D78C91BC72134ABF (Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891* __this, uint32_t ___0_cacheSize, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -4843,7 +4843,7 @@ IL2CPP_EXTERN_C  void Scope__ctor_m7AA85E73DEF90E8DA931B456D78C91BC72134ABF_Adju
 	_thisAdjusted = reinterpret_cast<Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891*>(__this + _offset);
 	Scope__ctor_m7AA85E73DEF90E8DA931B456D78C91BC72134ABF(_thisAdjusted, ___0_cacheSize, method);
 }
-// Method Definition Index: 58450
+// Method Definition Index: 58466
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Scope_Dispose_mCB3D3346C806AF7873D20734CEEAFFA651EE6B6F (Scope_t06BAA88D0ADEF9FBF2A62364D2441510E25E9891* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5062,7 +5062,7 @@ IL2CPP_EXTERN_C  void Scope_Dispose_mCB3D3346C806AF7873D20734CEEAFFA651EE6B6F_Ad
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 58451
+// Method Definition Index: 58467
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t RLottieCApi_lottie_animation_from_file_m9C39D79CA5E975B1B40624951BA0F4120BA533B7 (String_t* ___0_path, const RuntimeMethod* method) 
 {
 	typedef intptr_t (DEFAULT_CALL *PInvokeFunc) (char*);
@@ -5077,7 +5077,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t RLottieCApi_lottie_animation_from_fi
 
 	return returnValue;
 }
-// Method Definition Index: 58452
+// Method Definition Index: 58468
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t RLottieCApi_lottie_animation_from_data_m5FA0B93609360ABE2A275804C8625CF6FCA53830 (String_t* ___0_data, String_t* ___1_key, String_t* ___2_resourcePath, const RuntimeMethod* method) 
 {
 	typedef intptr_t (DEFAULT_CALL *PInvokeFunc) (char*, char*, char*);
@@ -5104,7 +5104,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR intptr_t RLottieCApi_lottie_animation_from_da
 
 	return returnValue;
 }
-// Method Definition Index: 58453
+// Method Definition Index: 58469
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_destroy_m0C02688D159583BE46C8566CECCF5AD8CCEE3B88 (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5112,7 +5112,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_destroy_m0C
 	reinterpret_cast<PInvokeFunc>(lottie_animation_destroy)(___0_animation);
 
 }
-// Method Definition Index: 58454
+// Method Definition Index: 58470
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_get_size_mA322F46CA7DD3CECEA125B09397F1F67EA9012B7 (intptr_t ___0_animation, uintptr_t* ___1_width, uintptr_t* ___2_height, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, uintptr_t*, uintptr_t*);
@@ -5120,7 +5120,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_get_size_mA
 	reinterpret_cast<PInvokeFunc>(lottie_animation_get_size)(___0_animation, ___1_width, ___2_height);
 
 }
-// Method Definition Index: 58455
+// Method Definition Index: 58471
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double RLottieCApi_lottie_animation_get_duration_m4FA4F4E930CD9A49EC3E40145B73AB531D7C7446 (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef double (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5129,7 +5129,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double RLottieCApi_lottie_animation_get_durat
 
 	return returnValue;
 }
-// Method Definition Index: 58456
+// Method Definition Index: 58472
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uintptr_t RLottieCApi_lottie_animation_get_totalframe_m315AC94E59A1E606328DAA429F948317E633E04E (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef uintptr_t (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5138,7 +5138,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uintptr_t RLottieCApi_lottie_animation_get_to
 
 	return returnValue;
 }
-// Method Definition Index: 58457
+// Method Definition Index: 58473
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double RLottieCApi_lottie_animation_get_framerate_m4456943B65A01443CEBAB0CFFF3D8BCF60191525 (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef double (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5147,7 +5147,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR double RLottieCApi_lottie_animation_get_frame
 
 	return returnValue;
 }
-// Method Definition Index: 58458
+// Method Definition Index: 58474
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E578FCF13* RLottieCApi_lottie_animation_render_tree_m84D09240482D624A0A19478781FEBDEF8A488276 (intptr_t ___0_animation, uintptr_t ___1_frame_num, uintptr_t ___2_width, uintptr_t ___3_height, const RuntimeMethod* method) 
 {
 	typedef LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E578FCF13* (DEFAULT_CALL *PInvokeFunc) (intptr_t, uintptr_t, uintptr_t, uintptr_t);
@@ -5156,7 +5156,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR LayerNode_tB60BD76C04EA3E0A9F16F141943DB96E57
 
 	return returnValue;
 }
-// Method Definition Index: 58459
+// Method Definition Index: 58475
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uintptr_t RLottieCApi_lottie_animation_get_frame_at_pos_m4DE7648F57B7C36A4086B59E6F7E54C1C062D646 (intptr_t ___0_animation, float ___1_pos, const RuntimeMethod* method) 
 {
 	typedef uintptr_t (DEFAULT_CALL *PInvokeFunc) (intptr_t, float);
@@ -5165,7 +5165,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uintptr_t RLottieCApi_lottie_animation_get_fr
 
 	return returnValue;
 }
-// Method Definition Index: 58460
+// Method Definition Index: 58476
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_render_aspect_m4B279335C715663A1E8E0B261B76890905F589A1 (intptr_t ___0_animation, uintptr_t ___1_frame_num, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___2_buffer, uintptr_t ___3_width, uintptr_t ___4_height, uintptr_t ___5_bytes_per_line, int32_t ___6_keepAspect, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, uintptr_t, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B*, uintptr_t, uintptr_t, uintptr_t, int32_t);
@@ -5173,7 +5173,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_render_aspe
 	reinterpret_cast<PInvokeFunc>(lottie_animation_render_aspect)(___0_animation, ___1_frame_num, ___2_buffer, ___3_width, ___4_height, ___5_bytes_per_line, ___6_keepAspect);
 
 }
-// Method Definition Index: 58461
+// Method Definition Index: 58477
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_render_async_aspect_m6F05B0BFDDD8BE045096EAD19BE6CE4C6EC0636C (intptr_t ___0_animation, uintptr_t ___1_frame_num, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* ___2_buffer, uintptr_t ___3_width, uintptr_t ___4_height, uintptr_t ___5_bytes_per_line, int32_t ___6_keepAspect, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, uintptr_t, Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B*, uintptr_t, uintptr_t, uintptr_t, int32_t);
@@ -5181,7 +5181,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_render_asyn
 	reinterpret_cast<PInvokeFunc>(lottie_animation_render_async_aspect)(___0_animation, ___1_frame_num, ___2_buffer, ___3_width, ___4_height, ___5_bytes_per_line, ___6_keepAspect);
 
 }
-// Method Definition Index: 58462
+// Method Definition Index: 58478
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* RLottieCApi_lottie_animation_render_flush_m760F7360F8E7A6109D99BCC9D55FB58A02DE0C33 (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B* (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5190,7 +5190,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color32_t73C5004937BF5BB8AD55323D51AAA40A898E
 
 	return returnValue;
 }
-// Method Definition Index: 58463
+// Method Definition Index: 58479
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_override_m5C89464445816F053C9B34D1717508152A5E9EC6 (intptr_t ___0_animation, int32_t ___1_type, String_t* ___2_keypath, double ___3_value, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, int32_t, char*, double);
@@ -5204,7 +5204,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_ov
 	____2_keypath_marshaled = NULL;
 
 }
-// Method Definition Index: 58464
+// Method Definition Index: 58480
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_override_mBE1C5AAF0FDCCF34D49BC99363CDA8D5F59A5879 (intptr_t ___0_animation, int32_t ___1_type, String_t* ___2_keypath, double ___3_value1, double ___4_value2, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, int32_t, char*, double, double);
@@ -5218,7 +5218,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_ov
 	____2_keypath_marshaled = NULL;
 
 }
-// Method Definition Index: 58465
+// Method Definition Index: 58481
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_override_m5B798222A6179F8ED7C1A226692D765FEA8CE4BE (intptr_t ___0_animation, int32_t ___1_type, String_t* ___2_keypath, double ___3_value1, double ___4_value2, double ___5_value3, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (intptr_t, int32_t, char*, double, double, double);
@@ -5232,7 +5232,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_animation_property_ov
 	____2_keypath_marshaled = NULL;
 
 }
-// Method Definition Index: 58466
+// Method Definition Index: 58482
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BEA71CE73* RLottieCApi_lottie_animation_get_markerlist_m96B6F37D273A404745514E0F2EB30EE9512BBB79 (intptr_t ___0_animation, const RuntimeMethod* method) 
 {
 	typedef MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BEA71CE73* (DEFAULT_CALL *PInvokeFunc) (intptr_t);
@@ -5241,7 +5241,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MarkerList_tFC3F982FDA106E9F6BD0BEE2FA09260BE
 
 	return returnValue;
 }
-// Method Definition Index: 58467
+// Method Definition Index: 58483
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_configure_model_cache_size_m1E4FAD59A124E406F5126520D95B5068CD7D678B (uintptr_t ___0_cacheSize, const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) (uintptr_t);
@@ -5249,7 +5249,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_configure_model_cache
 	reinterpret_cast<PInvokeFunc>(lottie_configure_model_cache_size)(___0_cacheSize);
 
 }
-// Method Definition Index: 58468
+// Method Definition Index: 58484
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_init_m056037B5313E14DC5FA447835F5581C5EC4440D2 (const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) ();
@@ -5257,7 +5257,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_init_m056037B5313E14D
 	reinterpret_cast<PInvokeFunc>(lottie_init)();
 
 }
-// Method Definition Index: 58469
+// Method Definition Index: 58485
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_shutdown_m1A365718213F5DFAD767522C521A7B821C6F4D18 (const RuntimeMethod* method) 
 {
 	typedef void (DEFAULT_CALL *PInvokeFunc) ();
@@ -5265,7 +5265,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi_lottie_shutdown_m1A365718213
 	reinterpret_cast<PInvokeFunc>(lottie_shutdown)();
 
 }
-// Method Definition Index: 58470
+// Method Definition Index: 58486
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi__cctor_m03CD529EB8AA1B3E31D7DB1AB2595F1C592091ED (const RuntimeMethod* method) 
 {
 	{
@@ -5302,7 +5302,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RLottieCApi__cctor_m03CD529EB8AA1B3E31D7
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 58362
+// Method Definition Index: 58378
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_get_Json_mD63768D5168E44BD08A2CF601889E56E0CA01D25_inline (LottieAnimationAsset_t8E8155F9EF83312BBA21D20E8B2DC1AA766A1A41* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5311,7 +5311,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* LottieAnimationAsset_ge
 		return L_0;
 	}
 }
-// Method Definition Index: 58379
+// Method Definition Index: 58395
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR intptr_t NativeLottieAnimation_get_NativeHandle_m59B3FF5A31A693CDDC695EBDED5B03C1C71F0BEE_inline (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5320,7 +5320,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR intptr_t NativeLottieAnimation_ge
 		return L_0;
 	}
 }
-// Method Definition Index: 58380
+// Method Definition Index: 58396
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void NativeLottieAnimation_set_NativeHandle_m724382F01E99807CB230869EC28EEC3992F7CF17_inline (NativeLottieAnimation_t649C3D38A6579AEADBFB08F563D1D11CB4C05C5B* __this, intptr_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -5614,7 +5614,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Rect_set_size_m346E4F7077E5A
 		return;
 	}
 }
-// Method Definition Index: 58446
+// Method Definition Index: 58462
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t ModelCacheSize_get_CacheSize_m8C61AAE16A173E796A694F10AE1FF8783B015886_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;

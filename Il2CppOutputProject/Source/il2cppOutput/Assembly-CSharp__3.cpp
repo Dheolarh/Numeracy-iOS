@@ -185,6 +185,7 @@ struct PremadeRowDataU5BU5D_tFB00D9E5725F2CC3DD33691CC015768AE8E01600;
 struct RaycastResultU5BU5D_tEAF6B3C3088179304676571328CBB001D8CECBC7;
 struct RecallAnswerSlotU5BU5D_t4CBCA21E9C60401C28F2AA4B00D8ABADAD715D37;
 struct RichTextTagAttributeU5BU5D_t5816316EFD8F59DBC30B9F88E15828C564E47B6D;
+struct ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7;
 struct SecondarySpriteTextureU5BU5D_tC322D73EA4B9A8B747013A3584DEFEAFC0D87192;
 struct SelectableU5BU5D_t4160E135F02A40F75A63F787D36F31FEC6FE91A9;
 struct SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C;
@@ -333,8 +334,8 @@ struct U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427
 struct U3CU3Ec__DisplayClass4_0_t6243D1AB385239DF431886CCCC7D29ACFA29C118;
 struct U3CU3Ec__DisplayClass13_0_t014568513B14ED640A536BE41A1B53F3B94C56AB;
 struct U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531;
-struct U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B;
-struct U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6;
+struct U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2;
+struct U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191;
 struct ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240;
 struct U3CU3Ec__DisplayClass6_0_t0F0E3C7DE45C5BA661AB678DB67059869D195C48;
 struct U3CU3Ec__DisplayClass8_0_t372979FBAEBF59C873DDA41FBED7B5800EF4579E;
@@ -413,17 +414,17 @@ IL2CPP_EXTERN_C RuntimeClass* TweenCallback_t7C8B8A38E7B30905FF1B83C943256EF2361
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass13_0_t014568513B14ED640A536BE41A1B53F3B94C56AB_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass29_0_t295642598E9388E82F9CB290F2D3601206C02657_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass42_0_tB1DF4D63DC6D070756E33294450B73C58E6ECBD8_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass4_0_t6243D1AB385239DF431886CCCC7D29ACFA29C118_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass53_0_t9302CE9BDB3D3813E8F55885C2CDDC9273266A73_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass6_0_t0F0E3C7DE45C5BA661AB678DB67059869D195C48_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass8_0_t372979FBAEBF59C873DDA41FBED7B5800EF4579E_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass8_0_t9AEBB77B10C83E19CDFCC8C7A17E180579EB346B_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec__DisplayClass8_1_tF829BE9D78B4281EEE79A9E9200573AE332F18C7_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CU3Ec_tEF7FB3FFB11D4776FEF9CABA5EF9F22F738023C4_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var;
@@ -513,6 +514,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisAnswer
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisLetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D_mC5064BADFDDFE1F4BF1C9CCBD9EE3930E4EC99F5_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisOutline_t9CF146E077DC65F441EDEC463AA6710374108084_m7FDFA9B50A317D2B49A104AD3F72DDEC94AEE782_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisRecallAnswerSlot_tA926DDA1AF1E2E342C7CFFC56934BC3C9A79F2BD_mF76404D8BE366ACAEDB2E1A51C3FDD5DAA395FBD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_m08120770417357CAFB315A3E7F85353EB6C1CA53_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponentsInChildren_TisTransform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1_mD80D5A6BA73EE3066CFCE2345C3F4B9FC2E28837_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponents_TisOutline_t9CF146E077DC65F441EDEC463AA6710374108084_mBEAA110DE11E436AC14719B470AA23A2BE22C335_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* CountableItemHandler_HandleClick_m2A88D5D2DC500D80814E1314E59079DC75A85807_RuntimeMethod_var;
@@ -682,21 +684,21 @@ IL2CPP_EXTERN_C const RuntimeMethod* String_Join_TisInt32_t680FF22E76F6EFAD43751
 IL2CPP_EXTERN_C const RuntimeMethod* TweenSettingsExtensions_OnComplete_TisTweenerCore_3_tCD82DFC45FB71C681FA8659EA63A7D7D16BFFE77_m5D6178C188AE17452C826243FDD0E412B6304A3F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* TweenSettingsExtensions_SetEase_TisTweenerCore_3_tCD82DFC45FB71C681FA8659EA63A7D7D16BFFE77_mEACEF6A6E654DEDDB2620CD0BE1DA29C023F4E2F_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CLineReverseCoroutineU3Ed__53_System_Collections_IEnumerator_Reset_m67E14D805312178AF72B172A9570BDA645848E6C_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CGenerateRoundU3Eb__40_0_mF338450792769E528C65939EAA9A0786178B4A95_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CGenerateRoundU3Eb__45_0_mA705B80A548C801A3BB87C26819EC354FFD8B571_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec_U3CSpawnAnswerCardsU3Eb__21_0_m228C35E853713AEC2ED019915AA23EEDF5025BDD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass13_0_U3CPlayPopAnimationU3Eb__0_m665AEBE2A44F24F46CB24877D44C7CC6F1FEA08C_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass29_0_U3CAcceptedByZoneU3Eb__0_mAB598D9CAB70661C16A8F336C24105D96275B728_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass42_0_U3CAcceptedByZoneU3Eb__0_mCF9B69203DC1EB50A618AEBC6ED6488672982F21_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__0_m6AC9D7556A74C429EAD80764B298B1ABCF864206_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__1_mA6F947724584BA6A53A63E727035F908759770CD_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass4_0_U3CSetupU3Eb__0_mB3054527EC5A3437C088EDA0ACAB20DEF02E2DBF_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass53_0_U3CUpdateScrollLockForContainerU3Eb__0_m7BA5F6E3D0C98F3F288486BEBF5476EB5FC0700D_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass53_0_U3CUpdateScrollLockForContainerU3Eb__1_mD242C87606121DDA396CCC0786DF5A2615DA778A_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__0_mDCF42BEED882445C901183930EEF52374C83A1EC_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__1_mDF87574E017EE2CAFA15A2CD7B9B288A9595AA16_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass6_0_U3CSetupU3Eb__0_m20ECBF7377DA600AADBA73F47ED424C632E47F49_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass8_0_U3CSetupU3Eb__0_m670E0CED7F45E129AE89B6F3151E50963AF3B53C_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CU3Ec__DisplayClass8_1_U3CSetupU3Eb__1_mF3B6CD14ABDA465EBB3C50A448EA89EDB655F227_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* U3CUpdateScrollLockingRoutineU3Ed__47_System_Collections_IEnumerator_Reset_m61D8FFFCC9FF5CD47B14EB92A558023716A41277_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CUpdateScrollLockingRoutineU3Ed__51_System_Collections_IEnumerator_Reset_mC551F42470849CCC8D64659C96598F6AFE17D71B_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* U3CUpdateScrollLockingRoutineU3Ed__52_System_Collections_IEnumerator_Reset_m296B2D98BD9B0AAC04DC739F85BF2A8A57571249_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CUpdateScrollLockingRoutineU3Ed__60_System_Collections_IEnumerator_Reset_m1F93FDEA86CE785C1F65C5274D4105880E595490_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CWrongFeedbackCoroutineU3Ed__11_System_Collections_IEnumerator_Reset_m7DAA60F536BA9C63EA3A7739219391001F4B5A17_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* U3CWrongFeedbackCoroutineU3Ed__14_System_Collections_IEnumerator_Reset_m25F1861222EA7FAD8DFC12EB4EFB85C73585B066_RuntimeMethod_var;
@@ -721,6 +723,7 @@ struct LetterAnswerSlotU5BU5D_t953A82A01A1487C69CFDEAE8AB0C3BB499B2E37B;
 struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
 struct OutlineU5BU5D_tB50C8864690612D05A658CA73043DBEB27621C23;
 struct RecallAnswerSlotU5BU5D_t4CBCA21E9C60401C28F2AA4B00D8ABADAD715D37;
+struct ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7;
 struct TransformU5BU5D_tBB9C5F5686CAE82E3D97D43DF0F3D68ABF75EC24;
 
 IL2CPP_EXTERN_C_BEGIN
@@ -1065,11 +1068,11 @@ struct U3CU3Ec__DisplayClass4_0_t6243D1AB385239DF431886CCCC7D29ACFA29C118  : pub
 struct U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531  : public RuntimeObject
 {
 };
-struct U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B  : public RuntimeObject
+struct U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2  : public RuntimeObject
 {
 	ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___scrollRect;
 };
-struct U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6  : public RuntimeObject
+struct U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191  : public RuntimeObject
 {
 	int32_t ___U3CU3E1__state;
 	RuntimeObject* ___U3CU3E2__current;
@@ -2762,7 +2765,9 @@ struct CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4  : public M
 	List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* ____slots;
 	List_1_t0C0F2FAB33288F98EC9522FDE6CA746D75180475* ____cards;
 	Dictionary_2_t96A6D5DB50933293CA646044A6725DC6B1704B5B* ____scrollRectStates;
+	int32_t ____lastScrollLockFrame;
 	int32_t ____answeredCount;
+	bool ____premadeRoundCompleted;
 };
 struct CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
 {
@@ -3484,7 +3489,7 @@ struct String_t_StaticFields
 struct U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields
 {
 	U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531* ___U3CU3E9;
-	Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* ___U3CU3E9__40_0;
+	Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* ___U3CU3E9__45_0;
 };
 struct U3CU3Ec_tEF7FB3FFB11D4776FEF9CABA5EF9F22F738023C4_StaticFields
 {
@@ -3826,6 +3831,40 @@ struct GraphicU5BU5D_t81AB09C67D8A58A146D74F24CFF6EEFDE096830F  : public Runtime
 		return m_Items + index;
 	}
 	inline void SetAtUnchecked(il2cpp_array_size_t index, Graphic_tCBFCA4585A19E2B75465AECFEAC43F4016BF7931* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7  : public RuntimeArray
+{
+	ALIGN_FIELD (8) ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* m_Items[1];
+
+	inline ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* value)
 	{
 		m_Items[index] = value;
 		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
@@ -4644,6 +4683,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnityEvent_RemoveListener_m0E138F5575CB4
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302 (UnityEvent_tDC2C3548799DBC91D1E3F3DE60083A66F4751977* __this, UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* ___0_call, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler_HandleClick_m2A88D5D2DC500D80814E1314E59079DC75A85807 (CountableItemHandler_tC0FB3ACB3898620EAF0279F6DF240BFCC9E1DCFA* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_OnItemTapped_mAC3667C7CAA5EE92698DAD7C9CC634BB16EE1DA1 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, int32_t ___0_index, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___1_obj, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* CountingGameManager_FindVerticalScrollRect_m1D98A46FFDB980970622F0333D2C70F97B92BDB0 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_root, const RuntimeMethod* method) ;
+inline ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* Component_GetComponentsInChildren_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_m08120770417357CAFB315A3E7F85353EB6C1CA53 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, bool ___0_includeInactive, const RuntimeMethod* method)
+{
+	return ((  ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, bool, const RuntimeMethod*))Component_GetComponentsInChildren_TisRuntimeObject_m90734C3A39A158985239CB90DE2F0792F1D99926_gshared)(__this, ___0_includeInactive, method);
+}
 inline Enumerator_tF4000ACD34BD6E8FEB73D1F6BAD9450A262879F9 List_1_GetEnumerator_m11944D2EE7C3FAD545AA76721F1D124C59C6F41D (List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689* __this, const RuntimeMethod* method)
 {
 	return ((  Enumerator_tF4000ACD34BD6E8FEB73D1F6BAD9450A262879F9 (*) (List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689*, const RuntimeMethod*))List_1_GetEnumerator_mD8294A7FA2BEB1929487127D476F8EC1CDC23BFC_gshared)(__this, method);
@@ -4845,10 +4890,10 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Mathf_Max_m7FA442918DE37E
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Random_Range_m6763D9767F033357F88B6637F048F4ACA4123B68 (int32_t ___0_minInclusive, int32_t ___1_maxExclusive, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockingInternal_m4E16623959B0C7334329E291BB4940A9DD927D67 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* CountingGameManager_UpdateScrollLockingRoutine_m22AB67A1A2980051D4C0888DA1CC83476550ECE0 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__47__ctor_mCA9C16EEFE5B16E45FCC4FEF3B75F176493E9CAA (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__52__ctor_mA6E566A976B7F87BECE4E96356C93B220B5B6F58 (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t Time_get_frameCount_m4A42E558A71301A216BDC49EC402D62F19C79667 (const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass49_0__ctor_mD6BECE70B28888DF450A58B5351C087B05BCE65D (U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* __this, const RuntimeMethod* method) ;
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass54_0__ctor_mD0DF66D6D5C52EB42F9DD066DC6278A267382539 (U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* __this, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SuppressScrollRect_m029EE10A95DB06D1B3758596EF5E468E3AA51E2C (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___0_scrollRect, const RuntimeMethod* method) ;
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RestoreScrollRect_m0F1A7F2BFB2729263EC16534462BD8E0EFACB252 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___0_scrollRect, const RuntimeMethod* method) ;
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* ScrollRect_get_viewport_m85092216DD476F77E78F5CE50F9C4E70063ECCF9_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) ;
@@ -4890,7 +4935,6 @@ inline Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* Component_GetCompone
 	return ((  Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
 }
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Scrollbar_get_direction_m1950D7EE42DDD0E3DBEABCDD59DD7E0FEC164C4C_inline (Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* __this, const RuntimeMethod* method) ;
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Selectable_get_interactable_m17DD0484DC62DCB4467109488D7A599BC85EC112_inline (Selectable_t3251808068A17B8E92FB33590A4C2FA66D456712* __this, const RuntimeMethod* method) ;
 inline void List_1__ctor_m5F35762D3E07AB661B2AD145146D3AA04FDC3827 (List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* __this, const RuntimeMethod* method)
 {
 	((  void (*) (List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A*, const RuntimeMethod*))List_1__ctor_m7F078BB342729BDF11327FD89D7872265328F690_gshared)(__this, method);
@@ -5375,7 +5419,7 @@ inline void List_1_AddWithResize_m378B392086AAB6F400944FA9839516326B3F7BB8 (List
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44197
+// Method Definition Index: 44206
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Connection__ctor_m268C75FD9D0E7672C332203772E2DAC099A0BF4C (Connection_tFB764B9D2B9055FD7C7956F542A71E468575F4EC* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5391,7 +5435,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Connection__ctor_m268C75FD9D0E7672C33220
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44198
+// Method Definition Index: 44207
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass62_0__ctor_m6DBA184A4D381B2222CAA1E4BFCB84A6498D2AC7 (U3CU3Ec__DisplayClass62_0_t4E0EB1B4AD87AF2E985D8BF103CC93109EB01594* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5399,7 +5443,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass62_0__ctor_m6DBA184
 		return;
 	}
 }
-// Method Definition Index: 44199
+// Method Definition Index: 44208
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass62_0_U3CUpdateScrollLockForContainerU3Eb__0_mC17F85A08B57D654A485A7C593FA011956E74D76 (U3CU3Ec__DisplayClass62_0_t4E0EB1B4AD87AF2E985D8BF103CC93109EB01594* __this, float ___0_v, const RuntimeMethod* method) 
 {
 	{
@@ -5420,7 +5464,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass62_0_U3CUpdateScrol
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44200
+// Method Definition Index: 44209
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CLineReverseCoroutineU3Ed__53__ctor_mF1D993424C1CCDF504FF9A6F6B9618E1340BFC23 (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -5430,14 +5474,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CLineReverseCoroutineU3Ed__53__ctor_mF
 		return;
 	}
 }
-// Method Definition Index: 44201
+// Method Definition Index: 44210
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CLineReverseCoroutineU3Ed__53_System_IDisposable_Dispose_m0000990DBB47B33F1F9A677B26BDE9FE7DAAA9E0 (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44202
+// Method Definition Index: 44211
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CLineReverseCoroutineU3Ed__53_MoveNext_mBCCB4FB3ACBF1E37390EE7F9D83E4B5CEC96460D (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5597,7 +5641,7 @@ IL_012e:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44203
+// Method Definition Index: 44212
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CLineReverseCoroutineU3Ed__53_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mC58FFBFB3615A2B30B45D04FC5BEBC8C923482F1 (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5605,7 +5649,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CLineReverseCoroutineU3Ed__5
 		return L_0;
 	}
 }
-// Method Definition Index: 44204
+// Method Definition Index: 44213
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CLineReverseCoroutineU3Ed__53_System_Collections_IEnumerator_Reset_m67E14D805312178AF72B172A9570BDA645848E6C (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5614,7 +5658,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CLineReverseCoroutineU3Ed__53_System_C
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CLineReverseCoroutineU3Ed__53_System_Collections_IEnumerator_Reset_m67E14D805312178AF72B172A9570BDA645848E6C_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44205
+// Method Definition Index: 44214
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CLineReverseCoroutineU3Ed__53_System_Collections_IEnumerator_get_Current_mF88AB87C4CF324FFAA4ADC95960D7F75A816C867 (U3CLineReverseCoroutineU3Ed__53_t5F3B3AA853A9395CEA60B662B288C4A205FEECCB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5630,7 +5674,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CLineReverseCoroutineU3Ed__5
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44206
+// Method Definition Index: 44215
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__60__ctor_m72FAB06D7F8CFB6AEEB14E77CF28C3761A0B1EAC (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -5640,14 +5684,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__60__c
 		return;
 	}
 }
-// Method Definition Index: 44207
+// Method Definition Index: 44216
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__60_System_IDisposable_Dispose_m3D55E130B278969EAB836246FE8C3256C9D34976 (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44208
+// Method Definition Index: 44217
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CUpdateScrollLockingRoutineU3Ed__60_MoveNext_mA0BFFB8BBD797F2090FC23F8249B6364DDEC2DF4 (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5717,7 +5761,7 @@ IL_0054:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44209
+// Method Definition Index: 44218
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__60_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mDA89B7C6FB08CF79F87D930589A9E4F41060C35F (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5725,7 +5769,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU
 		return L_0;
 	}
 }
-// Method Definition Index: 44210
+// Method Definition Index: 44219
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__60_System_Collections_IEnumerator_Reset_m1F93FDEA86CE785C1F65C5274D4105880E595490 (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5734,7 +5778,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__60_Sy
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__60_System_Collections_IEnumerator_Reset_m1F93FDEA86CE785C1F65C5274D4105880E595490_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44211
+// Method Definition Index: 44220
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__60_System_Collections_IEnumerator_get_Current_m47836023EEE37BBC27F93457AB34B2EEBD374136 (U3CUpdateScrollLockingRoutineU3Ed__60_tCB2055C1CED389020D73E97A7059E69F24E043AA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5750,7 +5794,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44212
+// Method Definition Index: 44221
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* MapGameController_get_NextButton_mE6AA56EDC7906E65A51DEE6E455E083FA89C08AB (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5759,7 +5803,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE
 		return L_0;
 	}
 }
-// Method Definition Index: 44213
+// Method Definition Index: 44222
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13* MapGameController_get_RecallSlot_m1DC582537E2BF2013BEE1384F97E64D7A3E0B30C (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5768,7 +5812,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E
 		return L_0;
 	}
 }
-// Method Definition Index: 44214
+// Method Definition Index: 44223
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* MapGameController_get_AnswerCardPrefab_m31ABC4DD5B0999FA6EE99DA819E74BD8BF7592A4 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5777,7 +5821,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651
 		return L_0;
 	}
 }
-// Method Definition Index: 44215
+// Method Definition Index: 44224
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_set_AnswerCardPrefab_m5648843E33CAA3132A83B2A62C5E8C40654683C5 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -5788,7 +5832,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_set_AnswerCardPrefab_m
 		return;
 	}
 }
-// Method Definition Index: 44216
+// Method Definition Index: 44225
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* MapGameController_get_AnswersContainer_m445A88496367A3ADA9CA146515294BDB3AB0D570 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5797,7 +5841,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99
 		return L_0;
 	}
 }
-// Method Definition Index: 44217
+// Method Definition Index: 44226
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_set_AnswersContainer_m49AF3AD910DFBEAA0C33AEF1EF4829B051B5BD93 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -5808,7 +5852,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_set_AnswersContainer_m
 		return;
 	}
 }
-// Method Definition Index: 44218
+// Method Definition Index: 44227
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_Awake_m0849664C204BD3484E64C54A404E87D8864B60F6 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -5977,7 +6021,7 @@ IL_00a5:
 		return;
 	}
 }
-// Method Definition Index: 44219
+// Method Definition Index: 44228
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_Start_mB23FF4016F3D32596EFCD9CA4B56009D8576413F (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -5987,7 +6031,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_Start_mB23FF4016F3D325
 		return;
 	}
 }
-// Method Definition Index: 44220
+// Method Definition Index: 44229
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_SetupMapRound_m4785923BD78DC5B99124E7F0EB4C468F638DCA9C (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6090,7 +6134,7 @@ IL_0077:
 		return;
 	}
 }
-// Method Definition Index: 44221
+// Method Definition Index: 44230
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_SpawnAnswerCards_mBDAD862ED6269C51DF8944E9320A989687E7279D (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* ___0_requiredAnswers, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6373,7 +6417,7 @@ IL_0113:
 		return;
 	}
 }
-// Method Definition Index: 44222
+// Method Definition Index: 44231
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController_OnAllAnswersSolved_mD5CBF107F5025A3B6A6E0D5D77799B722442B45E (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6431,7 +6475,7 @@ IL_002b:
 		return;
 	}
 }
-// Method Definition Index: 44223
+// Method Definition Index: 44232
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MapGameController_IsRoundCompleted_m1479CD7E7BC79C54B790C1DEDEBBDC2DBEC724D8 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6467,7 +6511,7 @@ IL_001a:
 		return L_4;
 	}
 }
-// Method Definition Index: 44224
+// Method Definition Index: 44233
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController__ctor_m27872F733386EC7380B3D697667889F71CEBC8C2 (MapGameController_t4F443061D2E0AAE10DD934C3BFAB44BD03DD635B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6489,7 +6533,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController__ctor_m27872F733386EC7
 		return;
 	}
 }
-// Method Definition Index: 44225
+// Method Definition Index: 44234
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController__cctor_mD9E2671276F0C6BD3CC3325FAA5E445ED003CB70 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6559,7 +6603,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MapGameController__cctor_mD9E2671276F0C6
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44226
+// Method Definition Index: 44235
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m9DDB083BE6E4E7E3742A0A3173ACE3D13A741CEA (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6576,7 +6620,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_m9DDB083BE6E4E7E3742A0A31
 		return;
 	}
 }
-// Method Definition Index: 44227
+// Method Definition Index: 44236
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_mA3ED7AB0C81EEC9A7801371341A4A39C819EECC3 (U3CU3Ec_tEF7FB3FFB11D4776FEF9CABA5EF9F22F738023C4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6584,7 +6628,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_mA3ED7AB0C81EEC9A780137134
 		return;
 	}
 }
-// Method Definition Index: 44228
+// Method Definition Index: 44237
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float U3CU3Ec_U3CSpawnAnswerCardsU3Eb__21_0_m228C35E853713AEC2ED019915AA23EEDF5025BDD (U3CU3Ec_tEF7FB3FFB11D4776FEF9CABA5EF9F22F738023C4* __this, int32_t ___0_x, const RuntimeMethod* method) 
 {
 	{
@@ -6602,7 +6646,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float U3CU3Ec_U3CSpawnAnswerCardsU3Eb__21_0_m
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44229
+// Method Definition Index: 44238
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float AnswerCard_get_AcceptedScaleMultiplier_mF5CD4AD40D52D68ACFF4630610BEF8B252C74D17 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6611,7 +6655,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float AnswerCard_get_AcceptedScaleMultiplier_
 		return L_0;
 	}
 }
-// Method Definition Index: 44230
+// Method Definition Index: 44239
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_AcceptedScaleMultiplier_mD442B7CAF786B65F7D809EB9246457E817155407 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -6621,7 +6665,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_AcceptedScaleMultiplier_m
 		return;
 	}
 }
-// Method Definition Index: 44231
+// Method Definition Index: 44240
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float AnswerCard_get_DragScaleMultiplier_m722B1D73BAFD8929ACF2B3236571E4956754EE5E (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6630,7 +6674,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float AnswerCard_get_DragScaleMultiplier_m722
 		return L_0;
 	}
 }
-// Method Definition Index: 44232
+// Method Definition Index: 44241
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_DragScaleMultiplier_mBA16EEA5D061703C9D816E18A3FB0498426CC556 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -6640,7 +6684,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_DragScaleMultiplier_mBA16
 		return;
 	}
 }
-// Method Definition Index: 44233
+// Method Definition Index: 44242
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t AnswerCard_get_Value_mE58F851A4ACE341E06D877E24B50AA2D64615E6C (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6649,7 +6693,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t AnswerCard_get_Value_mE58F851A4ACE341
 		return L_0;
 	}
 }
-// Method Definition Index: 44234
+// Method Definition Index: 44243
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_Value_mADB39BF66EB9CDA930932E2B4AC8E76742A4DABE (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -6659,7 +6703,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_Value_mADB39BF66EB9CDA930
 		return;
 	}
 }
-// Method Definition Index: 44235
+// Method Definition Index: 44244
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F AnswerCard_get_CardColor_mD5058DC540B80F2CF28C12A97D65BEF18AA7AE61 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6668,7 +6712,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C
 		return L_0;
 	}
 }
-// Method Definition Index: 44236
+// Method Definition Index: 44245
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_CardColor_mD9CB8E31E426C8F8883DD9EE98E2ADEB3B89740B (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -6678,7 +6722,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_set_CardColor_mD9CB8E31E426C8
 		return;
 	}
 }
-// Method Definition Index: 44237
+// Method Definition Index: 44246
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AnswerCard_get_IsAccepted_mC612C765EEE5E9FB18BD292FEE6F1E3BC7B744CB (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6687,7 +6731,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AnswerCard_get_IsAccepted_mC612C765EEE5E
 		return L_0;
 	}
 }
-// Method Definition Index: 44238
+// Method Definition Index: 44247
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_UpdateHomeParent_mB0D858A5936C1147A44EDBC729FAF613D8C25FEE (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_newParent, const RuntimeMethod* method) 
 {
 	{
@@ -6720,7 +6764,7 @@ IL_0009:
 		return;
 	}
 }
-// Method Definition Index: 44239
+// Method Definition Index: 44248
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_Awake_mEC3176839ACDDE5DAF49F9A62349E0F027A2C049 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6741,7 +6785,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_Awake_mEC3176839ACDDE5DAF49F9
 		return;
 	}
 }
-// Method Definition Index: 44240
+// Method Definition Index: 44249
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_CacheInitialScale_m3EE9334DB77BE729C003B9219ACB5DE99A66C980 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -6790,7 +6834,7 @@ IL_003d:
 		return;
 	}
 }
-// Method Definition Index: 44241
+// Method Definition Index: 44250
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_OnDestroy_mB7B5F9F6FBA42FAD6965D8631F1FF40E5ABF041E (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6810,7 +6854,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_OnDestroy_mB7B5F9F6FBA42FAD69
 		return;
 	}
 }
-// Method Definition Index: 44242
+// Method Definition Index: 44251
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_Setup_m68449970B7F76BB6A89D20645744FE73CCF7442F (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, int32_t ___0_value, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_color, String_t* ___2_displayText, float ___3_customAcceptedScaleMultiplier, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -6915,7 +6959,7 @@ IL_006e:
 		return;
 	}
 }
-// Method Definition Index: 44243
+// Method Definition Index: 44252
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_OnBeginDrag_m703B843A5B23030D328FA35AAFF50B12C67FDF0D (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7208,7 +7252,7 @@ IL_0132:
 		return;
 	}
 }
-// Method Definition Index: 44244
+// Method Definition Index: 44253
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_OnDrag_m792911E1160D7C6B96D56C860519D15099501ABF (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7424,7 +7468,7 @@ IL_00e8:
 		return;
 	}
 }
-// Method Definition Index: 44245
+// Method Definition Index: 44254
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_OnEndDrag_m898369824B5F3F5DB32A3034708A813BCEE70FA1 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7552,7 +7596,7 @@ IL_00a2:
 		return;
 	}
 }
-// Method Definition Index: 44246
+// Method Definition Index: 44255
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_Disappear_m69147025EFC6E771137D476E7C45FAA8D6AEB6D7 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, float ___0_duration, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7674,7 +7718,7 @@ IL_0058:
 		return;
 	}
 }
-// Method Definition Index: 44247
+// Method Definition Index: 44256
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_AcceptedByZone_m72D693EFEE457F5A7CB1A4CE18770321EF5C8F4B (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_zoneTransform, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -7883,7 +7927,7 @@ IL_00d0:
 		return;
 	}
 }
-// Method Definition Index: 44248
+// Method Definition Index: 44257
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* AnswerCard_FindDropZoneAtCardCenter_m2F8DCC2C93A7634A59E969C4AA9BBCA678514D93 (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -8478,7 +8522,7 @@ IL_0255:
 		return L_106;
 	}
 }
-// Method Definition Index: 44249
+// Method Definition Index: 44258
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_ReturnHome_mFB735FABF7F0B81091BF1D1EFEC0D057D038193C (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -8524,7 +8568,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_ReturnHome_mFB735FABF7F0B8109
 		return;
 	}
 }
-// Method Definition Index: 44250
+// Method Definition Index: 44259
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard__ctor_mD567F8C5C5A1709CDD2689D8BDCDEAD1526975AF (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -8546,7 +8590,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard__ctor_mD567F8C5C5A1709CDD2689
 		return;
 	}
 }
-// Method Definition Index: 44251
+// Method Definition Index: 44260
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_U3CDisappearU3Eb__41_0_m57DAB9291C213A567765A68CF4C7798E239C1B5B (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -8559,7 +8603,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_U3CDisappearU3Eb__41_0_m57DAB
 		return;
 	}
 }
-// Method Definition Index: 44252
+// Method Definition Index: 44261
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_U3CReturnHomeU3Eb__44_0_m9E74797BD00CC1BE5EBB8E597CB6DCEA530B0BDB (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -8593,7 +8637,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerCard_U3CReturnHomeU3Eb__44_0_m9E74
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44253
+// Method Definition Index: 44262
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass42_0__ctor_m0C5314AE03903AAEFFB05F25FFC7D69267976625 (U3CU3Ec__DisplayClass42_0_tB1DF4D63DC6D070756E33294450B73C58E6ECBD8* __this, const RuntimeMethod* method) 
 {
 	{
@@ -8601,7 +8645,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass42_0__ctor_m0C5314A
 		return;
 	}
 }
-// Method Definition Index: 44254
+// Method Definition Index: 44263
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass42_0_U3CAcceptedByZoneU3Eb__0_mCF9B69203DC1EB50A618AEBC6ED6488672982F21 (U3CU3Ec__DisplayClass42_0_tB1DF4D63DC6D070756E33294450B73C58E6ECBD8* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -8683,7 +8727,7 @@ IL_006c:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44255
+// Method Definition Index: 44264
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* AnswerDropZone_get_HintText_mE47E662D4AC6F54E98DFC52D55C18066413348DA (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -8692,7 +8736,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B
 		return L_0;
 	}
 }
-// Method Definition Index: 44256
+// Method Definition Index: 44265
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_set_HintText_mF9649BF48D2A099BD33634076193B3C0A2085F58 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -8703,7 +8747,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_set_HintText_mF9649BF48D2
 		return;
 	}
 }
-// Method Definition Index: 44257
+// Method Definition Index: 44266
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_Awake_m1739A6630894A127BA4DBC6D46FC89B34BED853D (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -8744,7 +8788,7 @@ IL_0027:
 		return;
 	}
 }
-// Method Definition Index: 44258
+// Method Definition Index: 44267
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_Setup_mF4343CC32F1BBADCA472C24ADBD8DFA7D92200C6 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, int32_t ___0_expectedCount, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___1_onCorrect, Func_1_t2BE7F58348C9CC544A8973B3A9E55541DE43C457* ___2_canAccept, String_t* ___3_customHint, bool ___4_showHint, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -8931,7 +8975,7 @@ IL_00e8:
 		return;
 	}
 }
-// Method Definition Index: 44259
+// Method Definition Index: 44268
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_TryAccept_mD05BDFB5499A212DD4A7E1A840B9A63A3F70E6F8 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* ___0_card, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -9093,7 +9137,7 @@ IL_00b2:
 		return;
 	}
 }
-// Method Definition Index: 44260
+// Method Definition Index: 44269
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_TriggerWrongFeedback_mF59579151B725E53AC276FBC82A09FF3D11D21D0 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, float ___0_duration, float ___1_magnitude, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -9180,7 +9224,7 @@ IL_003d:
 		return;
 	}
 }
-// Method Definition Index: 44261
+// Method Definition Index: 44270
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* AnswerDropZone_WrongFeedbackCoroutine_m91CD75AA96AD134778B790A08F31AC113B942395 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, float ___0_duration, float ___1_magnitude, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -9207,7 +9251,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* AnswerDropZone_WrongFeedbackCo
 		return L_4;
 	}
 }
-// Method Definition Index: 44262
+// Method Definition Index: 44271
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AnswerDropZone_get_IsAnswered_mC534412E7158E13E8ECACEB78CBCE9C4FE0F5CE3 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -9216,7 +9260,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AnswerDropZone_get_IsAnswered_mC534412E7
 		return L_0;
 	}
 }
-// Method Definition Index: 44263
+// Method Definition Index: 44272
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone_AcceptCard_mAB111C143E340E15F93A0C5CF3D928E198E7DF65 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* ___0_card, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -9468,7 +9512,7 @@ IL_00f0:
 		return;
 	}
 }
-// Method Definition Index: 44264
+// Method Definition Index: 44273
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone__ctor_m679898FB84A4F82A6AF6780658E24B20B6A32B40 (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -9484,7 +9528,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AnswerDropZone__ctor_m679898FB84A4F82A6A
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44265
+// Method Definition Index: 44274
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__14__ctor_m64075E64A3AFD82F0533D4BF78B45E3C4CB2E7FC (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -9494,14 +9538,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__14__ctor_
 		return;
 	}
 }
-// Method Definition Index: 44266
+// Method Definition Index: 44275
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__14_System_IDisposable_Dispose_m0495619054903EB83699EF577F4DCB6E0B77E440 (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44267
+// Method Definition Index: 44276
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CWrongFeedbackCoroutineU3Ed__14_MoveNext_mC47C4A9974F51B35CB0FDC62345DA385910AD12F (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10012,7 +10056,7 @@ IL_02a1:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44268
+// Method Definition Index: 44277
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed__14_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m0376CBD81224D6020AAAFC1D9305CC412272A21C (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -10020,7 +10064,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed_
 		return L_0;
 	}
 }
-// Method Definition Index: 44269
+// Method Definition Index: 44278
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__14_System_Collections_IEnumerator_Reset_m25F1861222EA7FAD8DFC12EB4EFB85C73585B066 (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -10029,7 +10073,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__14_System
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CWrongFeedbackCoroutineU3Ed__14_System_Collections_IEnumerator_Reset_m25F1861222EA7FAD8DFC12EB4EFB85C73585B066_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44270
+// Method Definition Index: 44279
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed__14_System_Collections_IEnumerator_get_Current_m061FF4656B8CD17EDF13862FD74327A36DFE006F (U3CWrongFeedbackCoroutineU3Ed__14_tF78B8AE674BC3F3BD766A08FE895706C4FF04B2D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -10045,7 +10089,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44271
+// Method Definition Index: 44280
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_add_OnObjectTapped_m857B8BCBEB6964E6E69EA8BABFFF9AAEB4D4110D (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, Action_3_t2CC530E6ED20BDBA53EBA37A08C2354F2360151E* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10088,7 +10132,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 44272
+// Method Definition Index: 44281
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_remove_OnObjectTapped_m92A89AD001F7AD4B4360DF7D3DABB105D70C2907 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, Action_3_t2CC530E6ED20BDBA53EBA37A08C2354F2360151E* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10131,7 +10175,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 44273
+// Method Definition Index: 44282
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_Awake_m4FE74DA5D58B6D0FAED0413671A350A0A880243C (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, const RuntimeMethod* method) 
 {
 	{
@@ -10141,7 +10185,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_Awake_m4FE74DA5D58B
 		return;
 	}
 }
-// Method Definition Index: 44274
+// Method Definition Index: 44283
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_Start_m86CFF46A5E5F06987F53967239115B1B2758764F (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, const RuntimeMethod* method) 
 {
 	{
@@ -10151,7 +10195,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_Start_m86CFF46A5E5F
 		return;
 	}
 }
-// Method Definition Index: 44275
+// Method Definition Index: 44284
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_InitializeGroup_m34943519FFEAEAD433E5E0B7252FE4CEC941DC44 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10730,7 +10774,7 @@ IL_0227:
 		return;
 	}
 }
-// Method Definition Index: 44276
+// Method Definition Index: 44285
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_OnItemTapped_mAC3667C7CAA5EE92698DAD7C9CC634BB16EE1DA1 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, int32_t ___0_index, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___1_obj, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10878,7 +10922,7 @@ IL_007d:
 		return;
 	}
 }
-// Method Definition Index: 44277
+// Method Definition Index: 44286
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_PlayPopAnimation_m481804320775FA963ADC75897121310A86639169 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_obj, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -10996,7 +11040,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 44278
+// Method Definition Index: 44287
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_SetObjects_m703E8FEE87D643B5119297C5FFDA039E55A516C7 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* ___0_newObjects, const RuntimeMethod* method) 
 {
 	{
@@ -11010,7 +11054,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup_SetObjects_m703E8FE
 		return;
 	}
 }
-// Method Definition Index: 44279
+// Method Definition Index: 44288
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CountableObjectGroup_get_Count_mCA8747B57337146ADE0B96EAEEEA14B3ADD75001 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11040,7 +11084,7 @@ IL_000a:
 		return L_2;
 	}
 }
-// Method Definition Index: 44280
+// Method Definition Index: 44289
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup__ctor_mE7882ECEC65DCCB69222960FC685D1450F1C8343 (CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11088,7 +11132,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableObjectGroup__ctor_mE7882ECEC65D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44281
+// Method Definition Index: 44290
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass13_0__ctor_m14B5B52AC4B6C2C3D1F364933428994E43C61C69 (U3CU3Ec__DisplayClass13_0_t014568513B14ED640A536BE41A1B53F3B94C56AB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11096,7 +11140,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass13_0__ctor_m14B5B52
 		return;
 	}
 }
-// Method Definition Index: 44282
+// Method Definition Index: 44291
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass13_0_U3CPlayPopAnimationU3Eb__0_m665AEBE2A44F24F46CB24877D44C7CC6F1FEA08C (U3CU3Ec__DisplayClass13_0_t014568513B14ED640A536BE41A1B53F3B94C56AB* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11126,7 +11170,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass13_0_U3CPlayPopAnim
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44283
+// Method Definition Index: 44292
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler_Setup_mBD02A61D03866A2FD6430D12C58E7FE85CC514D8 (CountableItemHandler_tC0FB3ACB3898620EAF0279F6DF240BFCC9E1DCFA* __this, CountableObjectGroup_tF8EB3070010AA7F2F290022090FDAFD15D7DBA7C* ___0_group, int32_t ___1_index, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___2_targetObject, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11249,7 +11293,7 @@ IL_007b:
 		return;
 	}
 }
-// Method Definition Index: 44284
+// Method Definition Index: 44293
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler_OnPointerClick_m55F4410BF984A38912B0CC06757826616267C1E2 (CountableItemHandler_tC0FB3ACB3898620EAF0279F6DF240BFCC9E1DCFA* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	{
@@ -11259,7 +11303,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler_OnPointerClick_m55F
 		return;
 	}
 }
-// Method Definition Index: 44285
+// Method Definition Index: 44294
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler_HandleClick_m2A88D5D2DC500D80814E1314E59079DC75A85807 (CountableItemHandler_tC0FB3ACB3898620EAF0279F6DF240BFCC9E1DCFA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11332,7 +11376,7 @@ IL_003b:
 		return;
 	}
 }
-// Method Definition Index: 44286
+// Method Definition Index: 44295
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler__ctor_m48FDDA6EC674EB4C94E2048CDBBE3A098705D0C9 (CountableItemHandler_tC0FB3ACB3898620EAF0279F6DF240BFCC9E1DCFA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11348,7 +11392,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountableItemHandler__ctor_m48FDDA6EC674
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44287
+// Method Definition Index: 44296
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* CountingGameManager_get_PremadeSlotPrefab_mF109F316C5DE5A1072AE1B3F1DF9E0D4BE66DDEB (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11357,7 +11401,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651
 		return L_0;
 	}
 }
-// Method Definition Index: 44288
+// Method Definition Index: 44297
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotPrefab_m02A896029018EF848B460B624781B5E29A6E97AC (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -11368,7 +11412,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotPrefa
 		return;
 	}
 }
-// Method Definition Index: 44289
+// Method Definition Index: 44298
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* CountingGameManager_get_PremadeSlotData_m4115824F858C56CB48C42710E05EBC33E9049B50 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11377,7 +11421,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PremadeSlotData_t21B8622236CFD14B349B70A6E405
 		return L_0;
 	}
 }
-// Method Definition Index: 44290
+// Method Definition Index: 44299
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotData_m73FA712B82DB6F19689332A3290B9037A2936B4F (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -11388,7 +11432,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotData_
 		return;
 	}
 }
-// Method Definition Index: 44291
+// Method Definition Index: 44300
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* CountingGameManager_get_PremadeSlotsContainer_m50CB50AD334586869141FE160472E6B999470CE7 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -11397,7 +11441,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99
 		return L_0;
 	}
 }
-// Method Definition Index: 44292
+// Method Definition Index: 44301
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotsContainer_mC05895B137B96A3619E7329F1D98771B8A6D47C3 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -11408,16 +11452,231 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_set_PremadeSlotsCont
 		return;
 	}
 }
-// Method Definition Index: 44293
+// Method Definition Index: 44302
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* CountingGameManager_get_NextButton_m62F96E2E553FB7745E67241F75978CF5859EF715 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:76>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:87>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = __this->___nextButton;
 		return L_0;
 	}
 }
-// Method Definition Index: 44294
+// Method Definition Index: 44303
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* CountingGameManager_get_SlotsScrollRect_m2C040C086DEC11A4647F91FC9439FEFBA4E53D4D (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponentInParent_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_mD5D105BD6034A3131A91D7B6534D7E74834D72AD_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* V_0 = NULL;
+	ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* V_1 = NULL;
+	ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* V_2 = NULL;
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:99>
+		bool L_0;
+		L_0 = CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF(__this, NULL);
+		if (!L_0)
+		{
+			goto IL_002d;
+		}
+	}
+	{
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1 = __this->___premadeSlotsContainer;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_002d;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:101>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_3 = __this->___premadeSlotsContainer;
+		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_4;
+		L_4 = CountingGameManager_FindVerticalScrollRect_m1D98A46FFDB980970622F0333D2C70F97B92BDB0(L_3, NULL);
+		V_2 = L_4;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:102>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_5 = V_2;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_6;
+		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_6)
+		{
+			goto IL_002d;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:102>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_7 = V_2;
+		return L_7;
+	}
+
+IL_002d:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:105>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = __this->___slotsContainer;
+		V_0 = L_8;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:106>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9 = V_0;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_10;
+		L_10 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_9, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_10)
+		{
+			goto IL_003f;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:106>
+		return (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E*)NULL;
+	}
+
+IL_003f:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:108>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_11 = V_0;
+		NullCheck(L_11);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_12;
+		L_12 = Component_GetComponentInParent_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_mD5D105BD6034A3131A91D7B6534D7E74834D72AD(L_11, Component_GetComponentInParent_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_mD5D105BD6034A3131A91D7B6534D7E74834D72AD_RuntimeMethod_var);
+		V_1 = L_12;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:109>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_13 = V_1;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_14;
+		L_14 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_13, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_14)
+		{
+			goto IL_0057;
+		}
+	}
+	{
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_15 = V_1;
+		NullCheck(L_15);
+		bool L_16;
+		L_16 = ScrollRect_get_vertical_m43F2C650302CB71D53A0A373934CA9F9921CC38B_inline(L_15, NULL);
+		if (L_16)
+		{
+			goto IL_0059;
+		}
+	}
+
+IL_0057:
+	{
+		return (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E*)NULL;
+	}
+
+IL_0059:
+	{
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_17 = V_1;
+		return L_17;
+	}
+}
+// Method Definition Index: 44304
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* CountingGameManager_FindVerticalScrollRect_m1D98A46FFDB980970622F0333D2C70F97B92BDB0 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_root, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponentsInChildren_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_m08120770417357CAFB315A3E7F85353EB6C1CA53_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* V_0 = NULL;
+	int32_t V_1 = 0;
+	ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* V_2 = NULL;
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:116>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = ___0_root;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_1;
+		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_1)
+		{
+			goto IL_000b;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:116>
+		return (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E*)NULL;
+	}
+
+IL_000b:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:117>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2 = ___0_root;
+		NullCheck(L_2);
+		ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* L_3;
+		L_3 = Component_GetComponentsInChildren_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_m08120770417357CAFB315A3E7F85353EB6C1CA53(L_2, (bool)1, Component_GetComponentsInChildren_TisScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E_m08120770417357CAFB315A3E7F85353EB6C1CA53_RuntimeMethod_var);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:118>
+		V_0 = L_3;
+		V_1 = 0;
+		goto IL_0032;
+	}
+
+IL_0017:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:118>
+		ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* L_4 = V_0;
+		int32_t L_5 = V_1;
+		NullCheck(L_4);
+		int32_t L_6 = L_5;
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_7 = (L_4)->GetAt(static_cast<il2cpp_array_size_t>(L_6));
+		V_2 = L_7;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:120>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_8 = V_2;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_9;
+		L_9 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_8, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_9)
+		{
+			goto IL_002e;
+		}
+	}
+	{
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_10 = V_2;
+		NullCheck(L_10);
+		bool L_11;
+		L_11 = ScrollRect_get_vertical_m43F2C650302CB71D53A0A373934CA9F9921CC38B_inline(L_10, NULL);
+		if (!L_11)
+		{
+			goto IL_002e;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:120>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_12 = V_2;
+		return L_12;
+	}
+
+IL_002e:
+	{
+		int32_t L_13 = V_1;
+		V_1 = ((int32_t)il2cpp_codegen_add(L_13, 1));
+	}
+
+IL_0032:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:118>
+		int32_t L_14 = V_1;
+		ScrollRectU5BU5D_t23B351AE3BDAF4EB2E8A261826DDE74F976D28E7* L_15 = V_0;
+		NullCheck(L_15);
+		if ((((int32_t)L_14) < ((int32_t)((int32_t)(((RuntimeArray*)L_15)->max_length)))))
+		{
+			goto IL_0017;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:122>
+		return (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E*)NULL;
+	}
+}
+// Method Definition Index: 44305
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_Configure_mBD18F3F6325A472B4052347112EC8EC6C4ED82C0 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, int32_t ___0_slotCount, int32_t ___1_minCount, int32_t ___2_maxCount, bool ___3_diceMode, bool ___4_fingerMode, String_t* ___5_activeThemeName, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___6_premadeSlotPrefab, PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* ___7_premadeSlotData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11434,30 +11693,30 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_Configure_mBD18F3F63
 	memset((&V_0), 0, sizeof(V_0));
 	ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* V_1 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:80>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:127>
 		int32_t L_0 = ___0_slotCount;
 		__this->___slotCount = L_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:81>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:128>
 		int32_t L_1 = ___1_minCount;
 		__this->___minCount = L_1;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:82>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:129>
 		int32_t L_2 = ___2_maxCount;
 		__this->___maxCount = L_2;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:83>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:130>
 		bool L_3 = ___3_diceMode;
 		__this->___diceMode = L_3;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:84>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:131>
 		bool L_4 = ___4_fingerMode;
 		__this->___fingerMode = L_4;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:85>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:132>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_5 = ___6_premadeSlotPrefab;
 		__this->___premadeSlotPrefab = L_5;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___premadeSlotPrefab), (void*)L_5);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:86>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:133>
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_6 = ___7_premadeSlotData;
 		__this->___premadeSlotData = L_6;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___premadeSlotData), (void*)L_6);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:88>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:135>
 		List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689* L_7 = __this->___themes;
 		if (!L_7)
 		{
@@ -11465,7 +11724,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_Configure_mBD18F3F63
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:90>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:137>
 		List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689* L_8 = __this->___themes;
 		NullCheck(L_8);
 		Enumerator_tF4000ACD34BD6E8FEB73D1F6BAD9450A262879F9 L_9;
@@ -11490,11 +11749,11 @@ FINALLY_0074:
 
 IL_004b_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:90>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:137>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_10;
 				L_10 = Enumerator_get_Current_m55B68BF8D22D41BE8C647F5E93EF921B292DB05A_inline((&V_0), Enumerator_get_Current_m55B68BF8D22D41BE8C647F5E93EF921B292DB05A_RuntimeMethod_var);
 				V_1 = L_10;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:92>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:139>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_11 = V_1;
 				if (!L_11)
 				{
@@ -11502,7 +11761,7 @@ IL_004b_1:
 				}
 			}
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:94>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:141>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_12 = V_1;
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_13 = V_1;
 				NullCheck(L_13);
@@ -11516,7 +11775,7 @@ IL_004b_1:
 
 IL_0069_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:90>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:137>
 				bool L_17;
 				L_17 = Enumerator_MoveNext_m77133CC7DED6390B1F0790A67E356179B606890C((&V_0), Enumerator_MoveNext_m77133CC7DED6390B1F0790A67E356179B606890C_RuntimeMethod_var);
 				if (L_17)
@@ -11536,15 +11795,15 @@ IL_0069_1:
 
 IL_0082:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:99>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:146>
 		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_18 = __this->____slots;
 		NullCheck(L_18);
 		List_1_Clear_mF01A89813B0F8B6B79297DC11498C82A00EC8F48_inline(L_18, List_1_Clear_mF01A89813B0F8B6B79297DC11498C82A00EC8F48_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:100>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:147>
 		return;
 	}
 }
-// Method Definition Index: 44295
+// Method Definition Index: 44306
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnEnable_mF5F93C420D9174D013D1A13CD3D63D77060D7430 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11557,12 +11816,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnEnable_mF5F93C420D
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:106>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:153>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = __this->___nextButton;
 		CountingGameManager_ConfigureNextButton_mB22F80CD95D30F591D41DBD03E8956583DA113D9(__this, L_0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:108>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:155>
 		CountingGameManager_SetNextButtonInteractable_m119EC474691F6A9FAA662FBECB0E76D5537693F4(__this, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:110>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:157>
 		il2cpp_codegen_runtime_class_init_inline(GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304_il2cpp_TypeInfo_var);
 		GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* L_1;
 		L_1 = GameFlowManager_get_Instance_mE5FEDB2DB897FFF28F05BEA65C43E097B4CB0522_inline(NULL);
@@ -11575,7 +11834,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnEnable_mF5F93C420D
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:112>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:159>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_3 = __this->___nextButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_4;
@@ -11586,7 +11845,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnEnable_mF5F93C420D
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:112>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:159>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_5 = __this->___nextButton;
 		NullCheck(L_5);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_6;
@@ -11599,23 +11858,23 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnEnable_mF5F93C420D
 
 IL_004a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:115>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:162>
 		CountingGameManager_GenerateRound_mD52EEEABF6F19F43F2E153461ABAFEBA73B487F9(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:116>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:163>
 		return;
 	}
 }
-// Method Definition Index: 44296
+// Method Definition Index: 44307
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_StartGame_m181DC679D4E2DE42409FE3D88DA97F064E9977CE (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:120>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:167>
 		CountingGameManager_GenerateRound_mD52EEEABF6F19F43F2E153461ABAFEBA73B487F9(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:121>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:168>
 		return;
 	}
 }
-// Method Definition Index: 44297
+// Method Definition Index: 44308
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ConfigureNextButton_mB22F80CD95D30F591D41DBD03E8956583DA113D9 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___0_btn, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11630,7 +11889,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ConfigureNextButton_
 	Color_tD001788D726C3A7F1379BEED0260B9591F440C1F V_1;
 	memset((&V_1), 0, sizeof(V_1));
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:125>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:172>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = ___0_btn;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -11641,38 +11900,38 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ConfigureNextButton_
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:125>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:172>
 		return;
 	}
 
 IL_000a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:126>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:173>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_2 = ___0_btn;
 		NullCheck(L_2);
 		ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11 L_3;
 		L_3 = Selectable_get_colors_mB53E365D02351D4B64084295C4B2A7AF2DEC4750_inline(L_2, NULL);
 		V_0 = L_3;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:127>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:174>
 		il2cpp_codegen_runtime_class_init_inline(ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11_il2cpp_TypeInfo_var);
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_4;
 		L_4 = ColorBlock_get_normalColor_m08A07A74ED743B4B0C1B5A5C35774F2D78F1F20E_inline((&V_0), NULL);
 		V_1 = L_4;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:128>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:175>
 		(&V_1)->___a = (0.600000024f);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:129>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:176>
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_5 = V_1;
 		ColorBlock_set_disabledColor_m4D10D1F8525CCC7E8E200E3994AFB28ADABB1D8E_inline((&V_0), L_5, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:130>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:177>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_6 = ___0_btn;
 		ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11 L_7 = V_0;
 		NullCheck(L_6);
 		Selectable_set_colors_m0A49ED3ACD6647B7E5A2DA10B3D417E8FE1BE55A(L_6, L_7, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:131>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:178>
 		return;
 	}
 }
-// Method Definition Index: 44298
+// Method Definition Index: 44309
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SetNextButtonInteractable_m119EC474691F6A9FAA662FBECB0E76D5537693F4 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, bool ___0_interactable, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11683,7 +11942,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SetNextButtonInterac
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:135>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:182>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = __this->___nextButton;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -11694,7 +11953,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SetNextButtonInterac
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:135>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:182>
 		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_2 = __this->___nextButton;
 		il2cpp_codegen_runtime_class_init_inline(GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304_il2cpp_TypeInfo_var);
 		GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* L_3;
@@ -11709,11 +11968,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SetNextButtonInterac
 
 IL_0026:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:136>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:183>
 		return;
 	}
 }
-// Method Definition Index: 44299
+// Method Definition Index: 44310
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnSlotAnswered_m33138EBD32FA06F2D8C8DD162F63A506C46C7614 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* ___0_slot, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11726,10 +11985,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnSlotAnswered_m3313
 	GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* G_B4_0 = NULL;
 	GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* G_B3_0 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:146>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:193>
 		int32_t L_0 = __this->____answeredCount;
 		__this->____answeredCount = ((int32_t)il2cpp_codegen_add(L_0, 1));
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:147>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:194>
 		int32_t L_1 = __this->____answeredCount;
 		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_2 = __this->____slots;
 		NullCheck(L_2);
@@ -11741,13 +12000,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnSlotAnswered_m3313
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:148>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:195>
 		CountingGameManager_SetNextButtonInteractable_m119EC474691F6A9FAA662FBECB0E76D5537693F4(__this, (bool)1, NULL);
 	}
 
 IL_0028:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:149>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:196>
 		il2cpp_codegen_runtime_class_init_inline(GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304_il2cpp_TypeInfo_var);
 		GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* L_4;
 		L_4 = GameFlowManager_get_Instance_mE5FEDB2DB897FFF28F05BEA65C43E097B4CB0522_inline(NULL);
@@ -11767,11 +12026,11 @@ IL_0032:
 	{
 		NullCheck(G_B4_0);
 		GameFlowManager_NotifyRoundStateChanged_m7640D25E841A0622B168E7D76FC4FDC78DA54A86(G_B4_0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:150>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:197>
 		return;
 	}
 }
-// Method Definition Index: 44300
+// Method Definition Index: 44311
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnPremadeRoundCompleted_mFD17064374620C145513C077ED4FE4A0660FCF9D (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11783,9 +12042,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnPremadeRoundComple
 	GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* G_B2_0 = NULL;
 	GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* G_B1_0 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:154>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:201>
+		__this->____premadeRoundCompleted = (bool)1;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:202>
 		CountingGameManager_SetNextButtonInteractable_m119EC474691F6A9FAA662FBECB0E76D5537693F4(__this, (bool)1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:155>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:203>
 		il2cpp_codegen_runtime_class_init_inline(GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304_il2cpp_TypeInfo_var);
 		GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* L_0;
 		L_0 = GameFlowManager_get_Instance_mE5FEDB2DB897FFF28F05BEA65C43E097B4CB0522_inline(NULL);
@@ -11793,7 +12054,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnPremadeRoundComple
 		if (L_1)
 		{
 			G_B2_0 = L_1;
-			goto IL_0011;
+			goto IL_0018;
 		}
 		G_B1_0 = L_1;
 	}
@@ -11801,15 +12062,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_OnPremadeRoundComple
 		return;
 	}
 
-IL_0011:
+IL_0018:
 	{
 		NullCheck(G_B2_0);
 		GameFlowManager_NotifyRoundStateChanged_m7640D25E841A0622B168E7D76FC4FDC78DA54A86(G_B2_0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:156>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:204>
 		return;
 	}
 }
-// Method Definition Index: 44301
+// Method Definition Index: 44312
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_GenerateRound_mD52EEEABF6F19F43F2E153461ABAFEBA73B487F9 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -11867,7 +12128,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_GenerateRound_mD52EE
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Resources_Load_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m496A3B1B60A28F5E0397043974B848C9157B625A_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_U3CGenerateRoundU3Eb__40_0_mF338450792769E528C65939EAA9A0786178B4A95_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_U3CGenerateRoundU3Eb__45_0_mA705B80A548C801A3BB87C26819EC354FFD8B571_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ValueTuple_3__ctor_m5457A193E28541923A1C51C653EA715B71024FDA_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0A9E0AF8C275D21058FF3CB0D068EBB636AB8F9C);
@@ -11945,20 +12206,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_GenerateRound_mD52EE
 	List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* G_B99_1 = NULL;
 	int32_t G_B115_0 = 0;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:162>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:210>
 		CountingGameManager_ClearPrevious_mBD9060AEDB888CA54910E7AF3EB977D3833D863A(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:163>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:211>
 		__this->____answeredCount = 0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:164>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:212>
+		__this->____premadeRoundCompleted = (bool)0;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:213>
 		CountingGameManager_SetNextButtonInteractable_m119EC474691F6A9FAA662FBECB0E76D5537693F4(__this, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:166>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:215>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___premadeSlotPrefab;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (L_1)
 		{
-			goto IL_0030;
+			goto IL_0037;
 		}
 	}
 	{
@@ -11967,24 +12230,24 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_GenerateRound_mD52EE
 		bool L_3;
 		L_3 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_2, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		G_B3_0 = ((int32_t)(L_3));
-		goto IL_0031;
+		goto IL_0038;
 	}
 
-IL_0030:
+IL_0037:
 	{
 		G_B3_0 = 1;
 	}
 
-IL_0031:
+IL_0038:
 	{
 		V_0 = (bool)G_B3_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:168>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:169>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:170>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:217>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:218>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:219>
 		bool L_4 = V_0;
 		if (!L_4)
 		{
-			goto IL_0043;
+			goto IL_004a;
 		}
 	}
 	{
@@ -11994,34 +12257,34 @@ IL_0031:
 		L_6 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_5, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (L_6)
 		{
-			goto IL_004b;
+			goto IL_0052;
 		}
 	}
 
-IL_0043:
+IL_004a:
 	{
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7 = __this->___slotsContainer;
 		G_B7_0 = L_7;
-		goto IL_0051;
+		goto IL_0058;
 	}
 
-IL_004b:
+IL_0052:
 	{
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = __this->___premadeSlotsContainer;
 		G_B7_0 = L_8;
 	}
 
-IL_0051:
+IL_0058:
 	{
 		V_1 = G_B7_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:172>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:221>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9 = __this->___premadeSlotsContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_10;
 		L_10 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_9, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_10)
 		{
-			goto IL_0098;
+			goto IL_009f;
 		}
 	}
 	{
@@ -12032,11 +12295,11 @@ IL_0051:
 		L_13 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_11, L_12, NULL);
 		if (!L_13)
 		{
-			goto IL_0098;
+			goto IL_009f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:174>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:223>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14 = __this->___premadeSlotsContainer;
 		NullCheck(L_14);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_15;
@@ -12044,7 +12307,7 @@ IL_0051:
 		bool L_16 = V_0;
 		NullCheck(L_15);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_15, L_16, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:175>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:224>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_17 = __this->___slotsContainer;
 		NullCheck(L_17);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_18;
@@ -12054,27 +12317,27 @@ IL_0051:
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_18, (bool)((((int32_t)L_19) == ((int32_t)0))? 1 : 0), NULL);
 	}
 
-IL_0098:
+IL_009f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:178>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:227>
 		bool L_20 = V_0;
 		if (!L_20)
 		{
-			goto IL_037f;
+			goto IL_0386;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:181>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:230>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_21 = __this->___premadeSlotPrefab;
 		V_11 = L_21;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:182>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:231>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_22 = V_11;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_23;
 		L_23 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_22, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_23)
 		{
-			goto IL_00cb;
+			goto IL_00d2;
 		}
 	}
 	{
@@ -12084,166 +12347,166 @@ IL_0098:
 		L_25 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_24, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_25)
 		{
-			goto IL_00cb;
+			goto IL_00d2;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:184>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:233>
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_26 = __this->___premadeSlotData;
 		NullCheck(L_26);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_27 = L_26->___templatePrefab;
 		V_11 = L_27;
 	}
 
-IL_00cb:
+IL_00d2:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:187>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:236>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_28 = V_11;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_29;
 		L_29 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_28, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_29)
 		{
-			goto IL_00e1;
+			goto IL_00e8;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:189>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:238>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_30;
 		L_30 = Resources_Load_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m496A3B1B60A28F5E0397043974B848C9157B625A(_stringLiteralCF0AB24AE55BA5E03E5283A70B76E4D55B83DF6B, Resources_Load_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m496A3B1B60A28F5E0397043974B848C9157B625A_RuntimeMethod_var);
 		V_11 = L_30;
 	}
 
-IL_00e1:
+IL_00e8:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:199>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:248>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_31 = V_11;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_32;
 		L_32 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_31, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_32)
 		{
-			goto IL_00f6;
+			goto IL_00fd;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:201>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:250>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteralD73089473842EE193D5C4414F390698785D33633, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:202>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:251>
 		return;
 	}
 
-IL_00f6:
+IL_00fd:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:205>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:254>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_33 = V_11;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_34 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_35;
 		L_35 = Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811(L_33, L_34, Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
 		V_12 = L_35;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:207>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:256>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_36 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8(L_36, List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8_RuntimeMethod_var);
 		V_13 = L_36;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:208>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:257>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_37 = (List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD*)il2cpp_codegen_object_new(List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD_il2cpp_TypeInfo_var);
 		List_1__ctor_mCA8DD57EAC70C2B5923DBB9D5A77CEAC22E7068E(L_37, List_1__ctor_mCA8DD57EAC70C2B5923DBB9D5A77CEAC22E7068E_RuntimeMethod_var);
 		V_14 = L_37;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:210>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:259>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_38 = V_12;
 		NullCheck(L_38);
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_39;
 		L_39 = GameObject_GetComponent_TisPremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548_m3B698AF8AD67D4AF7F6F3B383D1A15B27F214438(L_38, GameObject_GetComponent_TisPremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548_m3B698AF8AD67D4AF7F6F3B383D1A15B27F214438_RuntimeMethod_var);
 		V_15 = L_39;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:211>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:260>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_40 = V_12;
 		NullCheck(L_40);
 		PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13* L_41;
 		L_41 = GameObject_GetComponent_TisPremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13_m699715C0283D6021DE76D2CD6BB49A239E67E48C(L_40, GameObject_GetComponent_TisPremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13_m699715C0283D6021DE76D2CD6BB49A239E67E48C_RuntimeMethod_var);
 		V_16 = L_41;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:213>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:262>
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_42 = V_15;
 		bool L_43;
 		L_43 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_42, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_43)
 		{
-			goto IL_016a;
+			goto IL_0171;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:215>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:264>
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_44 = __this->___premadeSlotData;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_45;
 		L_45 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_44, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_45)
 		{
-			goto IL_0145;
+			goto IL_014c;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:215>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:264>
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_46 = V_15;
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_47 = __this->___premadeSlotData;
 		NullCheck(L_46);
 		PremadeCountingSlot_ApplySlotData_m81DE3003015B3088293E87856911471C22C11135(L_46, L_47, NULL);
 	}
 
-IL_0145:
+IL_014c:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:216>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:265>
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_48 = V_15;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_49 = (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)il2cpp_codegen_object_new(Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
 		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_49, __this, (intptr_t)((void*)CountingGameManager_OnPremadeRoundCompleted_mFD17064374620C145513C077ED4FE4A0660FCF9D_RuntimeMethod_var), NULL);
 		NullCheck(L_48);
 		ValueTuple_2_t2B5CCAA6AE2828BFE9A3B8263FF47514F27F3C92 L_50;
 		L_50 = PremadeCountingSlot_Setup_m50B6297367D8FC6FAF6CE8F00E7C287B18E7C497(L_48, L_49, (bool)1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:217>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:266>
 		ValueTuple_2_t2B5CCAA6AE2828BFE9A3B8263FF47514F27F3C92 L_51 = L_50;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_52 = L_51.___Item1;
 		V_13 = L_52;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:218>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:267>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_53 = L_51.___Item2;
 		V_14 = L_53;
-		goto IL_01d3;
+		goto IL_01da;
 	}
 
-IL_016a:
+IL_0171:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:220>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:269>
 		PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13* L_54 = V_16;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_55;
 		L_55 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_54, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_55)
 		{
-			goto IL_01a7;
+			goto IL_01ae;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:222>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:271>
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_56 = __this->___premadeSlotData;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_57;
 		L_57 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_56, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_57)
 		{
-			goto IL_018f;
+			goto IL_0196;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:222>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:271>
 		PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13* L_58 = V_16;
 		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_59 = __this->___premadeSlotData;
 		NullCheck(L_58);
 		PremadeRecallSlot_ApplySlotData_mC5FC0718B91D32630B2D65A4F565CF920E6A244D(L_58, L_59, NULL);
 	}
 
-IL_018f:
+IL_0196:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:223>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:272>
 		PremadeRecallSlot_t4F6B5F45589F24EC3BF4FEF47E99FAF37824FA13* L_60 = V_16;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_61 = (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)il2cpp_codegen_object_new(Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
 		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_61, __this, (intptr_t)((void*)CountingGameManager_OnPremadeRoundCompleted_mFD17064374620C145513C077ED4FE4A0660FCF9D_RuntimeMethod_var), NULL);
@@ -12251,40 +12514,40 @@ IL_018f:
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_62;
 		L_62 = PremadeRecallSlot_Setup_m6C3150702B0E3E90E0B299D81F9EB4A1CEBC2CF4(L_60, L_61, (bool)1, NULL);
 		V_13 = L_62;
-		goto IL_01d3;
+		goto IL_01da;
 	}
 
-IL_01a7:
+IL_01ae:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:227>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:276>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_63 = V_12;
 		NullCheck(L_63);
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_64;
 		L_64 = GameObject_AddComponent_TisPremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548_m4E4307E77D001FF2BF1C9C1AD767061F524770EA(L_63, GameObject_AddComponent_TisPremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548_m4E4307E77D001FF2BF1C9C1AD767061F524770EA_RuntimeMethod_var);
 		V_15 = L_64;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:228>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:277>
 		PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* L_65 = V_15;
 		Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* L_66 = (Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07*)il2cpp_codegen_object_new(Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07_il2cpp_TypeInfo_var);
 		Action__ctor_mBDC7B0B4A3F583B64C2896F01BDED360772F67DC(L_66, __this, (intptr_t)((void*)CountingGameManager_OnPremadeRoundCompleted_mFD17064374620C145513C077ED4FE4A0660FCF9D_RuntimeMethod_var), NULL);
 		NullCheck(L_65);
 		ValueTuple_2_t2B5CCAA6AE2828BFE9A3B8263FF47514F27F3C92 L_67;
 		L_67 = PremadeCountingSlot_Setup_m50B6297367D8FC6FAF6CE8F00E7C287B18E7C497(L_65, L_66, (bool)1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:229>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:278>
 		ValueTuple_2_t2B5CCAA6AE2828BFE9A3B8263FF47514F27F3C92 L_68 = L_67;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_69 = L_68.___Item1;
 		V_13 = L_69;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:230>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:279>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_70 = L_68.___Item2;
 		V_14 = L_70;
 	}
 
-IL_01d3:
+IL_01da:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:233>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:282>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_71 = V_14;
 		if (!L_71)
 		{
-			goto IL_02bb;
+			goto IL_02c2;
 		}
 	}
 	{
@@ -12294,22 +12557,22 @@ IL_01d3:
 		L_73 = List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_inline(L_72, List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_RuntimeMethod_var);
 		if ((((int32_t)L_73) <= ((int32_t)0)))
 		{
-			goto IL_02bb;
+			goto IL_02c2;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:235>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:284>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_74 = (List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF*)il2cpp_codegen_object_new(List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF_il2cpp_TypeInfo_var);
 		List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D(L_74, List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D_RuntimeMethod_var);
 		V_17 = L_74;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:236>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:285>
 		V_19 = 0;
-		goto IL_0214;
+		goto IL_021b;
 	}
 
-IL_01f3:
+IL_01fa:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:236>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:285>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_75 = V_17;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		ColorU5BU5D_t612261CF293F6FFC3D80AB52259FF0DC2B2CC389* L_76 = ((CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_StaticFields*)il2cpp_codegen_static_fields_for(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var))->___Palette;
@@ -12321,14 +12584,14 @@ IL_01f3:
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_80 = (L_76)->GetAt(static_cast<il2cpp_array_size_t>(L_79));
 		NullCheck(L_75);
 		List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_inline(L_75, L_80, List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:236>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:285>
 		int32_t L_81 = V_19;
 		V_19 = ((int32_t)il2cpp_codegen_add(L_81, 1));
 	}
 
-IL_0214:
+IL_021b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:236>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:285>
 		int32_t L_82 = V_19;
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_83 = V_14;
 		NullCheck(L_83);
@@ -12336,41 +12599,41 @@ IL_0214:
 		L_84 = List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_inline(L_83, List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_RuntimeMethod_var);
 		if ((((int32_t)L_82) < ((int32_t)L_84)))
 		{
-			goto IL_01f3;
+			goto IL_01fa;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:237>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:286>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_85 = V_17;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2(L_85, CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:239>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:288>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_86 = V_14;
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_87 = (List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD*)il2cpp_codegen_object_new(List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD_il2cpp_TypeInfo_var);
 		List_1__ctor_m0BAB01B25B1D62E100CC97401B1A9972D6DEB6EC(L_87, L_86, List_1__ctor_m0BAB01B25B1D62E100CC97401B1A9972D6DEB6EC_RuntimeMethod_var);
 		V_18 = L_87;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:240>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:289>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_88 = V_18;
 		CountingGameManager_Shuffle_TisString_t_m8C6AD81F246B399A73D22FCD45DA1CAF89D350D2(L_88, CountingGameManager_Shuffle_TisString_t_m8C6AD81F246B399A73D22FCD45DA1CAF89D350D2_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:242>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:291>
 		V_20 = 0;
-		goto IL_02ab;
+		goto IL_02b2;
 	}
 
-IL_023b:
+IL_0242:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:244>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:293>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_89 = __this->___answerCardPrefab;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_90 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_91;
 		L_91 = Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811(L_89, L_90, Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:245>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:294>
 		NullCheck(L_91);
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_92;
 		L_92 = GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6(L_91, GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6_RuntimeMethod_var);
 		V_21 = L_92;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:246>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:295>
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_93 = V_18;
 		int32_t L_94 = V_20;
 		NullCheck(L_93);
@@ -12380,15 +12643,15 @@ IL_023b:
 		L_96 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_95, NULL);
 		if (!L_96)
 		{
-			goto IL_0267;
+			goto IL_026e;
 		}
 	}
 	{
 		G_B36_0 = ((int32_t)32);
-		goto IL_0276;
+		goto IL_027d;
 	}
 
-IL_0267:
+IL_026e:
 	{
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_97 = V_18;
 		int32_t L_98 = V_20;
@@ -12401,10 +12664,10 @@ IL_0267:
 		G_B36_0 = ((int32_t)(L_100));
 	}
 
-IL_0276:
+IL_027d:
 	{
 		V_22 = G_B36_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:247>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:296>
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_101 = V_21;
 		Il2CppChar L_102 = V_22;
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_103 = V_17;
@@ -12419,19 +12682,19 @@ IL_0276:
 		L_108 = List_1_get_Item_m21AEC50E791371101DC22ABCF96A2E46800811F8(L_106, L_107, List_1_get_Item_m21AEC50E791371101DC22ABCF96A2E46800811F8_RuntimeMethod_var);
 		NullCheck(L_101);
 		AnswerCard_Setup_m68449970B7F76BB6A89D20645744FE73CCF7442F(L_101, L_102, L_105, L_108, (1.39999998f), NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:248>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:297>
 		List_1_t0C0F2FAB33288F98EC9522FDE6CA746D75180475* L_109 = __this->____cards;
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_110 = V_21;
 		NullCheck(L_109);
 		List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_inline(L_109, L_110, List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:242>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:291>
 		int32_t L_111 = V_20;
 		V_20 = ((int32_t)il2cpp_codegen_add(L_111, 1));
 	}
 
-IL_02ab:
+IL_02b2:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:242>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:291>
 		int32_t L_112 = V_20;
 		List_1_tF470A3BE5C1B5B68E1325EF3F109D172E60BD7CD* L_113 = V_18;
 		NullCheck(L_113);
@@ -12439,20 +12702,20 @@ IL_02ab:
 		L_114 = List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_inline(L_113, List_1_get_Count_mB63183A9151F4345A9DD444A7CBE0D6E03F77C7C_RuntimeMethod_var);
 		if ((((int32_t)L_112) < ((int32_t)L_114)))
 		{
-			goto IL_023b;
+			goto IL_0242;
 		}
 	}
 	{
-		goto IL_0378;
+		goto IL_037f;
 	}
 
-IL_02bb:
+IL_02c2:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:251>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:300>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_115 = V_13;
 		if (!L_115)
 		{
-			goto IL_0378;
+			goto IL_037f;
 		}
 	}
 	{
@@ -12462,22 +12725,22 @@ IL_02bb:
 		L_117 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_116, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		if ((((int32_t)L_117) <= ((int32_t)0)))
 		{
-			goto IL_0378;
+			goto IL_037f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:253>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:302>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_118 = (List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF*)il2cpp_codegen_object_new(List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF_il2cpp_TypeInfo_var);
 		List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D(L_118, List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D_RuntimeMethod_var);
 		V_23 = L_118;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:254>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:303>
 		V_25 = 0;
-		goto IL_02fc;
+		goto IL_0303;
 	}
 
-IL_02db:
+IL_02e2:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:254>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:303>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_119 = V_23;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		ColorU5BU5D_t612261CF293F6FFC3D80AB52259FF0DC2B2CC389* L_120 = ((CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_StaticFields*)il2cpp_codegen_static_fields_for(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var))->___Palette;
@@ -12489,14 +12752,14 @@ IL_02db:
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_124 = (L_120)->GetAt(static_cast<il2cpp_array_size_t>(L_123));
 		NullCheck(L_119);
 		List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_inline(L_119, L_124, List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:254>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:303>
 		int32_t L_125 = V_25;
 		V_25 = ((int32_t)il2cpp_codegen_add(L_125, 1));
 	}
 
-IL_02fc:
+IL_0303:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:254>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:303>
 		int32_t L_126 = V_25;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_127 = V_13;
 		NullCheck(L_127);
@@ -12504,41 +12767,41 @@ IL_02fc:
 		L_128 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_127, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		if ((((int32_t)L_126) < ((int32_t)L_128)))
 		{
-			goto IL_02db;
+			goto IL_02e2;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:255>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:304>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_129 = V_23;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2(L_129, CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:257>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:306>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_130 = V_13;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_131 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_mCC0E71080DE343C1A527526A1AC2DBEC355CEA6C(L_131, L_130, List_1__ctor_mCC0E71080DE343C1A527526A1AC2DBEC355CEA6C_RuntimeMethod_var);
 		V_24 = L_131;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:258>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:307>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_132 = V_24;
 		CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555(L_132, CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:260>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:309>
 		V_26 = 0;
-		goto IL_036d;
+		goto IL_0374;
 	}
 
-IL_0323:
+IL_032a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:262>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:311>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_133 = __this->___answerCardPrefab;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_134 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_135;
 		L_135 = Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811(L_133, L_134, Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:263>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:312>
 		NullCheck(L_135);
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_136;
 		L_136 = GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6(L_135, GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6_RuntimeMethod_var);
 		V_27 = L_136;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:264>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:313>
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_137 = V_27;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_138 = V_24;
 		int32_t L_139 = V_26;
@@ -12552,19 +12815,19 @@ IL_0323:
 		L_143 = List_1_get_Item_mE616D49F5F6197745A12A06084EEE9E6FFCF017F(L_141, L_142, List_1_get_Item_mE616D49F5F6197745A12A06084EEE9E6FFCF017F_RuntimeMethod_var);
 		NullCheck(L_137);
 		AnswerCard_Setup_m68449970B7F76BB6A89D20645744FE73CCF7442F(L_137, L_140, L_143, (String_t*)NULL, (1.39999998f), NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:265>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:314>
 		List_1_t0C0F2FAB33288F98EC9522FDE6CA746D75180475* L_144 = __this->____cards;
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_145 = V_27;
 		NullCheck(L_144);
 		List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_inline(L_144, L_145, List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:260>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:309>
 		int32_t L_146 = V_26;
 		V_26 = ((int32_t)il2cpp_codegen_add(L_146, 1));
 	}
 
-IL_036d:
+IL_0374:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:260>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:309>
 		int32_t L_147 = V_26;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_148 = V_24;
 		NullCheck(L_148);
@@ -12572,33 +12835,33 @@ IL_036d:
 		L_149 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_148, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		if ((((int32_t)L_147) < ((int32_t)L_149)))
 		{
-			goto IL_0323;
+			goto IL_032a;
 		}
-	}
-
-IL_0378:
-	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:269>
-		CountingGameManager_UpdateScrollLocking_mC55BE1D6A7AD8F88A0E8A8F0C8905CBD74768987(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:270>
-		return;
 	}
 
 IL_037f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:274>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:318>
+		CountingGameManager_UpdateScrollLocking_mC55BE1D6A7AD8F88A0E8A8F0C8905CBD74768987(__this, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:319>
+		return;
+	}
+
+IL_0386:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:323>
 		bool L_150 = __this->___diceMode;
 		if (!L_150)
 		{
-			goto IL_03e2;
+			goto IL_03e9;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:276>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:325>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_151 = __this->___dicePrefabs;
 		if (!L_151)
 		{
-			goto IL_039a;
+			goto IL_03a1;
 		}
 	}
 	{
@@ -12606,29 +12869,29 @@ IL_037f:
 		NullCheck(L_152);
 		if ((((int32_t)((int32_t)(((RuntimeArray*)L_152)->max_length))) == ((int32_t)6)))
 		{
-			goto IL_03a5;
+			goto IL_03ac;
 		}
 	}
 
-IL_039a:
+IL_03a1:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:278>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:327>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral12B91B200C035A8884D8984379ECCAA1EE165DCA, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:279>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:328>
 		return;
 	}
 
-IL_03a5:
+IL_03ac:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:281>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:330>
 		V_28 = 0;
-		goto IL_03d8;
+		goto IL_03df;
 	}
 
-IL_03aa:
+IL_03b1:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:283>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:332>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_153 = __this->___dicePrefabs;
 		int32_t L_154 = V_28;
 		NullCheck(L_153);
@@ -12639,11 +12902,11 @@ IL_03aa:
 		L_157 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_156, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_157)
 		{
-			goto IL_03d2;
+			goto IL_03d9;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:285>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:334>
 		int32_t L_158 = V_28;
 		int32_t L_159 = L_158;
 		RuntimeObject* L_160 = Box(il2cpp_defaults.int32_class, &L_159);
@@ -12651,45 +12914,45 @@ IL_03aa:
 		L_161 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralF528EF7E23055AB58B20FD669F965C31AE64E301, L_160, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(L_161, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:286>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:335>
 		return;
 	}
 
-IL_03d2:
+IL_03d9:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:281>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:330>
 		int32_t L_162 = V_28;
 		V_28 = ((int32_t)il2cpp_codegen_add(L_162, 1));
 	}
 
-IL_03d8:
+IL_03df:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:281>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:330>
 		int32_t L_163 = V_28;
 		if ((((int32_t)L_163) < ((int32_t)6)))
 		{
-			goto IL_03aa;
+			goto IL_03b1;
 		}
 	}
 	{
-		goto IL_046f;
+		goto IL_0476;
 	}
 
-IL_03e2:
+IL_03e9:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:290>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:339>
 		bool L_164 = __this->___fingerMode;
 		if (!L_164)
 		{
-			goto IL_0442;
+			goto IL_0449;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:292>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:341>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_165 = __this->___fingerPrefabs;
 		if (!L_165)
 		{
-			goto IL_03fd;
+			goto IL_0404;
 		}
 	}
 	{
@@ -12697,29 +12960,29 @@ IL_03e2:
 		NullCheck(L_166);
 		if ((((int32_t)((int32_t)(((RuntimeArray*)L_166)->max_length))) == ((int32_t)5)))
 		{
-			goto IL_0408;
+			goto IL_040f;
 		}
 	}
 
-IL_03fd:
+IL_0404:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:294>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:343>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral288CB6579440EA690A5E118FED0F575265105C08, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:295>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:344>
 		return;
 	}
 
-IL_0408:
+IL_040f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:297>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:346>
 		V_29 = 0;
-		goto IL_043b;
+		goto IL_0442;
 	}
 
-IL_040d:
+IL_0414:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:299>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:348>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_167 = __this->___fingerPrefabs;
 		int32_t L_168 = V_29;
 		NullCheck(L_167);
@@ -12730,11 +12993,11 @@ IL_040d:
 		L_171 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_170, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_171)
 		{
-			goto IL_0435;
+			goto IL_043c;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:301>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:350>
 		int32_t L_172 = V_29;
 		int32_t L_173 = L_172;
 		RuntimeObject* L_174 = Box(il2cpp_defaults.int32_class, &L_173);
@@ -12742,41 +13005,41 @@ IL_040d:
 		L_175 = String_Format_mA8DBB4C2516B9723C5A41E6CB1E2FAF4BBE96DD8(_stringLiteralEEE51F1CA5D79D0100619356490F708B73D4F3E4, L_174, NULL);
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(L_175, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:302>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:351>
 		return;
 	}
 
-IL_0435:
+IL_043c:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:297>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:346>
 		int32_t L_176 = V_29;
 		V_29 = ((int32_t)il2cpp_codegen_add(L_176, 1));
 	}
 
-IL_043b:
+IL_0442:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:297>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:346>
 		int32_t L_177 = V_29;
 		if ((((int32_t)L_177) < ((int32_t)5)))
 		{
-			goto IL_040d;
+			goto IL_0414;
 		}
 	}
 	{
-		goto IL_046f;
+		goto IL_0476;
 	}
 
-IL_0442:
+IL_0449:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:308>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:357>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_178;
 		L_178 = CountingGameManager_GetActiveThemePrefabs_m6647A4861BFADCF6D60C423116BD53F9E8119C0C(__this, NULL);
 		V_30 = L_178;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:309>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:358>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_179 = V_30;
 		if (!L_179)
 		{
-			goto IL_0453;
+			goto IL_045a;
 		}
 	}
 	{
@@ -12784,24 +13047,24 @@ IL_0442:
 		NullCheck(L_180);
 		if ((((RuntimeArray*)L_180)->max_length))
 		{
-			goto IL_045b;
+			goto IL_0462;
 		}
 	}
 
-IL_0453:
+IL_045a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:311>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:360>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_181 = __this->___objectCategoryPrefabs;
 		V_30 = L_181;
 	}
 
-IL_045b:
+IL_0462:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:313>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:362>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_182 = V_30;
 		if (!L_182)
 		{
-			goto IL_0464;
+			goto IL_046b;
 		}
 	}
 	{
@@ -12809,116 +13072,116 @@ IL_045b:
 		NullCheck(L_183);
 		if ((((RuntimeArray*)L_183)->max_length))
 		{
-			goto IL_046f;
+			goto IL_0476;
 		}
 	}
 
-IL_0464:
+IL_046b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:315>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:364>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral6151261B60E4D19FF1D456687DFA1DDF37781E52, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:316>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:365>
 		return;
 	}
 
-IL_046f:
+IL_0476:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:319>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:368>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_184 = __this->___slotPrefab;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_185;
 		L_185 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_184, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_185)
 		{
-			goto IL_0488;
+			goto IL_048f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:321>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:370>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteralE906E0C44CD5C02DCE1D2EA2421392A9F6817784, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:322>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:371>
 		return;
 	}
 
-IL_0488:
+IL_048f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:324>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:373>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_186 = __this->___answerCardPrefab;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_187;
 		L_187 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_186, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_187)
 		{
-			goto IL_04a1;
+			goto IL_04a8;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:326>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:375>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral6413AAE98AD1A6872C4C02A0BBF1409982771B32, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:327>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:376>
 		return;
 	}
 
-IL_04a1:
+IL_04a8:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:329>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:378>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_188 = __this->___slotsContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_189;
 		L_189 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_188, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_189)
 		{
-			goto IL_04ba;
+			goto IL_04c1;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:331>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:380>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteralCC20179B83F66458F8C1B0653EF11BAA4B3CF6B2, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:332>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:381>
 		return;
 	}
 
-IL_04ba:
+IL_04c1:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:334>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:383>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_190 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_191;
 		L_191 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_190, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_191)
 		{
-			goto IL_04d3;
+			goto IL_04da;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:336>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:385>
 		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteral0A9E0AF8C275D21058FF3CB0D068EBB636AB8F9C, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:337>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:386>
 		return;
 	}
 
-IL_04d3:
+IL_04da:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:342>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:391>
 		V_3 = (List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999*)NULL;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:343>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:392>
 		V_4 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)NULL;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:344>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:393>
 		V_5 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)NULL;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:346>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:395>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_192;
 		L_192 = CountingGameManager_GetActiveThemePrefabs_m6647A4861BFADCF6D60C423116BD53F9E8119C0C(__this, NULL);
 		V_6 = L_192;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:347>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:396>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_193 = V_6;
 		if (!L_193)
 		{
-			goto IL_04ec;
+			goto IL_04f3;
 		}
 	}
 	{
@@ -12926,74 +13189,74 @@ IL_04d3:
 		NullCheck(L_194);
 		if ((((RuntimeArray*)L_194)->max_length))
 		{
-			goto IL_04f4;
+			goto IL_04fb;
 		}
 	}
 
-IL_04ec:
+IL_04f3:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:349>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:398>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_195 = __this->___objectCategoryPrefabs;
 		V_6 = L_195;
 	}
 
-IL_04f4:
+IL_04fb:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:352>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:401>
 		bool L_196 = __this->___diceMode;
 		if (L_196)
 		{
-			goto IL_0507;
+			goto IL_050e;
 		}
 	}
 	{
 		bool L_197 = __this->___fingerMode;
 		if (!L_197)
 		{
-			goto IL_060c;
+			goto IL_0613;
 		}
 	}
 
-IL_0507:
+IL_050e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:354>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:403>
 		bool L_198 = __this->___diceMode;
 		if (L_198)
 		{
-			goto IL_0512;
+			goto IL_0519;
 		}
 	}
 	{
 		G_B90_0 = 5;
-		goto IL_0513;
+		goto IL_051a;
 	}
 
-IL_0512:
+IL_0519:
 	{
 		G_B90_0 = 6;
 	}
 
-IL_0513:
+IL_051a:
 	{
 		V_31 = G_B90_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:355>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:404>
 		int32_t L_199 = __this->___slotCount;
 		int32_t L_200 = __this->___minCount;
 		int32_t L_201 = __this->___maxCount;
 		int32_t L_202 = V_31;
 		List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* L_203;
 		L_203 = CountingGameManager_GenerateCountingDiceOrFingerData_m5BCAE0FC8A016422048FC575B66A38A0AFCA1942(__this, L_199, L_200, L_201, L_202, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:356>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:405>
 		List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* L_204 = L_203;
 		il2cpp_codegen_runtime_class_init_inline(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var);
-		Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* L_205 = ((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__40_0;
+		Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* L_205 = ((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__45_0;
 		Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* L_206 = L_205;
 		if (L_206)
 		{
 			G_B92_0 = L_206;
 			G_B92_1 = L_204;
 			G_B92_2 = L_204;
-			goto IL_054f;
+			goto IL_0556;
 		}
 		G_B91_0 = L_206;
 		G_B91_1 = L_204;
@@ -13003,27 +13266,27 @@ IL_0513:
 		il2cpp_codegen_runtime_class_init_inline(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var);
 		U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531* L_207 = ((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9;
 		Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* L_208 = (Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89*)il2cpp_codegen_object_new(Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89_il2cpp_TypeInfo_var);
-		Func_2__ctor_m48FD0C8B5FC572B5E6E98915A8472EC2A56BE75B(L_208, L_207, (intptr_t)((void*)U3CU3Ec_U3CGenerateRoundU3Eb__40_0_mF338450792769E528C65939EAA9A0786178B4A95_RuntimeMethod_var), NULL);
+		Func_2__ctor_m48FD0C8B5FC572B5E6E98915A8472EC2A56BE75B(L_208, L_207, (intptr_t)((void*)U3CU3Ec_U3CGenerateRoundU3Eb__45_0_mA705B80A548C801A3BB87C26819EC354FFD8B571_RuntimeMethod_var), NULL);
 		Func_2_t32945EDAB28B4F222B6B3A7594E3999A349EFB89* L_209 = L_208;
-		((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__40_0 = L_209;
-		Il2CppCodeGenWriteBarrier((void**)(&((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__40_0), (void*)L_209);
+		((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__45_0 = L_209;
+		Il2CppCodeGenWriteBarrier((void**)(&((U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_StaticFields*)il2cpp_codegen_static_fields_for(U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531_il2cpp_TypeInfo_var))->___U3CU3E9__45_0), (void*)L_209);
 		G_B92_0 = L_209;
 		G_B92_1 = G_B91_1;
 		G_B92_2 = G_B91_2;
 	}
 
-IL_054f:
+IL_0556:
 	{
 		RuntimeObject* L_210;
 		L_210 = Enumerable_Select_TisValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m0CD02546D1EC85CB4ADC7AE8A9E1A161FAB60018(G_B92_1, G_B92_0, Enumerable_Select_TisValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m0CD02546D1EC85CB4ADC7AE8A9E1A161FAB60018_RuntimeMethod_var);
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_211;
 		L_211 = Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC(L_210, Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC_RuntimeMethod_var);
 		V_2 = L_211;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:358>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:407>
 		List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999* L_212 = (List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999*)il2cpp_codegen_object_new(List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999_il2cpp_TypeInfo_var);
 		List_1__ctor_m45871EB3EC66064FD05507E32A0B0B735F780A59(L_212, List_1__ctor_m45871EB3EC66064FD05507E32A0B0B735F780A59_RuntimeMethod_var);
 		V_3 = L_212;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:359>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:408>
 		NullCheck(G_B92_2);
 		Enumerator_tB9E435D576FA201C6615641E4F3C3D16CDCD8D4F L_213;
 		L_213 = List_1_GetEnumerator_m9D9F25CB9F9CDC7A44B46C691A2F50F80D1CD38C(G_B92_2, List_1_GetEnumerator_m9D9F25CB9F9CDC7A44B46C691A2F50F80D1CD38C_RuntimeMethod_var);
@@ -13033,7 +13296,7 @@ IL_054f:
 		auto __finallyBlock = il2cpp::utils::Finally([&]
 		{
 
-FINALLY_05fe:
+FINALLY_0605:
 			{
 				Enumerator_Dispose_mC4083892F8C1BBB0504F464AD4ECB22AFA3746AB((&V_32), Enumerator_Dispose_mC4083892F8C1BBB0504F464AD4ECB22AFA3746AB_RuntimeMethod_var);
 				return;
@@ -13042,20 +13305,20 @@ FINALLY_05fe:
 		try
 		{
 			{
-				goto IL_05f0_1;
+				goto IL_05f7_1;
 			}
 
-IL_056c_1:
+IL_0573_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:359>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:408>
 				ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 L_214;
 				L_214 = Enumerator_get_Current_mC3514C3FA6DBDFB81264482EA7D8CA287587DC4C_inline((&V_32), Enumerator_get_Current_mC3514C3FA6DBDFB81264482EA7D8CA287587DC4C_RuntimeMethod_var);
 				V_33 = L_214;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:361>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:410>
 				List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* L_215 = (List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B*)il2cpp_codegen_object_new(List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B_il2cpp_TypeInfo_var);
 				List_1__ctor_m447372C1EF7141193B93090A77395B786C72C7BC(L_215, List_1__ctor_m447372C1EF7141193B93090A77395B786C72C7BC_RuntimeMethod_var);
 				V_34 = L_215;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:362>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:411>
 				ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 L_216 = V_33;
 				List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_217 = L_216.___Item1;
 				NullCheck(L_217);
@@ -13067,7 +13330,7 @@ IL_056c_1:
 				auto __finallyBlock = il2cpp::utils::Finally([&]
 				{
 
-FINALLY_05c7_1:
+FINALLY_05ce_1:
 					{
 						Enumerator_Dispose_m38A9F15FDBDCDFB9590C961110777EE028621923((&V_35), Enumerator_Dispose_m38A9F15FDBDCDFB9590C961110777EE028621923_RuntimeMethod_var);
 						return;
@@ -13076,22 +13339,22 @@ FINALLY_05c7_1:
 				try
 				{
 					{
-						goto IL_05bc_2;
+						goto IL_05c3_2;
 					}
 
-IL_058c_2:
+IL_0593_2:
 					{
-						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:362>
+						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:411>
 						int32_t L_219;
 						L_219 = Enumerator_get_Current_mB49912FF111A954F2C326BF4FA29A53C1027187B_inline((&V_35), Enumerator_get_Current_mB49912FF111A954F2C326BF4FA29A53C1027187B_RuntimeMethod_var);
 						V_36 = L_219;
-						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:363>
+						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:412>
 						List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* L_220 = V_34;
 						bool L_221 = __this->___diceMode;
 						if (L_221)
 						{
 							G_B98_0 = L_220;
-							goto IL_05ac_2;
+							goto IL_05b3_2;
 						}
 						G_B97_0 = L_220;
 					}
@@ -13103,10 +13366,10 @@ IL_058c_2:
 						GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_225 = (L_222)->GetAt(static_cast<il2cpp_array_size_t>(L_224));
 						G_B99_0 = L_225;
 						G_B99_1 = G_B97_0;
-						goto IL_05b7_2;
+						goto IL_05be_2;
 					}
 
-IL_05ac_2:
+IL_05b3_2:
 					{
 						GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_226 = __this->___dicePrefabs;
 						int32_t L_227 = V_36;
@@ -13117,24 +13380,24 @@ IL_05ac_2:
 						G_B99_1 = G_B98_0;
 					}
 
-IL_05b7_2:
+IL_05be_2:
 					{
 						NullCheck(G_B99_1);
 						List_1_Add_m43FBF207375C6E06B8C45ECE614F9B8008FB686E_inline(G_B99_1, G_B99_0, List_1_Add_m43FBF207375C6E06B8C45ECE614F9B8008FB686E_RuntimeMethod_var);
 					}
 
-IL_05bc_2:
+IL_05c3_2:
 					{
-						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:362>
+						//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:411>
 						bool L_230;
 						L_230 = Enumerator_MoveNext_m39C71A39758E2B4A04F44F20FCEFAF7009D5F312((&V_35), Enumerator_MoveNext_m39C71A39758E2B4A04F44F20FCEFAF7009D5F312_RuntimeMethod_var);
 						if (L_230)
 						{
-							goto IL_058c_2;
+							goto IL_0593_2;
 						}
 					}
 					{
-						goto IL_05d5_1;
+						goto IL_05dc_1;
 					}
 				}
 				catch(Il2CppExceptionWrapper& e)
@@ -13143,9 +13406,9 @@ IL_05bc_2:
 				}
 			}
 
-IL_05d5_1:
+IL_05dc_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:365>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:414>
 				List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999* L_231 = V_3;
 				List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* L_232 = V_34;
 				ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 L_233 = V_33;
@@ -13159,18 +13422,18 @@ IL_05d5_1:
 				List_1_Add_mBF5EC1299159ED38A90C1ECE156DBE153E8AEC9B_inline(L_231, L_237, List_1_Add_mBF5EC1299159ED38A90C1ECE156DBE153E8AEC9B_RuntimeMethod_var);
 			}
 
-IL_05f0_1:
+IL_05f7_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:359>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:408>
 				bool L_238;
 				L_238 = Enumerator_MoveNext_m27693AA5B14B3FAE9C0112C57FC28A8F1A9AF087((&V_32), Enumerator_MoveNext_m27693AA5B14B3FAE9C0112C57FC28A8F1A9AF087_RuntimeMethod_var);
 				if (L_238)
 				{
-					goto IL_056c_1;
+					goto IL_0573_1;
 				}
 			}
 			{
-				goto IL_0641;
+				goto IL_0648;
 			}
 		}
 		catch(Il2CppExceptionWrapper& e)
@@ -13179,19 +13442,19 @@ IL_05f0_1:
 		}
 	}
 
-IL_060c:
+IL_0613:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:370>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:419>
 		int32_t L_239 = __this->___slotCount;
 		int32_t L_240 = __this->___minCount;
 		int32_t L_241 = __this->___maxCount;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_242;
 		L_242 = CountingGameManager_UniqueRandomList_m4E015AD89168591011BD06F2E505A2164D0A5324(__this, L_239, L_240, L_241, NULL);
 		V_4 = L_242;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:371>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:420>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_243 = V_4;
 		V_2 = L_243;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:373>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:422>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_244 = V_6;
 		NullCheck(L_244);
 		RuntimeObject* L_245;
@@ -13199,35 +13462,35 @@ IL_060c:
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_246;
 		L_246 = Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC(L_245, Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC_RuntimeMethod_var);
 		V_5 = L_246;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:374>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:423>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_247 = V_5;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555(L_247, CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555_RuntimeMethod_var);
 	}
 
-IL_0641:
+IL_0648:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:378>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:427>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_248 = V_2;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_249 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_mCC0E71080DE343C1A527526A1AC2DBEC355CEA6C(L_249, L_248, List_1__ctor_mCC0E71080DE343C1A527526A1AC2DBEC355CEA6C_RuntimeMethod_var);
 		V_7 = L_249;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:379>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:428>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_250 = V_7;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555(L_250, CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:382>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:431>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_251 = (List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF*)il2cpp_codegen_object_new(List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF_il2cpp_TypeInfo_var);
 		List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D(L_251, List_1__ctor_mE1298EFE02E4CF09A9513D04C6D0FE12C4A5A96D_RuntimeMethod_var);
 		V_8 = L_251;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:383>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:432>
 		V_37 = 0;
-		goto IL_067d;
+		goto IL_0684;
 	}
 
-IL_065c:
+IL_0663:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:385>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:434>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_252 = V_8;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		ColorU5BU5D_t612261CF293F6FFC3D80AB52259FF0DC2B2CC389* L_253 = ((CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_StaticFields*)il2cpp_codegen_static_fields_for(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var))->___Palette;
@@ -13239,14 +13502,14 @@ IL_065c:
 		Color_tD001788D726C3A7F1379BEED0260B9591F440C1F L_257 = (L_253)->GetAt(static_cast<il2cpp_array_size_t>(L_256));
 		NullCheck(L_252);
 		List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_inline(L_252, L_257, List_1_Add_m4EA3769821DBDED34CA0EBACD784AC6C1A536C1A_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:383>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:432>
 		int32_t L_258 = V_37;
 		V_37 = ((int32_t)il2cpp_codegen_add(L_258, 1));
 	}
 
-IL_067d:
+IL_0684:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:383>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:432>
 		int32_t L_259 = V_37;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_260 = V_7;
 		NullCheck(L_260);
@@ -13254,26 +13517,26 @@ IL_067d:
 		L_261 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_260, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		if ((((int32_t)L_259) < ((int32_t)L_261)))
 		{
-			goto IL_065c;
+			goto IL_0663;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:387>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:436>
 		List_1_t242CDEAEC9C92000DA96982CDB9D592DDE2AADAF* L_262 = V_8;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2(L_262, CountingGameManager_Shuffle_TisColor_tD001788D726C3A7F1379BEED0260B9591F440C1F_mF5721D3A6033C7F6FA4B6B0A90DC995DC31AF1E2_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:390>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:439>
 		bool L_263 = __this->___diceMode;
 		if (L_263)
 		{
-			goto IL_06a8;
+			goto IL_06af;
 		}
 	}
 	{
 		bool L_264 = __this->___fingerMode;
 		if (L_264)
 		{
-			goto IL_06a8;
+			goto IL_06af;
 		}
 	}
 	{
@@ -13282,10 +13545,10 @@ IL_067d:
 		int32_t L_266;
 		L_266 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_265, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		G_B115_0 = L_266;
-		goto IL_06ae;
+		goto IL_06b5;
 	}
 
-IL_06a8:
+IL_06af:
 	{
 		List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999* L_267 = V_3;
 		NullCheck(L_267);
@@ -13294,45 +13557,45 @@ IL_06a8:
 		G_B115_0 = L_268;
 	}
 
-IL_06ae:
+IL_06b5:
 	{
 		V_9 = G_B115_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:391>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:440>
 		V_38 = 0;
-		goto IL_074d;
+		goto IL_0754;
 	}
 
-IL_06b8:
+IL_06bf:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:393>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:442>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_269 = __this->___slotPrefab;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_270 = __this->___slotsContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_271;
 		L_271 = Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811(L_269, L_270, Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:394>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:443>
 		NullCheck(L_271);
 		CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* L_272;
 		L_272 = GameObject_GetComponent_TisCountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F_mAFA1ED1D83C5BBCD636B2399AE48D649D33CCCCC(L_271, GameObject_GetComponent_TisCountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F_mAFA1ED1D83C5BBCD636B2399AE48D649D33CCCCC_RuntimeMethod_var);
 		V_39 = L_272;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:396>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:445>
 		bool L_273 = __this->___diceMode;
 		if (L_273)
 		{
-			goto IL_06e0;
+			goto IL_06e7;
 		}
 	}
 	{
 		bool L_274 = __this->___fingerMode;
 		if (!L_274)
 		{
-			goto IL_0711;
+			goto IL_0718;
 		}
 	}
 
-IL_06e0:
+IL_06e7:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:398>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:447>
 		CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* L_275 = V_39;
 		List_1_t5B0A82AA9D9953CADE298620A53A8CDA4306E999* L_276 = V_3;
 		int32_t L_277 = V_38;
@@ -13354,12 +13617,12 @@ IL_06e0:
 		int32_t L_287 = L_286.___Item3;
 		NullCheck(L_275);
 		CountingSlot_Setup_m3D0CB26E4DDA7E897A4C6C4226686241ED083555(L_275, L_279, L_283, L_287, __this, NULL);
-		goto IL_073a;
+		goto IL_0741;
 	}
 
-IL_0711:
+IL_0718:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:402>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:451>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_288 = V_6;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_289 = V_5;
 		int32_t L_290 = V_38;
@@ -13374,7 +13637,7 @@ IL_0711:
 		int32_t L_294 = L_293;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_295 = (L_288)->GetAt(static_cast<il2cpp_array_size_t>(L_294));
 		V_40 = L_295;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:403>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:452>
 		CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* L_296 = V_39;
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_297 = V_40;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_298 = V_4;
@@ -13386,73 +13649,73 @@ IL_0711:
 		CountingSlot_Setup_mEB8282AEA99808676BEA01DF367BC3AC18EC43A4(L_296, L_297, L_300, __this, NULL);
 	}
 
-IL_073a:
+IL_0741:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:405>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:454>
 		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_301 = __this->____slots;
 		CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* L_302 = V_39;
 		NullCheck(L_301);
 		List_1_Add_mFCFE2618E0671DD7C8A8274D69E16CED3771B5D0_inline(L_301, L_302, List_1_Add_mFCFE2618E0671DD7C8A8274D69E16CED3771B5D0_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:391>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:440>
 		int32_t L_303 = V_38;
 		V_38 = ((int32_t)il2cpp_codegen_add(L_303, 1));
 	}
 
-IL_074d:
+IL_0754:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:391>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:440>
 		int32_t L_304 = V_38;
 		int32_t L_305 = V_9;
 		if ((((int32_t)L_304) < ((int32_t)L_305)))
 		{
-			goto IL_06b8;
+			goto IL_06bf;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:409>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:458>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_306 = __this->___slotsContainer;
 		NullCheck(L_306);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_307;
 		L_307 = Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4(L_306, Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4_RuntimeMethod_var);
 		V_10 = L_307;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:410>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:459>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_308 = V_10;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_309;
 		L_309 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_308, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (!L_309)
 		{
-			goto IL_0774;
+			goto IL_077b;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:410>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:459>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_310 = V_10;
 		il2cpp_codegen_runtime_class_init_inline(LayoutRebuilder_tD2269CCD93BD5A8C4A92188C66E212B976FA6564_il2cpp_TypeInfo_var);
 		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_310, NULL);
 	}
 
-IL_0774:
+IL_077b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:413>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:462>
 		V_41 = 0;
-		goto IL_07c3;
+		goto IL_07ca;
 	}
 
-IL_0779:
+IL_0780:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:415>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:464>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_311 = __this->___answerCardPrefab;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_312 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_313;
 		L_313 = Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811(L_311, L_312, Object_Instantiate_TisGameObject_t76FEDD663AB33C991A9C9A23129337651094216F_m58C654F1134533E29502629CA67645682B404811_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:416>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:465>
 		NullCheck(L_313);
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_314;
 		L_314 = GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6(L_313, GameObject_GetComponent_TisAnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746_m8562BF750A2649F1FA3D097993D2CC10EF4541B6_RuntimeMethod_var);
 		V_42 = L_314;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:417>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:466>
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_315 = V_42;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_316 = V_7;
 		int32_t L_317 = V_41;
@@ -13466,19 +13729,19 @@ IL_0779:
 		L_321 = List_1_get_Item_mE616D49F5F6197745A12A06084EEE9E6FFCF017F(L_319, L_320, List_1_get_Item_mE616D49F5F6197745A12A06084EEE9E6FFCF017F_RuntimeMethod_var);
 		NullCheck(L_315);
 		AnswerCard_Setup_m68449970B7F76BB6A89D20645744FE73CCF7442F(L_315, L_318, L_321, (String_t*)NULL, (1.39999998f), NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:418>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:467>
 		List_1_t0C0F2FAB33288F98EC9522FDE6CA746D75180475* L_322 = __this->____cards;
 		AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* L_323 = V_42;
 		NullCheck(L_322);
 		List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_inline(L_322, L_323, List_1_Add_mFAEF4F12FE2809BD0F59FD1C420EB95964F1F285_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:413>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:462>
 		int32_t L_324 = V_41;
 		V_41 = ((int32_t)il2cpp_codegen_add(L_324, 1));
 	}
 
-IL_07c3:
+IL_07ca:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:413>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:462>
 		int32_t L_325 = V_41;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_326 = V_7;
 		NullCheck(L_326);
@@ -13486,17 +13749,17 @@ IL_07c3:
 		L_327 = List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_inline(L_326, List_1_get_Count_mF590592E32D421DE2C6E2F0D5C2F62FB14CCEFDF_RuntimeMethod_var);
 		if ((((int32_t)L_325) < ((int32_t)L_327)))
 		{
-			goto IL_0779;
+			goto IL_0780;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:420>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:469>
 		CountingGameManager_UpdateScrollLocking_mC55BE1D6A7AD8F88A0E8A8F0C8905CBD74768987(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:421>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:470>
 		return;
 	}
 }
-// Method Definition Index: 44302
+// Method Definition Index: 44313
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ClearPrevious_mBD9060AEDB888CA54910E7AF3EB977D3833D863A (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -13515,7 +13778,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ClearPrevious_mBD906
 	int32_t V_4 = 0;
 	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* V_5 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:425>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:474>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = __this->___slotsContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -13526,7 +13789,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ClearPrevious_mBD906
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:427>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:476>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2 = __this->___slotsContainer;
 		NullCheck(L_2);
 		int32_t L_3;
@@ -13537,25 +13800,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_ClearPrevious_mBD906
 
 IL_001e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:429>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:478>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = __this->___slotsContainer;
 		int32_t L_5 = V_0;
 		NullCheck(L_4);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
 		L_6 = Transform_GetChild_mE686DF0C7AAC1F7AEF356967B1C04D8B8E240EAF(L_4, L_5, NULL);
 		V_1 = L_6;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:430>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:479>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7 = V_1;
 		NullCheck(L_7);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_8;
 		L_8 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_7, NULL);
 		NullCheck(L_8);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_8, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:431>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:480>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9 = V_1;
 		NullCheck(L_9);
 		Transform_SetParent_m6677538B60246D958DD91F931C50F969CCBB5250(L_9, (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1*)NULL, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:432>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:481>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		bool L_10;
 		L_10 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
@@ -13565,7 +13828,7 @@ IL_001e:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:432>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:481>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_11 = V_1;
 		NullCheck(L_11);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_12;
@@ -13577,7 +13840,7 @@ IL_001e:
 
 IL_0052:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:433>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:482>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_13 = V_1;
 		NullCheck(L_13);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_14;
@@ -13588,14 +13851,14 @@ IL_0052:
 
 IL_005d:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:427>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:476>
 		int32_t L_15 = V_0;
 		V_0 = ((int32_t)il2cpp_codegen_subtract(L_15, 1));
 	}
 
 IL_0061:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:427>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:476>
 		int32_t L_16 = V_0;
 		if ((((int32_t)L_16) >= ((int32_t)0)))
 		{
@@ -13605,7 +13868,7 @@ IL_0061:
 
 IL_0065:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:436>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:485>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_17 = __this->___premadeSlotsContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_18;
@@ -13627,7 +13890,7 @@ IL_0065:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:438>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:487>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_22 = __this->___premadeSlotsContainer;
 		NullCheck(L_22);
 		int32_t L_23;
@@ -13638,25 +13901,25 @@ IL_0065:
 
 IL_0096:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:440>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:489>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_24 = __this->___premadeSlotsContainer;
 		int32_t L_25 = V_2;
 		NullCheck(L_24);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_26;
 		L_26 = Transform_GetChild_mE686DF0C7AAC1F7AEF356967B1C04D8B8E240EAF(L_24, L_25, NULL);
 		V_3 = L_26;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:441>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:490>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_27 = V_3;
 		NullCheck(L_27);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_28;
 		L_28 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_27, NULL);
 		NullCheck(L_28);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_28, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:442>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:491>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_29 = V_3;
 		NullCheck(L_29);
 		Transform_SetParent_m6677538B60246D958DD91F931C50F969CCBB5250(L_29, (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1*)NULL, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:443>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:492>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		bool L_30;
 		L_30 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
@@ -13666,7 +13929,7 @@ IL_0096:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:443>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:492>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_31 = V_3;
 		NullCheck(L_31);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_32;
@@ -13678,7 +13941,7 @@ IL_0096:
 
 IL_00ca:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:444>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:493>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_33 = V_3;
 		NullCheck(L_33);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_34;
@@ -13689,14 +13952,14 @@ IL_00ca:
 
 IL_00d5:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:438>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:487>
 		int32_t L_35 = V_2;
 		V_2 = ((int32_t)il2cpp_codegen_subtract(L_35, 1));
 	}
 
 IL_00d9:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:438>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:487>
 		int32_t L_36 = V_2;
 		if ((((int32_t)L_36) >= ((int32_t)0)))
 		{
@@ -13706,7 +13969,7 @@ IL_00d9:
 
 IL_00dd:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:447>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:496>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_37 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_38;
@@ -13717,7 +13980,7 @@ IL_00dd:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:449>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:498>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_39 = __this->___answersContainer;
 		NullCheck(L_39);
 		int32_t L_40;
@@ -13728,25 +13991,25 @@ IL_00dd:
 
 IL_00fc:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:451>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:500>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_41 = __this->___answersContainer;
 		int32_t L_42 = V_4;
 		NullCheck(L_41);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_43;
 		L_43 = Transform_GetChild_mE686DF0C7AAC1F7AEF356967B1C04D8B8E240EAF(L_41, L_42, NULL);
 		V_5 = L_43;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:452>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:501>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_44 = V_5;
 		NullCheck(L_44);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_45;
 		L_45 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_44, NULL);
 		NullCheck(L_45);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_45, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:453>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:502>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_46 = V_5;
 		NullCheck(L_46);
 		Transform_SetParent_m6677538B60246D958DD91F931C50F969CCBB5250(L_46, (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1*)NULL, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:454>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:503>
 		il2cpp_codegen_runtime_class_init_inline(Application_tDB03BE91CDF0ACA614A5E0B67CFB77C44EB19B21_il2cpp_TypeInfo_var);
 		bool L_47;
 		L_47 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
@@ -13756,7 +14019,7 @@ IL_00fc:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:454>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:503>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_48 = V_5;
 		NullCheck(L_48);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_49;
@@ -13768,7 +14031,7 @@ IL_00fc:
 
 IL_0135:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:455>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:504>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_50 = V_5;
 		NullCheck(L_50);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_51;
@@ -13779,14 +14042,14 @@ IL_0135:
 
 IL_0141:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:449>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:498>
 		int32_t L_52 = V_4;
 		V_4 = ((int32_t)il2cpp_codegen_subtract(L_52, 1));
 	}
 
 IL_0147:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:449>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:498>
 		int32_t L_53 = V_4;
 		if ((((int32_t)L_53) >= ((int32_t)0)))
 		{
@@ -13796,19 +14059,19 @@ IL_0147:
 
 IL_014c:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:458>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:507>
 		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_54 = __this->____slots;
 		NullCheck(L_54);
 		List_1_Clear_mF01A89813B0F8B6B79297DC11498C82A00EC8F48_inline(L_54, List_1_Clear_mF01A89813B0F8B6B79297DC11498C82A00EC8F48_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:459>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:508>
 		List_1_t0C0F2FAB33288F98EC9522FDE6CA746D75180475* L_55 = __this->____cards;
 		NullCheck(L_55);
 		List_1_Clear_mACA525DCF95A85BED00DF4A61B6D843BDD74B6E0_inline(L_55, List_1_Clear_mACA525DCF95A85BED00DF4A61B6D843BDD74B6E0_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:460>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:509>
 		return;
 	}
 }
-// Method Definition Index: 44303
+// Method Definition Index: 44314
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* CountingGameManager_GenerateCountingDiceOrFingerData_m5BCAE0FC8A016422048FC575B66A38A0AFCA1942 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, int32_t ___0_count, int32_t ___1_minCount, int32_t ___2_maxCount, int32_t ___3_maxValPerItem, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -13830,17 +14093,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744
 	int32_t V_2 = 0;
 	List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* V_3 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:466>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:515>
 		List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* L_0 = (List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047*)il2cpp_codegen_object_new(List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047_il2cpp_TypeInfo_var);
 		List_1__ctor_m3B6522F1C2EC4200A9EE50F92879F8CF40184E95(L_0, List_1__ctor_m3B6522F1C2EC4200A9EE50F92879F8CF40184E95_RuntimeMethod_var);
 		V_0 = L_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:467>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:516>
 		int32_t L_1 = ___0_count;
 		int32_t L_2 = ___1_minCount;
 		int32_t L_3 = ___2_maxCount;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_4;
 		L_4 = CountingGameManager_UniqueRandomList_m4E015AD89168591011BD06F2E505A2164D0A5324(__this, L_1, L_2, L_3, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:469>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:518>
 		NullCheck(L_4);
 		Enumerator_t9DBCD072C72E44AB8959D9884EF7F528028F20EC L_5;
 		L_5 = List_1_GetEnumerator_mCADB185AB483C855873FCD0B1D5AAC909ED7F7BD(L_4, List_1_GetEnumerator_mCADB185AB483C855873FCD0B1D5AAC909ED7F7BD_RuntimeMethod_var);
@@ -13864,17 +14127,17 @@ FINALLY_0041:
 
 IL_0017_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:469>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:518>
 				int32_t L_6;
 				L_6 = Enumerator_get_Current_mB49912FF111A954F2C326BF4FA29A53C1027187B_inline((&V_1), Enumerator_get_Current_mB49912FF111A954F2C326BF4FA29A53C1027187B_RuntimeMethod_var);
 				V_2 = L_6;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:471>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:520>
 				int32_t L_7 = V_2;
 				int32_t L_8 = ___3_maxValPerItem;
 				List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_9;
 				L_9 = CountingGameManager_BreakDownTargetSumIntoItems_m44543C386CADF6294515BE2D7DB95E27792162A4(__this, L_7, L_8, NULL);
 				V_3 = L_9;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:472>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:521>
 				List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* L_10 = V_0;
 				List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_11 = V_3;
 				int32_t L_12 = V_2;
@@ -13887,7 +14150,7 @@ IL_0017_1:
 
 IL_0036_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:469>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:518>
 				bool L_14;
 				L_14 = Enumerator_MoveNext_m39C71A39758E2B4A04F44F20FCEFAF7009D5F312((&V_1), Enumerator_MoveNext_m39C71A39758E2B4A04F44F20FCEFAF7009D5F312_RuntimeMethod_var);
 				if (L_14)
@@ -13907,12 +14170,12 @@ IL_0036_1:
 
 IL_004f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:475>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:524>
 		List_1_t2DF0D32AE0E1D3FFBAC184DC94CE4ECB6E744047* L_15 = V_0;
 		return L_15;
 	}
 }
-// Method Definition Index: 44304
+// Method Definition Index: 44315
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* CountingGameManager_BreakDownTargetSumIntoItems_m44543C386CADF6294515BE2D7DB95E27792162A4 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, int32_t ___0_targetSum, int32_t ___1_maxValPerItem, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -13927,14 +14190,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872
 	int32_t V_1 = 0;
 	int32_t V_2 = 0;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:480>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:529>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_0 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8(L_0, List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8_RuntimeMethod_var);
 		V_0 = L_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:481>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:530>
 		int32_t L_1 = ___0_targetSum;
 		V_1 = L_1;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:483>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:532>
 		int32_t L_2 = V_1;
 		int32_t L_3 = ___1_maxValPerItem;
 		if ((((int32_t)L_2) > ((int32_t)L_3)))
@@ -13943,30 +14206,30 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:485>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:534>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_4 = V_0;
 		int32_t L_5 = V_1;
 		NullCheck(L_4);
 		List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_inline(L_4, L_5, List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:486>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:535>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_6 = V_0;
 		return L_6;
 	}
 
 IL_0015:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:491>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:540>
 		int32_t L_7 = ___1_maxValPerItem;
 		int32_t L_8 = V_1;
 		int32_t L_9;
 		L_9 = Mathf_Min_m888083F74FF5655778F0403BB5E9608BEFDEA8CB_inline(L_7, L_8, NULL);
 		V_2 = L_9;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:492>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:541>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_10 = V_0;
 		int32_t L_11 = V_2;
 		NullCheck(L_10);
 		List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_inline(L_10, L_11, List_1_Add_m0248A96C5334E9A93E6994B7780478BCD994EA3D_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:493>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:542>
 		int32_t L_12 = V_1;
 		int32_t L_13 = V_2;
 		V_1 = ((int32_t)il2cpp_codegen_subtract(L_12, L_13));
@@ -13974,7 +14237,7 @@ IL_0015:
 
 IL_0028:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:489>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:538>
 		int32_t L_14 = V_1;
 		if ((((int32_t)L_14) > ((int32_t)0)))
 		{
@@ -13982,12 +14245,12 @@ IL_0028:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:496>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:545>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_15 = V_0;
 		return L_15;
 	}
 }
-// Method Definition Index: 44305
+// Method Definition Index: 44316
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* CountingGameManager_GetActiveThemePrefabs_m6647A4861BFADCF6D60C423116BD53F9E8119C0C (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14004,7 +14267,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15
 	ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* V_1 = NULL;
 	GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* V_2 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:501>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:550>
 		List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689* L_0 = __this->___themes;
 		if (L_0)
 		{
@@ -14012,13 +14275,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:501>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:550>
 		return (GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF*)NULL;
 	}
 
 IL_000a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:502>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:551>
 		List_1_tE67B7BC69FE327D1BE2EE40A1651255D82233689* L_1 = __this->___themes;
 		NullCheck(L_1);
 		Enumerator_tF4000ACD34BD6E8FEB73D1F6BAD9450A262879F9 L_2;
@@ -14043,11 +14306,11 @@ FINALLY_0050:
 
 IL_0018_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:502>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:551>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_3;
 				L_3 = Enumerator_get_Current_m55B68BF8D22D41BE8C647F5E93EF921B292DB05A_inline((&V_0), Enumerator_get_Current_m55B68BF8D22D41BE8C647F5E93EF921B292DB05A_RuntimeMethod_var);
 				V_1 = L_3;
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:504>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:553>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_4 = V_1;
 				if (!L_4)
 				{
@@ -14083,7 +14346,7 @@ IL_0018_1:
 				}
 			}
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:506>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:555>
 				ObjectCategoryTheme_tAF5DEA87CC95EFD6A3111881CDAB012CC0C64DE4* L_11 = V_1;
 				NullCheck(L_11);
 				GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_12 = L_11->___prefabs;
@@ -14093,7 +14356,7 @@ IL_0018_1:
 
 IL_0045_1:
 			{
-				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:502>
+				//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:551>
 				bool L_13;
 				L_13 = Enumerator_MoveNext_m77133CC7DED6390B1F0790A67E356179B606890C((&V_0), Enumerator_MoveNext_m77133CC7DED6390B1F0790A67E356179B606890C_RuntimeMethod_var);
 				if (L_13)
@@ -14113,18 +14376,18 @@ IL_0045_1:
 
 IL_005e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:509>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:558>
 		return (GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF*)NULL;
 	}
 
 IL_0060:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:510>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:559>
 		GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* L_14 = V_2;
 		return L_14;
 	}
 }
-// Method Definition Index: 44306
+// Method Definition Index: 44317
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* CountingGameManager_UniqueRandomList_m4E015AD89168591011BD06F2E505A2164D0A5324 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, int32_t ___0_count, int32_t ___1_min, int32_t ___2_max, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14145,13 +14408,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872
 	List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* V_2 = NULL;
 	int32_t V_3 = 0;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:514>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:563>
 		int32_t L_0 = ___2_max;
 		int32_t L_1 = ___1_min;
 		int32_t L_2;
 		L_2 = Mathf_Max_m7FA442918DE37E3A00106D1F2E789D65829792B8_inline(1, ((int32_t)il2cpp_codegen_add(((int32_t)il2cpp_codegen_subtract(L_0, L_1)), 1)), NULL);
 		V_0 = L_2;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:515>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:564>
 		int32_t L_3 = ___1_min;
 		int32_t L_4 = V_0;
 		RuntimeObject* L_5;
@@ -14159,22 +14422,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_t05915E9237850A58106982B7FE4BC5DA4E872
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_6;
 		L_6 = Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC(L_5, Enumerable_ToList_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m3E9A8F467117CBA5D91E50BC524DEA85E532EAAC_RuntimeMethod_var);
 		V_1 = L_6;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:516>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:565>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_7 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
 		CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555(L_7, CountingGameManager_Shuffle_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m47A8633C6590388A4023C66B2B024BEAD8027555_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:518>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:567>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_8 = (List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73*)il2cpp_codegen_object_new(List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73_il2cpp_TypeInfo_var);
 		List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8(L_8, List_1__ctor_m17F501B5A5C289ECE1B4F3D6EBF05DFA421433F8_RuntimeMethod_var);
 		V_2 = L_8;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:519>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:568>
 		V_3 = 0;
 		goto IL_0054;
 	}
 
 IL_0029:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:521>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:570>
 		int32_t L_9 = V_3;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_10 = V_1;
 		NullCheck(L_10);
@@ -14186,7 +14449,7 @@ IL_0029:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:523>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:572>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_12 = V_2;
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_13 = V_1;
 		int32_t L_14 = V_3;
@@ -14200,7 +14463,7 @@ IL_0029:
 
 IL_0041:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:527>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:576>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_16 = V_2;
 		int32_t L_17 = ___1_min;
 		int32_t L_18 = ___2_max;
@@ -14212,14 +14475,14 @@ IL_0041:
 
 IL_0050:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:519>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:568>
 		int32_t L_20 = V_3;
 		V_3 = ((int32_t)il2cpp_codegen_add(L_20, 1));
 	}
 
 IL_0054:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:519>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:568>
 		int32_t L_21 = V_3;
 		int32_t L_22 = ___0_count;
 		if ((((int32_t)L_21) < ((int32_t)L_22)))
@@ -14228,18 +14491,18 @@ IL_0054:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:530>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:579>
 		List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* L_23 = V_2;
 		return L_23;
 	}
 }
-// Method Definition Index: 44307
+// Method Definition Index: 44318
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLocking_mC55BE1D6A7AD8F88A0E8A8F0C8905CBD74768987 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:535>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:584>
 		CountingGameManager_UpdateScrollLockingInternal_m4E16623959B0C7334329E291BB4940A9DD927D67(__this, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:536>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:585>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0;
 		L_0 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(__this, NULL);
 		NullCheck(L_0);
@@ -14251,7 +14514,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLocking_
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:538>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:587>
 		RuntimeObject* L_2;
 		L_2 = CountingGameManager_UpdateScrollLockingRoutine_m22AB67A1A2980051D4C0888DA1CC83476550ECE0(__this, NULL);
 		Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B* L_3;
@@ -14260,44 +14523,85 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLocking_
 
 IL_0020:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:540>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:589>
 		return;
 	}
 }
-// Method Definition Index: 44308
+// Method Definition Index: 44319
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* CountingGameManager_UpdateScrollLockingRoutine_m22AB67A1A2980051D4C0888DA1CC83476550ECE0 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* L_0 = (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6*)il2cpp_codegen_object_new(U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6_il2cpp_TypeInfo_var);
-		U3CUpdateScrollLockingRoutineU3Ed__47__ctor_mCA9C16EEFE5B16E45FCC4FEF3B75F176493E9CAA(L_0, 0, NULL);
-		U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* L_1 = L_0;
+		U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* L_0 = (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191*)il2cpp_codegen_object_new(U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191_il2cpp_TypeInfo_var);
+		U3CUpdateScrollLockingRoutineU3Ed__52__ctor_mA6E566A976B7F87BECE4E96356C93B220B5B6F58(L_0, 0, NULL);
+		U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* L_1 = L_0;
 		NullCheck(L_1);
 		L_1->___U3CU3E4__this = __this;
 		Il2CppCodeGenWriteBarrier((void**)(&L_1->___U3CU3E4__this), (void*)__this);
 		return L_1;
 	}
 }
-// Method Definition Index: 44309
+// Method Definition Index: 44320
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockingInternal_m4E16623959B0C7334329E291BB4940A9DD927D67 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:552>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = __this->___slotsContainer;
-		CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619(__this, L_0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:557>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1 = __this->___answersContainer;
-		CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619(__this, L_1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:558>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:605>
+		int32_t L_0 = __this->____lastScrollLockFrame;
+		int32_t L_1;
+		L_1 = Time_get_frameCount_m4A42E558A71301A216BDC49EC402D62F19C79667(NULL);
+		if ((!(((uint32_t)L_0) == ((uint32_t)L_1))))
+		{
+			goto IL_000e;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:605>
+		return;
+	}
+
+IL_000e:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:606>
+		int32_t L_2;
+		L_2 = Time_get_frameCount_m4A42E558A71301A216BDC49EC402D62F19C79667(NULL);
+		__this->____lastScrollLockFrame = L_2;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:611>
+		bool L_3;
+		L_3 = CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF(__this, NULL);
+		if (!L_3)
+		{
+			goto IL_002f;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:613>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = __this->___premadeSlotsContainer;
+		CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619(__this, L_4, NULL);
+		goto IL_003b;
+	}
+
+IL_002f:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:617>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5 = __this->___slotsContainer;
+		CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619(__this, L_5, NULL);
+	}
+
+IL_003b:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:622>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6 = __this->___answersContainer;
+		CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619(__this, L_6, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:623>
 		return;
 	}
 }
-// Method Definition Index: 44310
+// Method Definition Index: 44321
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockForContainer_m91A58EB581FC8A4A4196AE30CF7477F48A449619 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14310,14 +14614,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockForC
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__0_m6AC9D7556A74C429EAD80764B298B1ABCF864206_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__1_mA6F947724584BA6A53A63E727035F908759770CD_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__0_mDCF42BEED882445C901183930EEF52374C83A1EC_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__1_mDF87574E017EE2CAFA15A2CD7B9B288A9595AA16_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC_RuntimeMethod_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* V_0 = NULL;
+	U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* V_0 = NULL;
 	RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* V_1 = NULL;
 	RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* V_2 = NULL;
 	bool V_3 = false;
@@ -14327,10 +14631,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockForC
 	bool V_6 = false;
 	Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* V_7 = NULL;
 	{
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_0 = (U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B*)il2cpp_codegen_object_new(U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B_il2cpp_TypeInfo_var);
-		U3CU3Ec__DisplayClass49_0__ctor_mD6BECE70B28888DF450A58B5351C087B05BCE65D(L_0, NULL);
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_0 = (U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2*)il2cpp_codegen_object_new(U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2_il2cpp_TypeInfo_var);
+		U3CU3Ec__DisplayClass54_0__ctor_mD0DF66D6D5C52EB42F9DD066DC6278A267382539(L_0, NULL);
 		V_0 = L_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:562>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:627>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_1 = ___0_container;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_2;
@@ -14341,14 +14645,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_UpdateScrollLockForC
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:562>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:627>
 		return;
 	}
 
 IL_0010:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:564>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_3 = V_0;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:629>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_3 = V_0;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4 = ___0_container;
 		NullCheck(L_4);
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_5;
@@ -14356,8 +14660,8 @@ IL_0010:
 		NullCheck(L_3);
 		L_3->___scrollRect = L_5;
 		Il2CppCodeGenWriteBarrier((void**)(&L_3->___scrollRect), (void*)L_5);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:565>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_6 = V_0;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:630>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_6 = V_0;
 		NullCheck(L_6);
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_7 = L_6->___scrollRect;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -14369,321 +14673,337 @@ IL_0010:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:565>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:630>
 		return;
 	}
 
 IL_002b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:571>
-		bool L_9;
-		L_9 = CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF(__this, NULL);
-		if (!L_9)
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:637>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_9 = ___0_container;
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_10 = __this->___premadeSlotsContainer;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_11;
+		L_11 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_9, L_10, NULL);
+		if (!L_11)
 		{
-			goto IL_0040;
+			goto IL_004e;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:573>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_10 = V_0;
-		NullCheck(L_10);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_11 = L_10->___scrollRect;
-		CountingGameManager_SuppressScrollRect_m029EE10A95DB06D1B3758596EF5E468E3AA51E2C(__this, L_11, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:574>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:639>
+		bool L_12;
+		L_12 = CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF(__this, NULL);
+		if (!L_12)
+		{
+			goto IL_004d;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:641>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_13 = V_0;
+		NullCheck(L_13);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_14 = L_13->___scrollRect;
+		CountingGameManager_SuppressScrollRect_m029EE10A95DB06D1B3758596EF5E468E3AA51E2C(__this, L_14, NULL);
+	}
+
+IL_004d:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:645>
 		return;
 	}
 
-IL_0040:
+IL_004e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:577>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_12 = V_0;
-		NullCheck(L_12);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_13 = L_12->___scrollRect;
-		CountingGameManager_RestoreScrollRect_m0F1A7F2BFB2729263EC16534462BD8E0EFACB252(__this, L_13, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:579>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14 = ___0_container;
-		V_1 = ((RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5*)IsInstSealed((RuntimeObject*)L_14, RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_il2cpp_TypeInfo_var));
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:580>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_15 = V_0;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:648>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_15 = V_0;
 		NullCheck(L_15);
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_16 = L_15->___scrollRect;
-		NullCheck(L_16);
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_17;
-		L_17 = ScrollRect_get_viewport_m85092216DD476F77E78F5CE50F9C4E70063ECCF9_inline(L_16, NULL);
-		V_2 = L_17;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:581>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_18 = V_2;
+		CountingGameManager_RestoreScrollRect_m0F1A7F2BFB2729263EC16534462BD8E0EFACB252(__this, L_16, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:650>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_17 = ___0_container;
+		V_1 = ((RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5*)IsInstSealed((RuntimeObject*)L_17, RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_il2cpp_TypeInfo_var));
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:651>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_18 = V_0;
+		NullCheck(L_18);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_19 = L_18->___scrollRect;
+		NullCheck(L_19);
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_20;
+		L_20 = ScrollRect_get_viewport_m85092216DD476F77E78F5CE50F9C4E70063ECCF9_inline(L_19, NULL);
+		V_2 = L_20;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:652>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_21 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_19;
-		L_19 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_18, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_19)
+		bool L_22;
+		L_22 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_21, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_22)
 		{
-			goto IL_0074;
+			goto IL_0082;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:583>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_20 = V_0;
-		NullCheck(L_20);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_21 = L_20->___scrollRect;
-		NullCheck(L_21);
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_22;
-		L_22 = Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4(L_21, Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4_RuntimeMethod_var);
-		V_2 = L_22;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:654>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_23 = V_0;
+		NullCheck(L_23);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_24 = L_23->___scrollRect;
+		NullCheck(L_24);
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_25;
+		L_25 = Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4(L_24, Component_GetComponent_TisRectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_m0640480E7E38BB88B0D1F6AD59E697C8EE6AAFA4_RuntimeMethod_var);
+		V_2 = L_25;
 	}
 
-IL_0074:
+IL_0082:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:586>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_23 = V_1;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:657>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_26 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_24;
-		L_24 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_23, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_24)
+		bool L_27;
+		L_27 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_26, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_27)
 		{
-			goto IL_0201;
+			goto IL_020f;
 		}
 	}
 	{
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_25 = V_2;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_26;
-		L_26 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_25, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_26)
-		{
-			goto IL_0201;
-		}
-	}
-	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:590>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_27 = V_1;
-		CountingGameManager_RebuildLayoutsRecursive_m54C5AA86357E6A219B1C58E8126CDAAAC176D08F(__this, L_27, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:592>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_28 = V_2;
-		il2cpp_codegen_runtime_class_init_inline(LayoutRebuilder_tD2269CCD93BD5A8C4A92188C66E212B976FA6564_il2cpp_TypeInfo_var);
-		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_28, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:593>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_29 = V_1;
-		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_29, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:596>
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_30 = ___0_container;
-		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_31 = __this->___answersContainer;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_32;
-		L_32 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_30, L_31, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:598>
-		if (!L_32)
+		bool L_29;
+		L_29 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_28, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_29)
 		{
-			goto IL_0159;
+			goto IL_020f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:600>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_33 = V_1;
-		NullCheck(L_33);
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_34;
-		L_34 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_33, NULL);
-		V_5 = L_34;
-		il2cpp_codegen_runtime_class_init_inline(Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D_il2cpp_TypeInfo_var);
-		float L_35;
-		L_35 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8_inline((&V_5), NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:661>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_30 = V_1;
+		CountingGameManager_RebuildLayoutsRecursive_m54C5AA86357E6A219B1C58E8126CDAAAC176D08F(__this, L_30, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:663>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_31 = V_2;
+		il2cpp_codegen_runtime_class_init_inline(LayoutRebuilder_tD2269CCD93BD5A8C4A92188C66E212B976FA6564_il2cpp_TypeInfo_var);
+		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_31, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:664>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_32 = V_1;
+		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_32, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:667>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_33 = ___0_container;
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_34 = __this->___answersContainer;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_35;
+		L_35 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_33, L_34, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:669>
+		if (!L_35)
+		{
+			goto IL_0167;
+		}
+	}
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:671>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_36 = V_1;
-		float L_37;
-		L_37 = LayoutUtility_GetPreferredHeight_m3E8CDE02CC980080BBD4BBA1D6BFDFD42F7CF706(L_36, NULL);
+		NullCheck(L_36);
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_37;
+		L_37 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_36, NULL);
+		V_5 = L_37;
+		il2cpp_codegen_runtime_class_init_inline(Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D_il2cpp_TypeInfo_var);
 		float L_38;
-		L_38 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_35, L_37, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:601>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_39 = V_2;
-		NullCheck(L_39);
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_40;
-		L_40 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_39, NULL);
-		V_5 = L_40;
+		L_38 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8_inline((&V_5), NULL);
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_39 = V_1;
+		float L_40;
+		L_40 = LayoutUtility_GetPreferredHeight_m3E8CDE02CC980080BBD4BBA1D6BFDFD42F7CF706(L_39, NULL);
 		float L_41;
-		L_41 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8_inline((&V_5), NULL);
-		V_3 = (bool)((((float)L_38) > ((float)L_41))? 1 : 0);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:602>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_42 = V_0;
+		L_41 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_38, L_40, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:672>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_42 = V_2;
 		NullCheck(L_42);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_43 = L_42->___scrollRect;
-		bool L_44 = V_3;
-		NullCheck(L_43);
-		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_43, L_44, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:603>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_45 = V_0;
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_43;
+		L_43 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_42, NULL);
+		V_5 = L_43;
+		float L_44;
+		L_44 = Rect_get_height_mE1AA6C6C725CCD2D317BD2157396D3CF7D47C9D8_inline((&V_5), NULL);
+		V_3 = (bool)((((float)L_41) > ((float)L_44))? 1 : 0);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:673>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_45 = V_0;
 		NullCheck(L_45);
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_46 = L_45->___scrollRect;
+		bool L_47 = V_3;
 		NullCheck(L_46);
-		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_46, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:605>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_47 = V_0;
-		NullCheck(L_47);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_48 = L_47->___scrollRect;
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_49 = V_0;
+		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_46, L_47, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:674>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_48 = V_0;
+		NullCheck(L_48);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_49 = L_48->___scrollRect;
 		NullCheck(L_49);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_50 = L_49->___scrollRect;
+		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_49, (bool)0, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:676>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_50 = V_0;
 		NullCheck(L_50);
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_51;
-		L_51 = ScrollRect_get_verticalScrollbar_mCEB62CC858B43CE7FB07D287CAFC1363668E78C6_inline(L_50, NULL);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_51 = L_50->___scrollRect;
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_52 = V_0;
+		NullCheck(L_52);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_53 = L_52->___scrollRect;
+		NullCheck(L_53);
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_54;
+		L_54 = ScrollRect_get_verticalScrollbar_mCEB62CC858B43CE7FB07D287CAFC1363668E78C6_inline(L_53, NULL);
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_52;
-		L_52 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_48, L_51, (bool)1, NULL);
-		V_4 = L_52;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:606>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_53 = V_4;
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_55;
+		L_55 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_51, L_54, (bool)1, NULL);
+		V_4 = L_55;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:677>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_56 = V_4;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_54;
-		L_54 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_53, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_54)
+		bool L_57;
+		L_57 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_56, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_57)
 		{
-			goto IL_0201;
+			goto IL_020f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:608>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_55 = V_0;
-		NullCheck(L_55);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_56 = L_55->___scrollRect;
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_57 = V_4;
-		NullCheck(L_56);
-		ScrollRect_set_verticalScrollbar_m3A3503567D1ED44E21A452FE51B12691E084426C(L_56, L_57, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:609>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_58 = V_4;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:679>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_58 = V_0;
 		NullCheck(L_58);
-		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_59;
-		L_59 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_58, NULL);
-		NullCheck(L_59);
-		UnityEventBase_RemoveAllListeners_m6E68297189537543B0C72FE38804646CA204D076(L_59, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:610>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:611>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:612>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:613>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_59 = L_58->___scrollRect;
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_60 = V_4;
-		NullCheck(L_60);
-		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_61;
-		L_61 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_60, NULL);
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_62 = V_0;
-		UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90* L_63 = (UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90*)il2cpp_codegen_object_new(UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_mF770070D0A4FE93F6E04DA37D2EC60429EA545E5(L_63, L_62, (intptr_t)((void*)U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__0_m6AC9D7556A74C429EAD80764B298B1ABCF864206_RuntimeMethod_var), NULL);
+		NullCheck(L_59);
+		ScrollRect_set_verticalScrollbar_m3A3503567D1ED44E21A452FE51B12691E084426C(L_59, L_60, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:680>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_61 = V_4;
 		NullCheck(L_61);
-		UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC(L_61, L_63, UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:614>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_64 = V_4;
+		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_62;
+		L_62 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_61, NULL);
+		NullCheck(L_62);
+		UnityEventBase_RemoveAllListeners_m6E68297189537543B0C72FE38804646CA204D076(L_62, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:681>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:682>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:683>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:684>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_63 = V_4;
+		NullCheck(L_63);
+		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_64;
+		L_64 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_63, NULL);
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_65 = V_0;
+		UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90* L_66 = (UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90*)il2cpp_codegen_object_new(UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var);
+		UnityAction_1__ctor_mF770070D0A4FE93F6E04DA37D2EC60429EA545E5(L_66, L_65, (intptr_t)((void*)U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__0_mDCF42BEED882445C901183930EEF52374C83A1EC_RuntimeMethod_var), NULL);
 		NullCheck(L_64);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_65;
-		L_65 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_64, NULL);
-		bool L_66 = V_3;
-		NullCheck(L_65);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_65, L_66, NULL);
+		UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC(L_64, L_66, UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC_RuntimeMethod_var);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:685>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_67 = V_4;
+		NullCheck(L_67);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_68;
+		L_68 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_67, NULL);
+		bool L_69 = V_3;
+		NullCheck(L_68);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_68, L_69, NULL);
 		return;
 	}
 
-IL_0159:
+IL_0167:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:619>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_67 = V_1;
-		NullCheck(L_67);
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_68;
-		L_68 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_67, NULL);
-		V_5 = L_68;
-		il2cpp_codegen_runtime_class_init_inline(Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D_il2cpp_TypeInfo_var);
-		float L_69;
-		L_69 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9_inline((&V_5), NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:690>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_70 = V_1;
-		float L_71;
-		L_71 = LayoutUtility_GetPreferredWidth_mFF51E72881BE14E8C59521A71188E458475D4052(L_70, NULL);
+		NullCheck(L_70);
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_71;
+		L_71 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_70, NULL);
+		V_5 = L_71;
+		il2cpp_codegen_runtime_class_init_inline(Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D_il2cpp_TypeInfo_var);
 		float L_72;
-		L_72 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_69, L_71, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:620>
-		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_73 = V_2;
-		NullCheck(L_73);
-		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_74;
-		L_74 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_73, NULL);
-		V_5 = L_74;
+		L_72 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9_inline((&V_5), NULL);
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_73 = V_1;
+		float L_74;
+		L_74 = LayoutUtility_GetPreferredWidth_mFF51E72881BE14E8C59521A71188E458475D4052(L_73, NULL);
 		float L_75;
-		L_75 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9_inline((&V_5), NULL);
-		V_6 = (bool)((((float)L_72) > ((float)L_75))? 1 : 0);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:621>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_76 = V_0;
+		L_75 = Mathf_Max_mF5379E63D2BBAC76D090748695D833934F8AD051_inline(L_72, L_74, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:691>
+		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_76 = V_2;
 		NullCheck(L_76);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_77 = L_76->___scrollRect;
-		bool L_78 = V_6;
-		NullCheck(L_77);
-		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_77, L_78, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:622>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_79 = V_0;
+		Rect_tA04E0F8A1830E767F40FB27ECD8D309303571F0D L_77;
+		L_77 = RectTransform_get_rect_mC82A60F8C3805ED9833508CCC233689641207488(L_76, NULL);
+		V_5 = L_77;
+		float L_78;
+		L_78 = Rect_get_width_m620D67551372073C9C32C4C4624C2A5713F7F9A9_inline((&V_5), NULL);
+		V_6 = (bool)((((float)L_75) > ((float)L_78))? 1 : 0);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:692>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_79 = V_0;
 		NullCheck(L_79);
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_80 = L_79->___scrollRect;
+		bool L_81 = V_6;
 		NullCheck(L_80);
-		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_80, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:624>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_81 = V_0;
-		NullCheck(L_81);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_82 = L_81->___scrollRect;
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_83 = V_0;
+		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_80, L_81, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:693>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_82 = V_0;
+		NullCheck(L_82);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_83 = L_82->___scrollRect;
 		NullCheck(L_83);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_84 = L_83->___scrollRect;
+		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_83, (bool)0, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:695>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_84 = V_0;
 		NullCheck(L_84);
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_85;
-		L_85 = ScrollRect_get_horizontalScrollbar_mDE0EC3FD5C1AC8FDB4D8E8EF4B093A77218DF534_inline(L_84, NULL);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_85 = L_84->___scrollRect;
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_86 = V_0;
+		NullCheck(L_86);
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_87 = L_86->___scrollRect;
+		NullCheck(L_87);
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_88;
+		L_88 = ScrollRect_get_horizontalScrollbar_mDE0EC3FD5C1AC8FDB4D8E8EF4B093A77218DF534_inline(L_87, NULL);
 		il2cpp_codegen_runtime_class_init_inline(CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4_il2cpp_TypeInfo_var);
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_86;
-		L_86 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_82, L_85, (bool)0, NULL);
-		V_7 = L_86;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:625>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_87 = V_7;
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_89;
+		L_89 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_85, L_88, (bool)0, NULL);
+		V_7 = L_89;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:696>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_90 = V_7;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_88;
-		L_88 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_87, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_88)
+		bool L_91;
+		L_91 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_90, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_91)
 		{
-			goto IL_0201;
+			goto IL_020f;
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:627>
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_89 = V_0;
-		NullCheck(L_89);
-		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_90 = L_89->___scrollRect;
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_91 = V_7;
-		NullCheck(L_90);
-		ScrollRect_set_horizontalScrollbar_m38777B9083CABE5B05EE674DF59867247613F6CA(L_90, L_91, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:628>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_92 = V_7;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:698>
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_92 = V_0;
 		NullCheck(L_92);
-		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_93;
-		L_93 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_92, NULL);
-		NullCheck(L_93);
-		UnityEventBase_RemoveAllListeners_m6E68297189537543B0C72FE38804646CA204D076(L_93, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:629>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:630>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:631>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:632>
+		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_93 = L_92->___scrollRect;
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_94 = V_7;
-		NullCheck(L_94);
-		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_95;
-		L_95 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_94, NULL);
-		U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* L_96 = V_0;
-		UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90* L_97 = (UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90*)il2cpp_codegen_object_new(UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var);
-		UnityAction_1__ctor_mF770070D0A4FE93F6E04DA37D2EC60429EA545E5(L_97, L_96, (intptr_t)((void*)U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__1_mA6F947724584BA6A53A63E727035F908759770CD_RuntimeMethod_var), NULL);
+		NullCheck(L_93);
+		ScrollRect_set_horizontalScrollbar_m38777B9083CABE5B05EE674DF59867247613F6CA(L_93, L_94, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:699>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_95 = V_7;
 		NullCheck(L_95);
-		UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC(L_95, L_97, UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC_RuntimeMethod_var);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:633>
-		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_98 = V_7;
+		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_96;
+		L_96 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_95, NULL);
+		NullCheck(L_96);
+		UnityEventBase_RemoveAllListeners_m6E68297189537543B0C72FE38804646CA204D076(L_96, NULL);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:700>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:701>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:702>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:703>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_97 = V_7;
+		NullCheck(L_97);
+		ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* L_98;
+		L_98 = Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline(L_97, NULL);
+		U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* L_99 = V_0;
+		UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90* L_100 = (UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90*)il2cpp_codegen_object_new(UnityAction_1_tAEFA3C1C529F0E1AD7C7C7AFC88822D359E7AC90_il2cpp_TypeInfo_var);
+		UnityAction_1__ctor_mF770070D0A4FE93F6E04DA37D2EC60429EA545E5(L_100, L_99, (intptr_t)((void*)U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__1_mDF87574E017EE2CAFA15A2CD7B9B288A9595AA16_RuntimeMethod_var), NULL);
 		NullCheck(L_98);
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_99;
-		L_99 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_98, NULL);
-		bool L_100 = V_6;
-		NullCheck(L_99);
-		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_99, L_100, NULL);
+		UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC(L_98, L_100, UnityEvent_1_AddListener_m44E396BC4484BD75427FDD8CBE0B533CCAD8C1EC_RuntimeMethod_var);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:704>
+		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_101 = V_7;
+		NullCheck(L_101);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_102;
+		L_102 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_101, NULL);
+		bool L_103 = V_6;
+		NullCheck(L_102);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_102, L_103, NULL);
 	}
 
-IL_0201:
+IL_020f:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:637>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:708>
 		return;
 	}
 }
-// Method Definition Index: 44311
+// Method Definition Index: 44322
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14693,7 +15013,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CountingGameManager_get_IsPremadeMode_m2
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:640>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:711>
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___premadeSlotPrefab;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -14716,7 +15036,7 @@ IL_001b:
 		return (bool)1;
 	}
 }
-// Method Definition Index: 44312
+// Method Definition Index: 44323
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SuppressScrollRect_m029EE10A95DB06D1B3758596EF5E468E3AA51E2C (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___0_scrollRect, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14733,7 +15053,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SuppressScrollRect_m
 	Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* V_1 = NULL;
 	Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* V_2 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:645>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:716>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_0 = ___0_scrollRect;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -14744,13 +15064,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_SuppressScrollRect_m
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:645>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:716>
 		return;
 	}
 
 IL_000a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:647>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:718>
 		Dictionary_2_t96A6D5DB50933293CA646044A6725DC6B1704B5B* L_2 = __this->____scrollRectStates;
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_3 = ___0_scrollRect;
 		NullCheck(L_2);
@@ -14762,13 +15082,13 @@ IL_000a:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:649>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:650>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:651>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:652>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:653>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:654>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:655>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:720>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:721>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:722>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:723>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:724>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:725>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:726>
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_5 = (ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240*)il2cpp_codegen_object_new(ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240_il2cpp_TypeInfo_var);
 		ScrollRectState__ctor_mA437D9EAED979B21BE8D10EF52334E072E352473(L_5, NULL);
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_6 = L_5;
@@ -14802,7 +15122,7 @@ IL_000a:
 		L_15->___originalHorizontalBar = L_17;
 		Il2CppCodeGenWriteBarrier((void**)(&L_15->___originalHorizontalBar), (void*)L_17);
 		V_0 = L_15;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:656>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:727>
 		Dictionary_2_t96A6D5DB50933293CA646044A6725DC6B1704B5B* L_18 = __this->____scrollRectStates;
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_19 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_20 = V_0;
@@ -14812,15 +15132,15 @@ IL_000a:
 
 IL_005d:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:659>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:730>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_21 = ___0_scrollRect;
 		NullCheck(L_21);
 		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_21, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:660>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:731>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_22 = ___0_scrollRect;
 		NullCheck(L_22);
 		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_22, (bool)0, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:664>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:735>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_23 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_24 = V_0;
 		NullCheck(L_24);
@@ -14829,7 +15149,7 @@ IL_005d:
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_26;
 		L_26 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_23, L_25, (bool)1, NULL);
 		V_1 = L_26;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:665>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:736>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_27 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_28;
@@ -14840,7 +15160,7 @@ IL_005d:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:665>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:736>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_29 = V_1;
 		NullCheck(L_29);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_30;
@@ -14851,7 +15171,7 @@ IL_005d:
 
 IL_008e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:667>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:738>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_31 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_32 = V_0;
 		NullCheck(L_32);
@@ -14860,7 +15180,7 @@ IL_008e:
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_34;
 		L_34 = CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51(L_31, L_33, (bool)0, NULL);
 		V_2 = L_34;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:668>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:739>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_35 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_36;
@@ -14871,7 +15191,7 @@ IL_008e:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:668>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:739>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_37 = V_2;
 		NullCheck(L_37);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_38;
@@ -14882,11 +15202,11 @@ IL_008e:
 
 IL_00b1:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:669>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:740>
 		return;
 	}
 }
-// Method Definition Index: 44313
+// Method Definition Index: 44324
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RestoreScrollRect_m0F1A7F2BFB2729263EC16534462BD8E0EFACB252 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___0_scrollRect, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -14898,7 +15218,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RestoreScrollRect_m0
 	}
 	ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* V_0 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:674>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:745>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_0 = ___0_scrollRect;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -14909,13 +15229,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RestoreScrollRect_m0
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:674>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:745>
 		return;
 	}
 
 IL_000a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:675>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:746>
 		Dictionary_2_t96A6D5DB50933293CA646044A6725DC6B1704B5B* L_2 = __this->____scrollRectStates;
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_3 = ___0_scrollRect;
 		NullCheck(L_2);
@@ -14927,41 +15247,41 @@ IL_000a:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:675>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:746>
 		return;
 	}
 
 IL_001b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:677>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:748>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_5 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_6 = V_0;
 		NullCheck(L_6);
 		bool L_7 = L_6->___vertical;
 		NullCheck(L_5);
 		ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline(L_5, L_7, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:678>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:749>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_8 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_9 = V_0;
 		NullCheck(L_9);
 		bool L_10 = L_9->___horizontal;
 		NullCheck(L_8);
 		ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline(L_8, L_10, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:679>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:750>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_11 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_12 = V_0;
 		NullCheck(L_12);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_13 = L_12->___originalVerticalBar;
 		NullCheck(L_11);
 		ScrollRect_set_verticalScrollbar_m3A3503567D1ED44E21A452FE51B12691E084426C(L_11, L_13, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:680>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:751>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_14 = ___0_scrollRect;
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_15 = V_0;
 		NullCheck(L_15);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_16 = L_15->___originalHorizontalBar;
 		NullCheck(L_14);
 		ScrollRect_set_horizontalScrollbar_m38777B9083CABE5B05EE674DF59867247613F6CA(L_14, L_16, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:682>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:753>
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_17 = V_0;
 		NullCheck(L_17);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_18 = L_17->___originalVerticalBar;
@@ -14974,7 +15294,7 @@ IL_001b:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:682>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:753>
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_20 = V_0;
 		NullCheck(L_20);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_21 = L_20->___originalVerticalBar;
@@ -14987,7 +15307,7 @@ IL_001b:
 
 IL_006a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:683>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:754>
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_23 = V_0;
 		NullCheck(L_23);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_24 = L_23->___originalHorizontalBar;
@@ -15000,7 +15320,7 @@ IL_006a:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:683>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:754>
 		ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* L_26 = V_0;
 		NullCheck(L_26);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_27 = L_26->___originalHorizontalBar;
@@ -15013,11 +15333,11 @@ IL_006a:
 
 IL_0089:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:684>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:755>
 		return;
 	}
 }
-// Method Definition Index: 44314
+// Method Definition Index: 44325
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* CountingGameManager_ResolveOwnScrollbar_m8D1CFA82D65A6F00AEA8E692FE115DC65F1F9A51 (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* ___0_scrollRect, Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* ___1_current, bool ___2_vertical, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15039,7 +15359,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4C12964CD5147
 	int32_t G_B13_0 = 0;
 	bool G_B13_1 = false;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:694>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:765>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_0 = ___1_current;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -15050,16 +15370,16 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4C12964CD5147
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:694>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:765>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_2 = ___1_current;
 		return L_2;
 	}
 
 IL_000b:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:697>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:698>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:699>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:768>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:769>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:770>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_3 = ___0_scrollRect;
 		NullCheck(L_3);
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_4;
@@ -15093,7 +15413,7 @@ IL_0026:
 IL_002c:
 	{
 		V_0 = G_B5_0;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:701>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:772>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_10 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_11;
@@ -15104,13 +15424,13 @@ IL_002c:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:703>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:774>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_12 = V_0;
 		NullCheck(L_12);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_13;
 		L_13 = Transform_get_parent_m65354E28A4C94EC00EBCF03532F7B0718380791E(L_12, NULL);
 		V_1 = L_13;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:704>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:775>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_15;
@@ -15121,21 +15441,21 @@ IL_002c:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:706>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:777>
 		V_2 = 0;
 		goto IL_008e;
 	}
 
 IL_004a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:708>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:779>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_16 = V_1;
 		int32_t L_17 = V_2;
 		NullCheck(L_16);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_18;
 		L_18 = Transform_GetChild_mE686DF0C7AAC1F7AEF356967B1C04D8B8E240EAF(L_16, L_17, NULL);
 		V_3 = L_18;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:709>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:780>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_19 = V_3;
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_20 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
@@ -15147,13 +15467,13 @@ IL_004a:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:711>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:782>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_22 = V_3;
 		NullCheck(L_22);
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_23;
 		L_23 = Component_GetComponent_TisScrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3_m926D886710762EDEC3925BB69A204C1BB3E8E93D(L_22, Component_GetComponent_TisScrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3_m926D886710762EDEC3925BB69A204C1BB3E8E93D_RuntimeMethod_var);
 		V_4 = L_23;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:712>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:783>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_24 = V_4;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_25;
@@ -15164,8 +15484,8 @@ IL_004a:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:714>
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:715>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:785>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:786>
 		bool L_26 = ___2_vertical;
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_27 = V_4;
 		NullCheck(L_27);
@@ -15202,21 +15522,21 @@ IL_0085:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:717>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:788>
 		Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* L_31 = V_4;
 		return L_31;
 	}
 
 IL_008a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:706>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:777>
 		int32_t L_32 = V_2;
 		V_2 = ((int32_t)il2cpp_codegen_add(L_32, 1));
 	}
 
 IL_008e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:706>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:777>
 		int32_t L_33 = V_2;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_34 = V_1;
 		NullCheck(L_34);
@@ -15230,11 +15550,11 @@ IL_008e:
 
 IL_0097:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:723>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:794>
 		return (Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3*)NULL;
 	}
 }
-// Method Definition Index: 44315
+// Method Definition Index: 44326
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RebuildLayoutsRecursive_m54C5AA86357E6A219B1C58E8126CDAAAC176D08F (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_t, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15249,7 +15569,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RebuildLayoutsRecurs
 	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* V_1 = NULL;
 	RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* V_2 = NULL;
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:736>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:807>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0 = ___0_t;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
@@ -15260,27 +15580,27 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager_RebuildLayoutsRecurs
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:736>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:807>
 		return;
 	}
 
 IL_000a:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:737>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:808>
 		V_0 = 0;
 		goto IL_0040;
 	}
 
 IL_000e:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:739>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:810>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_2 = ___0_t;
 		int32_t L_3 = V_0;
 		NullCheck(L_2);
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_4;
 		L_4 = Transform_GetChild_mE686DF0C7AAC1F7AEF356967B1C04D8B8E240EAF(L_2, L_3, NULL);
 		V_1 = L_4;
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:740>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:811>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5 = V_1;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_6;
@@ -15291,13 +15611,13 @@ IL_000e:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:742>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:813>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_7 = V_1;
 		CountingGameManager_RebuildLayoutsRecursive_m54C5AA86357E6A219B1C58E8126CDAAAC176D08F(__this, L_7, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:743>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:814>
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8 = V_1;
 		V_2 = ((RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5*)IsInstSealed((RuntimeObject*)L_8, RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5_il2cpp_TypeInfo_var));
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:744>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:815>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_9 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_10;
@@ -15308,7 +15628,7 @@ IL_000e:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:746>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:817>
 		RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* L_11 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(LayoutRebuilder_tD2269CCD93BD5A8C4A92188C66E212B976FA6564_il2cpp_TypeInfo_var);
 		LayoutRebuilder_ForceRebuildLayoutImmediate_mCCA094579654469919EFA4B5AA5D9AF93CD67B4A(L_11, NULL);
@@ -15316,14 +15636,14 @@ IL_000e:
 
 IL_003c:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:737>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:808>
 		int32_t L_12 = V_0;
 		V_0 = ((int32_t)il2cpp_codegen_add(L_12, 1));
 	}
 
 IL_0040:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:737>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:808>
 		int32_t L_13 = V_0;
 		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14 = ___0_t;
 		NullCheck(L_14);
@@ -15335,105 +15655,72 @@ IL_0040:
 		}
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:750>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:821>
 		return;
 	}
 }
-// Method Definition Index: 44316
+// Method Definition Index: 44327
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CountingGameManager_IsRoundCompleted_m080B60BE8F4CA129781EAA082348DE576E038A8C (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:754>
-		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___premadeSlotPrefab;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_1;
-		L_1 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (L_1)
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:825>
+		bool L_0;
+		L_0 = CountingGameManager_get_IsPremadeMode_m2511E765A435DAD52B7972A51DFE9065B4B8E1AF(__this, NULL);
+		if (!L_0)
 		{
-			goto IL_001c;
+			goto IL_000f;
 		}
 	}
 	{
-		PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* L_2 = __this->___premadeSlotData;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_3;
-		L_3 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_2, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_3)
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:828>
+		bool L_1 = __this->____premadeRoundCompleted;
+		return L_1;
+	}
+
+IL_000f:
+	{
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:830>
+		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_2 = __this->____slots;
+		if (!L_2)
 		{
-			goto IL_0038;
+			goto IL_0024;
+		}
+	}
+	{
+		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_3 = __this->____slots;
+		NullCheck(L_3);
+		int32_t L_4;
+		L_4 = List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_inline(L_3, List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_RuntimeMethod_var);
+		if (L_4)
+		{
+			goto IL_0026;
 		}
 	}
 
-IL_001c:
+IL_0024:
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:756>
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_4 = __this->___nextButton;
-		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-		bool L_5;
-		L_5 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_4, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_5)
-		{
-			goto IL_0036;
-		}
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:830>
+		return (bool)0;
 	}
+
+IL_0026:
 	{
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_6 = __this->___nextButton;
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:831>
+		int32_t L_5 = __this->____answeredCount;
+		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_6 = __this->____slots;
 		NullCheck(L_6);
-		bool L_7;
-		L_7 = Selectable_get_interactable_m17DD0484DC62DCB4467109488D7A599BC85EC112_inline(L_6, NULL);
-		return L_7;
-	}
-
-IL_0036:
-	{
-		return (bool)0;
-	}
-
-IL_0038:
-	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:758>
-		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_8 = __this->____slots;
-		if (!L_8)
-		{
-			goto IL_004d;
-		}
-	}
-	{
-		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_9 = __this->____slots;
-		NullCheck(L_9);
-		int32_t L_10;
-		L_10 = List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_inline(L_9, List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_RuntimeMethod_var);
-		if (L_10)
-		{
-			goto IL_004f;
-		}
-	}
-
-IL_004d:
-	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:758>
-		return (bool)0;
-	}
-
-IL_004f:
-	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:759>
-		int32_t L_11 = __this->____answeredCount;
-		List_1_t45ABBF04205E3EEFAEBDAC127D88ED0DFF7CB87A* L_12 = __this->____slots;
-		NullCheck(L_12);
-		int32_t L_13;
-		L_13 = List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_inline(L_12, List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_RuntimeMethod_var);
-		return (bool)((((int32_t)((((int32_t)L_11) < ((int32_t)L_13))? 1 : 0)) == ((int32_t)0))? 1 : 0);
+		int32_t L_7;
+		L_7 = List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_inline(L_6, List_1_get_Count_mB050D84AE213AB46979523C6D7C478661F5B8E48_RuntimeMethod_var);
+		return (bool)((((int32_t)((((int32_t)L_5) < ((int32_t)L_7))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 44318
+// Method Definition Index: 44329
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager__ctor_m07DDB50E318E8D10F59030BD55B0A23D89D7FFA2 (CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15470,11 +15757,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager__ctor_m07DDB50E318E8
 		Dictionary_2__ctor_mB68FA810389ABF1963872B3AE5E4F41B19CC5030(L_2, Dictionary_2__ctor_mB68FA810389ABF1963872B3AE5E4F41B19CC5030_RuntimeMethod_var);
 		__this->____scrollRectStates = L_2;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->____scrollRectStates), (void*)L_2);
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:77>
+		__this->____lastScrollLockFrame = (-1);
 		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
 		return;
 	}
 }
-// Method Definition Index: 44319
+// Method Definition Index: 44330
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager__cctor_m13DB96E0E1DFC766791724FE96C9198CD6C2AA8E (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15544,7 +15833,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingGameManager__cctor_m13DB96E0E1DF
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44320
+// Method Definition Index: 44331
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ScrollRectState__ctor_mA437D9EAED979B21BE8D10EF52334E072E352473 (ScrollRectState_t11B983C18E70BB4E2FDB1C6B0D1915F879897240* __this, const RuntimeMethod* method) 
 {
 	{
@@ -15560,7 +15849,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ScrollRectState__ctor_mA437D9EAED979B21B
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44321
+// Method Definition Index: 44332
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_mB5C9D377C4C6049CCDBEE3403F7B5831D79DAEEF (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15577,7 +15866,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__cctor_mB5C9D377C4C6049CCDBEE340
 		return;
 	}
 }
-// Method Definition Index: 44322
+// Method Definition Index: 44333
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_mFD808489D5960087C4E04A7A3BCE8F46FA0B9778 (U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531* __this, const RuntimeMethod* method) 
 {
 	{
@@ -15585,11 +15874,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__ctor_mFD808489D5960087C4E04A7A3
 		return;
 	}
 }
-// Method Definition Index: 44323
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec_U3CGenerateRoundU3Eb__40_0_mF338450792769E528C65939EAA9A0786178B4A95 (U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531* __this, ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 ___0_d, const RuntimeMethod* method) 
+// Method Definition Index: 44334
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec_U3CGenerateRoundU3Eb__45_0_mA705B80A548C801A3BB87C26819EC354FFD8B571 (U3CU3Ec_tE02CA102C7D6478B205246A5A3155339A03CE531* __this, ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 ___0_d, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:356>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:405>
 		ValueTuple_2_t4DAC5231AE6633C41C5B1CE67B22F4B0F53E0E39 L_0 = ___0_d;
 		int32_t L_1 = L_0.___Item2;
 		return L_1;
@@ -15603,37 +15892,37 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t U3CU3Ec_U3CGenerateRoundU3Eb__40_0_mF
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44324
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass49_0__ctor_mD6BECE70B28888DF450A58B5351C087B05BCE65D (U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44335
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass54_0__ctor_mD0DF66D6D5C52EB42F9DD066DC6278A267382539 (U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* __this, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
 		return;
 	}
 }
-// Method Definition Index: 44325
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__0_m6AC9D7556A74C429EAD80764B298B1ABCF864206 (U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* __this, float ___0_v, const RuntimeMethod* method) 
+// Method Definition Index: 44336
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__0_mDCF42BEED882445C901183930EEF52374C83A1EC (U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* __this, float ___0_v, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:612>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:683>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_0 = __this->___scrollRect;
 		float L_1 = ___0_v;
 		NullCheck(L_0);
 		ScrollRect_set_verticalNormalizedPosition_m4AF461113925E6710BF04F46A49CF1F856F7738C(L_0, L_1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:613>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:684>
 		return;
 	}
 }
-// Method Definition Index: 44326
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass49_0_U3CUpdateScrollLockForContainerU3Eb__1_mA6F947724584BA6A53A63E727035F908759770CD (U3CU3Ec__DisplayClass49_0_t3E81B2185E263306D7D11A35929977C68D19BF2B* __this, float ___0_v, const RuntimeMethod* method) 
+// Method Definition Index: 44337
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass54_0_U3CUpdateScrollLockForContainerU3Eb__1_mDF87574E017EE2CAFA15A2CD7B9B288A9595AA16 (U3CU3Ec__DisplayClass54_0_tCB7009B55048FD3F696B555CB13ED352985EBCE2* __this, float ___0_v, const RuntimeMethod* method) 
 {
 	{
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:631>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:702>
 		ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* L_0 = __this->___scrollRect;
 		float L_1 = ___0_v;
 		NullCheck(L_0);
 		ScrollRect_set_horizontalNormalizedPosition_m9B268C9AE7891FC73623DC7BE6B9900640C029B6(L_0, L_1, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:632>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:703>
 		return;
 	}
 }
@@ -15645,8 +15934,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass49_0_U3CUpdateScrol
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44327
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__47__ctor_mCA9C16EEFE5B16E45FCC4FEF3B75F176493E9CAA (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
+// Method Definition Index: 44338
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__52__ctor_mA6E566A976B7F87BECE4E96356C93B220B5B6F58 (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -15655,15 +15944,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__47__c
 		return;
 	}
 }
-// Method Definition Index: 44328
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__47_System_IDisposable_Dispose_mE653B52442F66795C16F8B419E126B0A4D9B8D59 (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44339
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__52_System_IDisposable_Dispose_m6EF8045B5693C9A84760051FD39E4A8D43C54DDB (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44329
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CUpdateScrollLockingRoutineU3Ed__47_MoveNext_m8186FE4F998DF99ACDAB452A421BBF62DDCAE1F3 (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44340
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CUpdateScrollLockingRoutineU3Ed__52_MoveNext_mF24DD2475CE0021FB87CB567953799A2075DB8B1 (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -15702,7 +15991,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CUpdateScrollLockingRoutineU3Ed__47_Mo
 IL_0022:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:544>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:593>
 		__this->___U3CU3E2__current = NULL;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3E2__current), (void*)NULL);
 		__this->___U3CU3E1__state = 1;
@@ -15712,7 +16001,7 @@ IL_0022:
 IL_0039:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:545>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:594>
 		WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663* L_3 = (WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663*)il2cpp_codegen_object_new(WaitForEndOfFrame_tE38D80923E3F8380069B423968C25ABE50A46663_il2cpp_TypeInfo_var);
 		WaitForEndOfFrame__ctor_m4AF7E576C01E6B04443BB898B1AE5D645F7D45AB(L_3, NULL);
 		__this->___U3CU3E2__current = L_3;
@@ -15724,33 +16013,33 @@ IL_0039:
 IL_0054:
 	{
 		__this->___U3CU3E1__state = (-1);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:546>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:595>
 		CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* L_4 = V_1;
 		NullCheck(L_4);
 		CountingGameManager_UpdateScrollLockingInternal_m4E16623959B0C7334329E291BB4940A9DD927D67(L_4, NULL);
-		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:547>
+		//<source_info:D:/Unity Games/Kid Game/Assets/Scripts/Mechanics/Counting_Game/CountingGameManager.cs:596>
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44330
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__47_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m74E9B931D19BD3745DDB01CBAFC93A6A5DD97325 (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44341
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__52_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m8E500F42C1B5AA5EB472494C60655E9CCDE34ACC (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
 		return L_0;
 	}
 }
-// Method Definition Index: 44331
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__47_System_Collections_IEnumerator_Reset_m61D8FFFCC9FF5CD47B14EB92A558023716A41277 (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44342
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__52_System_Collections_IEnumerator_Reset_m296B2D98BD9B0AAC04DC739F85BF2A8A57571249 (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, const RuntimeMethod* method) 
 {
 	{
 		NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A* L_0 = (NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NotSupportedException_t1429765983D409BD2986508963C98D214E4EBF4A_il2cpp_TypeInfo_var)));
 		NotSupportedException__ctor_m1398D0CDE19B36AA3DE9392879738C1EA2439CDF(L_0, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__47_System_Collections_IEnumerator_Reset_m61D8FFFCC9FF5CD47B14EB92A558023716A41277_RuntimeMethod_var)));
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__52_System_Collections_IEnumerator_Reset_m296B2D98BD9B0AAC04DC739F85BF2A8A57571249_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44332
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__47_System_Collections_IEnumerator_get_Current_m9F948F99A85D7B486E8C9B8D5CD98A86DD1BF268 (U3CUpdateScrollLockingRoutineU3Ed__47_t72D2DBA481ABC249A18E2747810C8D37FD1035B6* __this, const RuntimeMethod* method) 
+// Method Definition Index: 44343
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__52_System_Collections_IEnumerator_get_Current_m957C1EDDA559BAD365E60F548850F6EE680E3AB2 (U3CUpdateScrollLockingRoutineU3Ed__52_t2FEA4379DE277E6EC3DE92D379502C5D39CD3191* __this, const RuntimeMethod* method) 
 {
 	{
 		RuntimeObject* L_0 = __this->___U3CU3E2__current;
@@ -15765,7 +16054,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44333
+// Method Definition Index: 44344
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CountingObject_get_CountValue_m654003B98315EA17CF3F65BCC641BA270B647DE5 (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, const RuntimeMethod* method) 
 {
 	{
@@ -15774,7 +16063,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CountingObject_get_CountValue_m654003
 		return L_0;
 	}
 }
-// Method Definition Index: 44334
+// Method Definition Index: 44345
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject_SetCountValue_m82CF9F4AB8EB98F93C41E942C7C2A2D45661D568 (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -15785,7 +16074,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject_SetCountValue_m82CF9F4AB8
 		return;
 	}
 }
-// Method Definition Index: 44335
+// Method Definition Index: 44346
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject_OnDestroy_m17AAE0152C407178D14548F0C5DA8F398A55FC74 (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15804,7 +16093,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject_OnDestroy_m17AAE0152C4071
 		return;
 	}
 }
-// Method Definition Index: 44336
+// Method Definition Index: 44347
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject_OnPointerDown_mAE05B560059026C2D178FA112EB6216FE4574ADB (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -15897,7 +16186,7 @@ IL_006e:
 		return;
 	}
 }
-// Method Definition Index: 44337
+// Method Definition Index: 44348
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject__ctor_mA3E36A7A8A24B1C593E3A3EC6A6F499FF237EA4F (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, const RuntimeMethod* method) 
 {
 	{
@@ -15919,7 +16208,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingObject__ctor_mA3E36A7A8A24B1C593
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44338
+// Method Definition Index: 44349
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CountingSlot_get_CorrectCount_m4DE55414137607944C955B0E35456708FD23FD10 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, const RuntimeMethod* method) 
 {
 	{
@@ -15928,7 +16217,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CountingSlot_get_CorrectCount_m4DE554
 		return L_0;
 	}
 }
-// Method Definition Index: 44339
+// Method Definition Index: 44350
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_set_CorrectCount_m734C561BF1111CDFDC04F08120AEFDAB50D2F533 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -15938,7 +16227,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_set_CorrectCount_m734C561BF
 		return;
 	}
 }
-// Method Definition Index: 44340
+// Method Definition Index: 44351
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_Setup_mEB8282AEA99808676BEA01DF367BC3AC18EC43A4 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_objectPrefab, int32_t ___1_count, CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* ___2_manager, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -16182,7 +16471,7 @@ IL_0104:
 		return;
 	}
 }
-// Method Definition Index: 44341
+// Method Definition Index: 44352
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_Setup_mA8E9A451140E570B6D956F9B0A1091CCC53C2EA6 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* ___0_itemPrefabs, int32_t ___1_totalSum, CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* ___2_manager, const RuntimeMethod* method) 
 {
 	{
@@ -16195,7 +16484,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_Setup_mA8E9A451140E570B6D95
 		return;
 	}
 }
-// Method Definition Index: 44342
+// Method Definition Index: 44353
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_Setup_m3D0CB26E4DDA7E897A4C6C4226686241ED083555 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, List_1_tB951CE80B58D1BF9650862451D8DAD8C231F207B* ___0_itemPrefabs, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* ___1_itemValues, int32_t ___2_totalSum, CountingGameManager_tF3A2E20EB73C60B09195F755C45C1859460530E4* ___3_manager, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -16510,7 +16799,7 @@ IL_013b:
 		return;
 	}
 }
-// Method Definition Index: 44343
+// Method Definition Index: 44354
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_CacheInitialHeights_m7E2E06CEF24B08FF9A57E9F52C6877920528DE33 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -16780,7 +17069,7 @@ IL_0116:
 		return;
 	}
 }
-// Method Definition Index: 44344
+// Method Definition Index: 44355
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_OnRectTransformDimensionsChange_m0F7B05680D292A8F0268DD4B5B72FDB62DD7FE07 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -16907,7 +17196,7 @@ IL_007c:
 		return;
 	}
 }
-// Method Definition Index: 44345
+// Method Definition Index: 44356
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot_AdjustHeights_m6631FC308B31E70CE9AA792E08AE4F06DBEC3616 (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, int32_t ___0_itemCount, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -17162,7 +17451,7 @@ IL_0120:
 		return;
 	}
 }
-// Method Definition Index: 44346
+// Method Definition Index: 44357
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float CountingSlot_GetGridCalculatedHeight_mF7EB1264249F87C6A2AB74AC3641F4B5DFD72E6F (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_gridTransform, int32_t ___1_itemCount, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -17396,7 +17685,7 @@ IL_00d8:
 		return ((float)il2cpp_codegen_add(((float)il2cpp_codegen_add(((float)L_44), ((float)il2cpp_codegen_multiply(((float)L_45), L_48)))), ((float)il2cpp_codegen_multiply(((float)((int32_t)il2cpp_codegen_subtract(L_49, 1))), L_52))));
 	}
 }
-// Method Definition Index: 44347
+// Method Definition Index: 44358
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot__ctor_m9F3CC7340AED8C0F8F7423278F73D86FC4B4D15A (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17420,7 +17709,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CountingSlot__ctor_m9F3CC7340AED8C0F8F74
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44348
+// Method Definition Index: 44359
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass6_0__ctor_mBA4F7C492B9EFC43A9C713F265DE7EB41F982C1C (U3CU3Ec__DisplayClass6_0_t0F0E3C7DE45C5BA661AB678DB67059869D195C48* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17428,7 +17717,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass6_0__ctor_mBA4F7C49
 		return;
 	}
 }
-// Method Definition Index: 44349
+// Method Definition Index: 44360
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass6_0_U3CSetupU3Eb__0_m20ECBF7377DA600AADBA73F47ED424C632E47F49 (U3CU3Ec__DisplayClass6_0_t0F0E3C7DE45C5BA661AB678DB67059869D195C48* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17448,7 +17737,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass6_0_U3CSetupU3Eb__0
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44350
+// Method Definition Index: 44361
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0__ctor_m8AA97DDD77B88A330741A61AC580CBB71C81768A (U3CU3Ec__DisplayClass8_0_t372979FBAEBF59C873DDA41FBED7B5800EF4579E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17456,7 +17745,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0__ctor_m8AA97DDD
 		return;
 	}
 }
-// Method Definition Index: 44351
+// Method Definition Index: 44362
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0_U3CSetupU3Eb__0_m670E0CED7F45E129AE89B6F3151E50963AF3B53C (U3CU3Ec__DisplayClass8_0_t372979FBAEBF59C873DDA41FBED7B5800EF4579E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17476,7 +17765,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0_U3CSetupU3Eb__0
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44352
+// Method Definition Index: 44363
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* LetterAnswerSlot_get_SlotText_m5386DA4BAF985C480C55E55C06BF321C174FA18E (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17485,7 +17774,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B
 		return L_0;
 	}
 }
-// Method Definition Index: 44353
+// Method Definition Index: 44364
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_SlotText_mBAA7FDBA9E7703D8DD69780FDB395FAFFD859A3B (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, TMP_Text_tE8D677872D43AD4B2AAF0D6101692A17D0B251A9* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -17496,7 +17785,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_SlotText_mBAA7FDBA9
 		return;
 	}
 }
-// Method Definition Index: 44354
+// Method Definition Index: 44365
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Image_tBC1D03F63BF71132E9A5E472B8742F172A011E7E* LetterAnswerSlot_get_SlotImage_mEEEDC1D830A6CE728CBBDBA12C6BAC08511BABE8 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17505,7 +17794,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Image_tBC1D03F63BF71132E9A5E472B8742F172A011E
 		return L_0;
 	}
 }
-// Method Definition Index: 44355
+// Method Definition Index: 44366
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_SlotImage_m350AA046A64CF5906942D224D76BEFD01FB908B5 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, Image_tBC1D03F63BF71132E9A5E472B8742F172A011E7E* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -17516,7 +17805,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_SlotImage_m350AA046
 		return;
 	}
 }
-// Method Definition Index: 44356
+// Method Definition Index: 44367
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LetterAnswerSlot_get_ExpectedLetter_m7DB7D2B0DB9DAD7CF4998E32AB4F3746156BC042 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17525,7 +17814,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* LetterAnswerSlot_get_ExpectedLetter
 		return L_0;
 	}
 }
-// Method Definition Index: 44357
+// Method Definition Index: 44368
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_ExpectedLetter_mF24F2181AB3DA019F1F8E9DFDCAFF2D64CCEEB7F (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, String_t* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -17536,7 +17825,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_ExpectedLetter_mF24
 		return;
 	}
 }
-// Method Definition Index: 44358
+// Method Definition Index: 44369
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_IsAnswer_mE883527D6A50937C2D9ACE99910485782A8329C2 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17545,7 +17834,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_IsAnswer_mE883527D6
 		return L_0;
 	}
 }
-// Method Definition Index: 44359
+// Method Definition Index: 44370
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_IsAnswer_mBDCB63B329581CBB9CB9D51311B4B4A9C7C26338 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -17555,7 +17844,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_IsAnswer_mBDCB63B32
 		return;
 	}
 }
-// Method Definition Index: 44360
+// Method Definition Index: 44371
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_ShowHint_mD0A740CCAFF547F8ED5C7328588DBE3940012B8A (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17564,7 +17853,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_ShowHint_mD0A740CCA
 		return L_0;
 	}
 }
-// Method Definition Index: 44361
+// Method Definition Index: 44372
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_ShowHint_m8A9E1C5DDE8BEC6FCCC940B06615690CD5855B77 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -17574,7 +17863,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_set_ShowHint_m8A9E1C5DD
 		return;
 	}
 }
-// Method Definition Index: 44362
+// Method Definition Index: 44373
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t LetterAnswerSlot_get_ExpectedValue_m9A3772967A2CB8B964A275BBA215B0A062A11B9D (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17602,7 +17891,7 @@ IL_000f:
 		return L_3;
 	}
 }
-// Method Definition Index: 44363
+// Method Definition Index: 44374
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Awake_mCD355173717F42BA6CF3C6DC6EDB3E4642F97AC9 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17612,7 +17901,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Awake_mCD355173717F42BA
 		return;
 	}
 }
-// Method Definition Index: 44364
+// Method Definition Index: 44375
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Reset_m32602B0CD9E4C828AA15F0EC3F958BB7F53E80BD (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17622,7 +17911,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Reset_m32602B0CD9E4C828
 		return;
 	}
 }
-// Method Definition Index: 44365
+// Method Definition Index: 44376
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_AutoBindComponents_m001D2929341D75F5CB5909D79FC6163F34C7055D (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -17695,7 +17984,7 @@ IL_0050:
 		return;
 	}
 }
-// Method Definition Index: 44366
+// Method Definition Index: 44377
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Start_m2441C648ECA815D4EFCC3F7B225CAD5425710178 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -17705,7 +17994,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_Start_m2441C648ECA815D4
 		return;
 	}
 }
-// Method Definition Index: 44367
+// Method Definition Index: 44378
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_SetupSlot_mF0A304D1BED09FACF42CFC2BCB49143B2A22743F (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, String_t* ___0_letter, bool ___1_isAnswerSlot, bool ___2_hintEnabled, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___3_onSolved, const RuntimeMethod* method) 
 {
 	{
@@ -17731,7 +18020,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_SetupSlot_mF0A304D1BED0
 		return;
 	}
 }
-// Method Definition Index: 44368
+// Method Definition Index: 44379
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_InitSlotState_m2D9A662847419CB8F176D471ED936049E4ECD37F (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -17925,7 +18214,7 @@ IL_0157:
 		return;
 	}
 }
-// Method Definition Index: 44369
+// Method Definition Index: 44380
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot_OnCorrectAnswerDropped_m467BCAE9A4F9F5728512439E837FA447A7140995 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* ___0_card, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___1_externalOnCorrect, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18112,7 +18401,7 @@ IL_00a1:
 		return;
 	}
 }
-// Method Definition Index: 44370
+// Method Definition Index: 44381
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot__ctor_mBF5024D47421FFDCA7B241BA7935AD8F448367F0 (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18208,7 +18497,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LetterAnswerSlot__ctor_mBF5024D47421FFDC
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44371
+// Method Definition Index: 44382
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingBoxEntry__ctor_m0B6DF74D49937B9A94D71D0834DDE9E6A3B0C1EB (PremadeCountingBoxEntry_tCC9D3581DC219B3305F827CDB851DD079A408DFA* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18241,7 +18530,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingBoxEntry__ctor_m0B6DF74D4
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44372
+// Method Definition Index: 44383
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingRow__ctor_m4ACA5D620F4FC37E9026F5A9005E32300D655B10 (PremadeCountingRow_t14EA96623E9D715F1B95745B2DDDED61D58AC994* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18273,7 +18562,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingRow__ctor_m4ACA5D620F4FC3
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44373
+// Method Definition Index: 44384
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot_ApplySlotData_m81DE3003015B3088293E87856911471C22C11135 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, PremadeSlotData_t21B8622236CFD14B349B70A6E4052BD60A17A99B* ___0_slotData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -18709,7 +18998,7 @@ IL_01c6:
 		return;
 	}
 }
-// Method Definition Index: 44374
+// Method Definition Index: 44385
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ValueTuple_2_t2B5CCAA6AE2828BFE9A3B8263FF47514F27F3C92 PremadeCountingSlot_Setup_m50B6297367D8FC6FAF6CE8F00E7C287B18E7C497 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_onCompleted, bool ___1_isLearningMode, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -19480,7 +19769,7 @@ IL_035c:
 		return L_159;
 	}
 }
-// Method Definition Index: 44375
+// Method Definition Index: 44386
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot_OnBoxInRowSolved_m2C0FB79A8738D9A707F17D0E53391632B1DC0499 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, RowRuntimeState_t8313BCC01AF3030F00C1ED00FFBB004DBBF364BB* ___0_rowState, const RuntimeMethod* method) 
 {
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* G_B5_0 = NULL;
@@ -19543,7 +19832,7 @@ IL_003d:
 		return;
 	}
 }
-// Method Definition Index: 44376
+// Method Definition Index: 44387
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot_AutoScanChildSlots_m78A1AD2DE7539DC25D5F733ACF00E6F8510C46C0 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20044,7 +20333,7 @@ IL_0261:
 		return;
 	}
 }
-// Method Definition Index: 44377
+// Method Definition Index: 44388
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* PremadeCountingSlot_GetRowParentTransform_mAB655E89E2AE70C9CBE6E899DFBC2B1A77B96DB2 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_slotTransform, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20174,7 +20463,7 @@ IL_0068:
 		return L_23;
 	}
 }
-// Method Definition Index: 44378
+// Method Definition Index: 44389
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t PremadeCountingSlot_ExtractRowNumber_m0352F7B9307BFC7BCF1DD5580DA6254039AEE22A (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_rowGo, int32_t ___1_fallbackIndex, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20286,7 +20575,7 @@ IL_004b:
 		return L_18;
 	}
 }
-// Method Definition Index: 44379
+// Method Definition Index: 44390
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot__ctor_mEADEABE0EF86946F6945AFF8A1888605BC3F7163 (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20313,7 +20602,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot__ctor_mEADEABE0EF869
 		return;
 	}
 }
-// Method Definition Index: 44380
+// Method Definition Index: 44391
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot__cctor_m8C6D37570AD235532E7F7562287D10ECC1FEE5CD (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20375,7 +20664,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeCountingSlot__cctor_m8C6D37570AD2
 		return;
 	}
 }
-// Method Definition Index: 44381
+// Method Definition Index: 44392
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR PremadeCountingRow_t14EA96623E9D715F1B95745B2DDDED61D58AC994* PremadeCountingSlot_U3CAutoScanChildSlotsU3Eg__GetOrCreateRowU7C10_0_m732B5CCFDE2BBA60CC154D278BE2445F5D1D4D3F (PremadeCountingSlot_tE26137219AB1C58A4954CF16FAAAA3CEA2F32548* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_childObj, U3CU3Ec__DisplayClass10_0_t2467E5C6C919A1BEEBE5AAAF6ACAE962EEB62929* ___1_p, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20491,7 +20780,7 @@ IL_007b:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44382
+// Method Definition Index: 44393
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RowRuntimeState__ctor_mC6232EE8D4F830E8FFE45DF67E758ED3B188F6D7 (RowRuntimeState_t8313BCC01AF3030F00C1ED00FFBB004DBBF364BB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20515,7 +20804,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RowRuntimeState__ctor_mC6232EE8D4F830E8F
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44383
+// Method Definition Index: 44394
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0__ctor_m0C5B8550BCB106C7ED992CE713A835DAEE792123 (U3CU3Ec__DisplayClass8_0_t9AEBB77B10C83E19CDFCC8C7A17E180579EB346B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20523,7 +20812,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_0__ctor_m0C5B8550
 		return;
 	}
 }
-// Method Definition Index: 44384
+// Method Definition Index: 44395
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RowRuntimeState_t8313BCC01AF3030F00C1ED00FFBB004DBBF364BB* U3CU3Ec__DisplayClass8_0_U3CSetupU3Eg__GetOrCreateStateU7C0_m730EB6B2AB0D62BA892C02EF5D12225A25303113 (U3CU3Ec__DisplayClass8_0_t9AEBB77B10C83E19CDFCC8C7A17E180579EB346B* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_boxObj, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20634,7 +20923,7 @@ IL_008b:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44385
+// Method Definition Index: 44396
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_1__ctor_m81ED28326E69289F369C3F53CF815C13A9A6EB22 (U3CU3Ec__DisplayClass8_1_tF829BE9D78B4281EEE79A9E9200573AE332F18C7* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20642,7 +20931,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_1__ctor_m81ED2832
 		return;
 	}
 }
-// Method Definition Index: 44386
+// Method Definition Index: 44397
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_1_U3CSetupU3Eb__1_mF3B6CD14ABDA465EBB3C50A448EA89EDB655F227 (U3CU3Ec__DisplayClass8_1_tF829BE9D78B4281EEE79A9E9200573AE332F18C7* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20664,7 +20953,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass8_1_U3CSetupU3Eb__1
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44387
+// Method Definition Index: 44398
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeLetterSlot__ctor_mA36219F0C8D680D1CC8E216EBFEF2E2378F97C8D (PremadeLetterSlot_t574174139DE65D5BD3DB9220A86D6D523DDAE0B4* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20687,7 +20976,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PremadeLetterSlot__ctor_mA36219F0C8D680D
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44388
+// Method Definition Index: 44399
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ComparisonCard_get_Sign_m130E70DB46A564322A466A704DB315A333DB2E32 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20696,7 +20985,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ComparisonCard_get_Sign_m130E70DB46A5
 		return L_0;
 	}
 }
-// Method Definition Index: 44389
+// Method Definition Index: 44400
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_set_Sign_m7825583FA043855CCBA8D5A797C8A391A1990E4C (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -20706,7 +20995,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_set_Sign_m7825583FA043855
 		return;
 	}
 }
-// Method Definition Index: 44390
+// Method Definition Index: 44401
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ComparisonCard_get_CardColor_m1F3A923F2A2C897455844CE56389C0A3BB4DDE8C (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20715,7 +21004,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C
 		return L_0;
 	}
 }
-// Method Definition Index: 44391
+// Method Definition Index: 44402
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_set_CardColor_mCF80AADD0C83681C3AA6DB511A772AF4C5235EEE (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -20725,7 +21014,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_set_CardColor_mCF80AADD0C
 		return;
 	}
 }
-// Method Definition Index: 44392
+// Method Definition Index: 44403
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsAccepted_mAA18311FE2D6E39591C649B7AE2C07D4FF5F76D0 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20734,7 +21023,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsAccepted_mAA18311FE
 		return L_0;
 	}
 }
-// Method Definition Index: 44393
+// Method Definition Index: 44404
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsClone_m9A5826129A1DDF040F78CFD5D2A02C7DB5F4DCEC (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -20743,7 +21032,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsClone_m9A5826129A1D
 		return L_0;
 	}
 }
-// Method Definition Index: 44394
+// Method Definition Index: 44405
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_Awake_m91EEC4F4450F35104616583BF8EE4D0CDA64E487 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20762,7 +21051,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_Awake_m91EEC4F4450F351046
 		return;
 	}
 }
-// Method Definition Index: 44395
+// Method Definition Index: 44406
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_OnDestroy_m115A063D76FAF2B6CC9B0D8ECAEAFF49C6E3DD76 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20782,7 +21071,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_OnDestroy_m115A063D76FAF2
 		return;
 	}
 }
-// Method Definition Index: 44396
+// Method Definition Index: 44407
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_Setup_m654FD0FB93A493A9C1E0582630C8256F1DCCDADD (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, int32_t ___0_sign, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_color, bool ___2_isClone, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -20909,7 +21198,7 @@ IL_008c:
 		return;
 	}
 }
-// Method Definition Index: 44397
+// Method Definition Index: 44408
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_OnBeginDrag_m0F647DBC4118F975762BAAE3CF67818AB00295C1 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21117,7 +21406,7 @@ IL_00e6:
 		return;
 	}
 }
-// Method Definition Index: 44398
+// Method Definition Index: 44409
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_OnDrag_m9A4A8CAE7A14728138B9B54A35F66223CABF1DC0 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21304,7 +21593,7 @@ IL_00c5:
 		return;
 	}
 }
-// Method Definition Index: 44399
+// Method Definition Index: 44410
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_OnEndDrag_m0AF02E0BDDAAEC821B4B43372706D4D59FE63EA3 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21406,7 +21695,7 @@ IL_007c:
 		return;
 	}
 }
-// Method Definition Index: 44400
+// Method Definition Index: 44411
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_AcceptedByZone_mBC62E0EB5B2FD52010FE9116B9E54248C2C49F60 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_zoneTransform, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21559,7 +21848,7 @@ IL_00ad:
 		return;
 	}
 }
-// Method Definition Index: 44401
+// Method Definition Index: 44412
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_UpdateHomeParent_m6D4B80C603D8F9754D9EE1CD0F71A087AEA7A1C9 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_newParent, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21603,7 +21892,7 @@ IL_0027:
 		return;
 	}
 }
-// Method Definition Index: 44402
+// Method Definition Index: 44413
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* ComparisonCard_FindDropZoneAtCardCenter_m41CA61943460704066F1496E0C121E3F8EB984D0 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* ___0_eventData, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22198,7 +22487,7 @@ IL_0255:
 		return L_106;
 	}
 }
-// Method Definition Index: 44403
+// Method Definition Index: 44414
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard__ctor_mFBCB1E173EAB0B9D676E26DAE87FA9F7378C721F (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22210,7 +22499,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard__ctor_mFBCB1E173EAB0B9D67
 		return;
 	}
 }
-// Method Definition Index: 44404
+// Method Definition Index: 44415
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_U3COnEndDragU3Eb__28_0_m0180E60C7205863406DD270CDA0537B1459AEB70 (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22236,7 +22525,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonCard_U3COnEndDragU3Eb__28_0_m0
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44405
+// Method Definition Index: 44416
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0__ctor_m1C1483D78DBAF94885BF7F0612545C55F7EBB19F (U3CU3Ec__DisplayClass29_0_t295642598E9388E82F9CB290F2D3601206C02657* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22244,7 +22533,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0__ctor_m1C1483D
 		return;
 	}
 }
-// Method Definition Index: 44406
+// Method Definition Index: 44417
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass29_0_U3CAcceptedByZoneU3Eb__0_mAB598D9CAB70661C16A8F336C24105D96275B728 (U3CU3Ec__DisplayClass29_0_t295642598E9388E82F9CB290F2D3601206C02657* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22298,7 +22587,7 @@ IL_001e:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44407
+// Method Definition Index: 44418
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonDropZone_get_IsAnswered_mDBF0CAEA51E59E5807D29A3AA01FD6F916321B0A (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22307,7 +22596,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonDropZone_get_IsAnswered_mDBF0C
 		return L_0;
 	}
 }
-// Method Definition Index: 44408
+// Method Definition Index: 44419
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_Awake_mB6AB326CED6F81BAC9199D04262AC04B9A3FB3D5 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22326,7 +22615,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_Awake_mB6AB326CED6F81
 		return;
 	}
 }
-// Method Definition Index: 44409
+// Method Definition Index: 44420
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_Setup_m558E999DC84CCD3FA5E786D335023DD36EB4BAF3 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, int32_t ___0_expectedSign, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___1_onCorrect, const RuntimeMethod* method) 
 {
 	{
@@ -22343,7 +22632,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_Setup_m558E999DC84CCD
 		return;
 	}
 }
-// Method Definition Index: 44410
+// Method Definition Index: 44421
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_TryAccept_mAF9CB8969567F167507950C7A0AB42CC6F58D746 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* ___0_card, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22478,7 +22767,7 @@ IL_0092:
 		return;
 	}
 }
-// Method Definition Index: 44411
+// Method Definition Index: 44422
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_TriggerWrongFeedback_mF6A9D34FFC7ACABDE69E909DEA1FF486D9EAD1E3 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, float ___0_duration, float ___1_magnitude, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22565,7 +22854,7 @@ IL_003d:
 		return;
 	}
 }
-// Method Definition Index: 44412
+// Method Definition Index: 44423
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ComparisonDropZone_WrongFeedbackCoroutine_m606A5FB28671ACF6A1E7C09266F57F6DC92BB0E7 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, float ___0_duration, float ___1_magnitude, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22592,7 +22881,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ComparisonDropZone_WrongFeedba
 		return L_4;
 	}
 }
-// Method Definition Index: 44413
+// Method Definition Index: 44424
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone_AcceptCard_m7A0FD27DACFE8BAE3878CEAEAB2BDDFF2725F392 (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* ___0_card, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22681,7 +22970,7 @@ IL_0054:
 		return;
 	}
 }
-// Method Definition Index: 44414
+// Method Definition Index: 44425
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone__ctor_mA644A91F5B8AD527F9CB6A7655E041AB1317B6CD (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22697,7 +22986,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonDropZone__ctor_mA644A91F5B8AD5
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44415
+// Method Definition Index: 44426
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__11__ctor_m3B25302D4EF1E3D69897C42A04F3D0FCDED9A228 (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -22707,14 +22996,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__11__ctor_
 		return;
 	}
 }
-// Method Definition Index: 44416
+// Method Definition Index: 44427
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__11_System_IDisposable_Dispose_m05E5B52AFE0858C002EB2B53AA5BC24BC332F710 (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44417
+// Method Definition Index: 44428
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CWrongFeedbackCoroutineU3Ed__11_MoveNext_mF6C0DDA2E83CDC0974DCDBC076A193B3B6A21FBE (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23225,7 +23514,7 @@ IL_02a1:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44418
+// Method Definition Index: 44429
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed__11_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m6B1E9DD9E06AC947EB37EDB3E1FF41F021F87C54 (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23233,7 +23522,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed_
 		return L_0;
 	}
 }
-// Method Definition Index: 44419
+// Method Definition Index: 44430
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__11_System_Collections_IEnumerator_Reset_m7DAA60F536BA9C63EA3A7739219391001F4B5A17 (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23242,7 +23531,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CWrongFeedbackCoroutineU3Ed__11_System
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CWrongFeedbackCoroutineU3Ed__11_System_Collections_IEnumerator_Reset_m7DAA60F536BA9C63EA3A7739219391001F4B5A17_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44420
+// Method Definition Index: 44431
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed__11_System_Collections_IEnumerator_get_Current_mB3BE9726ECFCE85C3AA7D97F405B1195DD27B3C0 (U3CWrongFeedbackCoroutineU3Ed__11_t40DBD94963CE07499502A7E8687375F4251F815B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23258,7 +23547,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CWrongFeedbackCoroutineU3Ed_
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44421
+// Method Definition Index: 44432
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonGameManager_get_NumbersOnlyMode_m52DC5926A30BCB74D500CCE951DCCADB3522A08E (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23267,7 +23556,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonGameManager_get_NumbersOnlyMod
 		return L_0;
 	}
 }
-// Method Definition Index: 44422
+// Method Definition Index: 44433
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ComparisonGameManager_get_LeftObjectPrefab_mA616BA450A246AD3D38DA0F24DAC9CC5D10DA84B (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23276,7 +23565,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651
 		return L_0;
 	}
 }
-// Method Definition Index: 44423
+// Method Definition Index: 44434
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_set_LeftObjectPrefab_m847894FB4E5ABB10E85A9102B032CD54CE51CF92 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -23287,7 +23576,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_set_LeftObjectPref
 		return;
 	}
 }
-// Method Definition Index: 44424
+// Method Definition Index: 44435
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ComparisonGameManager_get_RightObjectPrefab_mB722080F67EEA999D725767A9DA5B61CD2C55014 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23296,7 +23585,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651
 		return L_0;
 	}
 }
-// Method Definition Index: 44425
+// Method Definition Index: 44436
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_set_RightObjectPrefab_m5F8F85E12C9FEBF81911AB76680E1126255889A3 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -23307,7 +23596,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_set_RightObjectPre
 		return;
 	}
 }
-// Method Definition Index: 44426
+// Method Definition Index: 44437
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ComparisonGameManager_get_NextButton_mA70A3484ED8F18A0B0162061EB50F8C24CA06CCF (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -23316,7 +23605,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE
 		return L_0;
 	}
 }
-// Method Definition Index: 44427
+// Method Definition Index: 44438
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_Configure_m1DF4D975371E59027F9EBC774C20FCD939A0C554 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, int32_t ___0_slotCount, int32_t ___1_minVal, int32_t ___2_maxVal, bool ___3_mixAdditionEquations, bool ___4_numbersOnlyMode, String_t* ___5_activeThemeName, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23435,7 +23724,7 @@ IL_0072:
 		return;
 	}
 }
-// Method Definition Index: 44428
+// Method Definition Index: 44439
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_OnEnable_m35F35992A8FDBA72C89CCDE85E5A2CC6C263B4F6 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23499,7 +23788,7 @@ IL_0056:
 		return;
 	}
 }
-// Method Definition Index: 44429
+// Method Definition Index: 44440
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_ConfigureSlotsContainer_m1589EB7BB14F3130EAC9EAAA89816ECF06231732 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23577,7 +23866,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 44430
+// Method Definition Index: 44441
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_ConfigureNextButton_m1F0BC13584A01C3B4863C76A4D25C9167F1037DA (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___0_btn, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23634,7 +23923,7 @@ IL_000a:
 		return;
 	}
 }
-// Method Definition Index: 44431
+// Method Definition Index: 44442
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_SetNextButtonInteractable_m14401305DA5A1E7B2E5750A100511B853D03C907 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, bool ___0_interactable, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23675,7 +23964,7 @@ IL_0026:
 		return;
 	}
 }
-// Method Definition Index: 44432
+// Method Definition Index: 44443
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_OnSlotAnswered_mFC0757DB4556786E8EB2D529F5929EA52BF84423 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23733,7 +24022,7 @@ IL_0032:
 		return;
 	}
 }
-// Method Definition Index: 44433
+// Method Definition Index: 44444
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ComparisonGameManager_GetColorForIndex_m08CD1D9A64BF53462052D56ADBB86181D5C59F12 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, int32_t ___0_idx, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -23792,7 +24081,7 @@ IL_0029:
 		return L_12;
 	}
 }
-// Method Definition Index: 44434
+// Method Definition Index: 44445
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_GenerateRound_mDD57DEB2F694B09C52ABFD124EDA77D6BCAF6E76 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -24481,7 +24770,7 @@ IL_0314:
 		return;
 	}
 }
-// Method Definition Index: 44435
+// Method Definition Index: 44446
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_SpawnAnswerCard_m9C839398E4B0C9165360EEFE9707C6438E159A3C (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, int32_t ___0_sign, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___1_color, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -24545,7 +24834,7 @@ IL_0029:
 		return;
 	}
 }
-// Method Definition Index: 44436
+// Method Definition Index: 44447
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_GenerateComparisonPair_mB5D5B59D3112A2C7A25319E973B4920FAA1B5CE2 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73** ___0_leftNumbers, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73** ___1_rightNumbers, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25163,7 +25452,7 @@ IL_02ec:
 		return;
 	}
 }
-// Method Definition Index: 44437
+// Method Definition Index: 44448
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t ComparisonGameManager_GetSum_mFA19566C20BD8B74A6BC58D9FD3E1AF03DACBF1D (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* ___0_list, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25244,7 +25533,7 @@ IL_0030:
 		return L_6;
 	}
 }
-// Method Definition Index: 44438
+// Method Definition Index: 44449
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_ClearPrevious_m964D94A2AB187AFFC7573B6FD739A6F664D726A6 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25453,7 +25742,7 @@ IL_00ca:
 		return;
 	}
 }
-// Method Definition Index: 44439
+// Method Definition Index: 44450
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_ClearTrayChildren_mA581B64C3142B85514C82CE0A3C138D2B9FDF081 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_tray, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25568,7 +25857,7 @@ IL_0043:
 		return;
 	}
 }
-// Method Definition Index: 44440
+// Method Definition Index: 44451
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObjectU5BU5D_tFF67550DFCE87096D7A3734EA15B75896B2722CF* ComparisonGameManager_GetActiveThemePrefabs_mB751FF20951EC13C990F4EC4B9FF1E738AE92813 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25705,7 +25994,7 @@ IL_0060:
 		return L_14;
 	}
 }
-// Method Definition Index: 44441
+// Method Definition Index: 44452
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_UpdateScrollLocking_m123F0712D8771F69DF8284B1EDCA1B1FDC43FB0D (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -25736,7 +26025,7 @@ IL_0020:
 		return;
 	}
 }
-// Method Definition Index: 44442
+// Method Definition Index: 44453
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ComparisonGameManager_UpdateScrollLockingRoutine_m6C0B79CD4B8EFF0AFE722AE4C7A22318D0E7D506 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -25755,7 +26044,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ComparisonGameManager_UpdateSc
 		return L_1;
 	}
 }
-// Method Definition Index: 44443
+// Method Definition Index: 44454
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_UpdateScrollLockingInternal_mE36F2102DEA0BE52709FF8E19697D287F791FE7F (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -25769,7 +26058,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_UpdateScrollLockin
 		return;
 	}
 }
-// Method Definition Index: 44444
+// Method Definition Index: 44455
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_UpdateScrollLockForContainer_mB05941AEC0C2A4CFA6044141C0D1E18809F027A6 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26190,7 +26479,7 @@ IL_0230:
 		return;
 	}
 }
-// Method Definition Index: 44445
+// Method Definition Index: 44456
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager_RebuildLayoutsRecursive_mAB5199CB6F844488A7B0A8B307D080C81000F07B (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_t, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26295,7 +26584,7 @@ IL_0040:
 		return;
 	}
 }
-// Method Definition Index: 44446
+// Method Definition Index: 44457
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool ComparisonGameManager_IsRoundCompleted_m901B53D890D10BF01B1CB7326E21D8DDDCF62FC4 (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26340,7 +26629,7 @@ IL_0017:
 		return (bool)((((int32_t)((((int32_t)L_3) < ((int32_t)L_5))? 1 : 0)) == ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 44448
+// Method Definition Index: 44459
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager__ctor_mB9759DC842A056863BCAE1757720D7AA9B54BA1A (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26397,7 +26686,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager__ctor_mB9759DC842A
 		return;
 	}
 }
-// Method Definition Index: 44449
+// Method Definition Index: 44460
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager__cctor_mA5930D05F56BED3DABE02DBC41D5DFFF1D199123 (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26509,7 +26798,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonGameManager__cctor_mA5930D05F5
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44450
+// Method Definition Index: 44461
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0__ctor_m10DB3BA158B096DB0545157082CA933EB4A5B7F8 (U3CU3Ec__DisplayClass53_0_t9302CE9BDB3D3813E8F55885C2CDDC9273266A73* __this, const RuntimeMethod* method) 
 {
 	{
@@ -26517,7 +26806,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0__ctor_m10DB3BA
 		return;
 	}
 }
-// Method Definition Index: 44451
+// Method Definition Index: 44462
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0_U3CUpdateScrollLockForContainerU3Eb__0_m7BA5F6E3D0C98F3F288486BEBF5476EB5FC0700D (U3CU3Ec__DisplayClass53_0_t9302CE9BDB3D3813E8F55885C2CDDC9273266A73* __this, float ___0_v, const RuntimeMethod* method) 
 {
 	{
@@ -26530,7 +26819,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0_U3CUpdateScrol
 		return;
 	}
 }
-// Method Definition Index: 44452
+// Method Definition Index: 44463
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0_U3CUpdateScrollLockForContainerU3Eb__1_mD242C87606121DDA396CCC0786DF5A2615DA778A (U3CU3Ec__DisplayClass53_0_t9302CE9BDB3D3813E8F55885C2CDDC9273266A73* __this, float ___0_v, const RuntimeMethod* method) 
 {
 	{
@@ -26551,7 +26840,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CU3Ec__DisplayClass53_0_U3CUpdateScrol
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44453
+// Method Definition Index: 44464
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__51__ctor_m3EBD7491B2DBC0D4C76C265D83232DE3636E26BC (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, int32_t ___0_U3CU3E1__state, const RuntimeMethod* method) 
 {
 	{
@@ -26561,14 +26850,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__51__c
 		return;
 	}
 }
-// Method Definition Index: 44454
+// Method Definition Index: 44465
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__51_System_IDisposable_Dispose_m3C859F8B8DC9AB911DA27C015D2FF2DC65AF6041 (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 44455
+// Method Definition Index: 44466
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool U3CUpdateScrollLockingRoutineU3Ed__51_MoveNext_mE1EEC8829EF286EDDB3D3435E177D1AEB3394D74 (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -26638,7 +26927,7 @@ IL_0054:
 		return (bool)0;
 	}
 }
-// Method Definition Index: 44456
+// Method Definition Index: 44467
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__51_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m64299AC3E1A24592EE81D3A52BA360127D7579B3 (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, const RuntimeMethod* method) 
 {
 	{
@@ -26646,7 +26935,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU
 		return L_0;
 	}
 }
-// Method Definition Index: 44457
+// Method Definition Index: 44468
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__51_System_Collections_IEnumerator_Reset_mC551F42470849CCC8D64659C96598F6AFE17D71B (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, const RuntimeMethod* method) 
 {
 	{
@@ -26655,7 +26944,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CUpdateScrollLockingRoutineU3Ed__51_Sy
 		IL2CPP_RAISE_MANAGED_EXCEPTION(L_0, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CUpdateScrollLockingRoutineU3Ed__51_System_Collections_IEnumerator_Reset_mC551F42470849CCC8D64659C96598F6AFE17D71B_RuntimeMethod_var)));
 	}
 }
-// Method Definition Index: 44458
+// Method Definition Index: 44469
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU3Ed__51_System_Collections_IEnumerator_get_Current_m544D6FBDA0B0E57012013479704E8BF1283D744E (U3CUpdateScrollLockingRoutineU3Ed__51_tFFF372EF985DBCB8BF6E21E43DC694E427061893* __this, const RuntimeMethod* method) 
 {
 	{
@@ -26679,7 +26968,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* U3CUpdateScrollLockingRoutineU
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 44459
+// Method Definition Index: 44470
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot_Setup_mD6796778C9E375603590910868DF913D9CE43DE4 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* ___0_leftNumbers, List_1_t05915E9237850A58106982B7FE4BC5DA4E872E73* ___1_rightNumbers, ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* ___2_manager, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___3_numberPrefab, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___4_plusPrefab, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___5_dropZonePrefab, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___6_leftObjectPrefab, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___7_rightObjectPrefab, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -28388,7 +28677,7 @@ IL_07c1:
 		return;
 	}
 }
-// Method Definition Index: 44460
+// Method Definition Index: 44471
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float ComparisonSlot_GetItemSizeForCount_m5A534E144BBF7DF0879E6F8D4977DE595F6693C3 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, int32_t ___0_count, const RuntimeMethod* method) 
 {
 	{
@@ -28424,7 +28713,7 @@ IL_0014:
 		return (120.0f);
 	}
 }
-// Method Definition Index: 44461
+// Method Definition Index: 44472
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot_ConfigureObjectContainer_m5439E74A810120C908A61EBEF38524933A79C74A (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, int32_t ___1_maxCount, float ___2_itemSize, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -28586,7 +28875,7 @@ IL_009c:
 		return;
 	}
 }
-// Method Definition Index: 44462
+// Method Definition Index: 44473
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot_ConfigureContainerLayout_mE8E14E87039C8C6F84C16E085CE28CEBB6CB0615 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___0_container, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -28745,7 +29034,7 @@ IL_008e:
 		return;
 	}
 }
-// Method Definition Index: 44463
+// Method Definition Index: 44474
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot_ConfigureNumberBox_m1D0D955A6C9E13F9ECF8F3CED0874D58F04F3478 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_go, int32_t ___1_val, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___2_color, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -28934,7 +29223,7 @@ IL_00c3:
 		return;
 	}
 }
-// Method Definition Index: 44464
+// Method Definition Index: 44475
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot_ConfigureTextSymbol_mEE33415DB5694205829FBF878666C2DC8272EDE2 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_go, String_t* ___1_symbol, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -29059,7 +29348,7 @@ IL_0072:
 		return;
 	}
 }
-// Method Definition Index: 44465
+// Method Definition Index: 44476
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot__ctor_mA6F1243E8B003F9BA2D241AD505D436121B560C7 (ComparisonSlot_tFCF8C5688BE8B5925BAF5D0F5F501D6E1FB6FB5B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29070,7 +29359,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ComparisonSlot__ctor_mA6F1243E8B003F9BA2
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// Method Definition Index: 44140
+// Method Definition Index: 44149
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float MatchGameLine_get_Progress_m5DAA8BCECF0AD3FEDEF75181F01C1CD32EFA5863_inline (MatchGameLine_t2576D17AF94123E7D449C15E29986065B23FBD6B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29079,7 +29368,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float MatchGameLine_get_Progress_
 		return L_0;
 	}
 }
-// Method Definition Index: 44138
+// Method Definition Index: 44147
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 MatchGameLine_get_StartPos_mD6FAAF33BD7EE6FB45D1BC9B7BE63477A8369ED5_inline (MatchGameLine_t2576D17AF94123E7D449C15E29986065B23FBD6B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29088,7 +29377,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_0;
 	}
 }
-// Method Definition Index: 44139
+// Method Definition Index: 44148
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 MatchGameLine_get_EndPos_m41D748CA573ADD333BD5991C671DB329A4B4C01B_inline (MatchGameLine_t2576D17AF94123E7D449C15E29986065B23FBD6B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29171,7 +29460,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_8;
 	}
 }
-// Method Definition Index: 44577
+// Method Definition Index: 44588
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GameFlowManager_tAEC0B01235842B5C57C60930F2669C6C7AE5F304* GameFlowManager_get_Instance_mE5FEDB2DB897FFF28F05BEA65C43E097B4CB0522_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -29257,7 +29546,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D
 		return L_0;
 	}
 }
-// Method Definition Index: 44234
+// Method Definition Index: 44243
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_Value_mADB39BF66EB9CDA930932E2B4AC8E76742A4DABE_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29267,7 +29556,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_Value_mADB39B
 		return;
 	}
 }
-// Method Definition Index: 44236
+// Method Definition Index: 44245
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_CardColor_mD9CB8E31E426C8F8883DD9EE98E2ADEB3B89740B_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29277,7 +29566,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_CardColor_mD9
 		return;
 	}
 }
-// Method Definition Index: 47735
+// Method Definition Index: 47751
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 PointerEventData_get_position_m5BE71C28EB72EFB8435749E4E6E839213AEF458C_inline (PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29286,7 +29575,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_0;
 	}
 }
-// Method Definition Index: 47739
+// Method Definition Index: 47755
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 PointerEventData_get_pressPosition_m8A6788DA6BF81481E4EBCBA2ED1838F786EBAE63_inline (PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29295,7 +29584,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_0;
 	}
 }
-// Method Definition Index: 47047
+// Method Definition Index: 47063
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ScrollRect_get_vertical_m43F2C650302CB71D53A0A373934CA9F9921CC38B_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29304,7 +29593,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ScrollRect_get_vertical_m43F
 		return L_0;
 	}
 }
-// Method Definition Index: 47045
+// Method Definition Index: 47061
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ScrollRect_get_horizontal_mDA4358EF29CE64E6B346D6CC5D70E08F00D3D05B_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29403,7 +29692,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_0;
 	}
 }
-// Method Definition Index: 47736
+// Method Definition Index: 47752
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PointerEventData_set_position_m66E8DFE693F550372E6B085C6E2F887FDB092FAA_inline (PointerEventData_t9670F3C7D823CCB738A1604C72A1EB90292396FB* __this, Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29413,7 +29702,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void PointerEventData_set_positio
 		return;
 	}
 }
-// Method Definition Index: 48038
+// Method Definition Index: 48054
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* RaycastResult_get_gameObject_m77014B442B9E2D10F2CC3AEEDC07AA95CDE1E2F1_inline (RaycastResult_tEC6A7B7CABA99C386F054F01E498AEC426CF8023* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29422,7 +29711,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9
 		return L_0;
 	}
 }
-// Method Definition Index: 44262
+// Method Definition Index: 44271
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool AnswerDropZone_get_IsAnswered_mC534412E7158E13E8ECACEB78CBCE9C4FE0F5CE3_inline (AnswerDropZone_t59D059752BA0A4351308C8377C1A599D5AB397A9* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29446,7 +29735,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Color__ctor_m3786F0D6E510D9C
 		return;
 	}
 }
-// Method Definition Index: 44237
+// Method Definition Index: 44246
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool AnswerCard_get_IsAccepted_mC612C765EEE5E9FB18BD292FEE6F1E3BC7B744CB_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29455,7 +29744,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool AnswerCard_get_IsAccepted_mC
 		return L_0;
 	}
 }
-// Method Definition Index: 44233
+// Method Definition Index: 44242
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t AnswerCard_get_Value_mE58F851A4ACE341E06D877E24B50AA2D64615E6C_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29464,7 +29753,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t AnswerCard_get_Value_mE58
 		return L_0;
 	}
 }
-// Method Definition Index: 44235
+// Method Definition Index: 44244
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F AnswerCard_get_CardColor_mD5058DC540B80F2CF28C12A97D65BEF18AA7AE61_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29473,7 +29762,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 45085
+// Method Definition Index: 45101
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR AudioManager_tEBC043CC34FE960DB3CD2601DB7513611F0C8E3C* AudioManager_get_Instance_m8D61F03AE1913645369649E7746D7A3285E8A6DE_inline (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -29494,7 +29783,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Action_Invoke_m7126A54DACA72
 	typedef void (*FunctionPointerType) (RuntimeObject*, const RuntimeMethod*);
 	((FunctionPointerType)__this->___invoke_impl)((Il2CppObject*)__this->___method_code, reinterpret_cast<RuntimeMethod*>(__this->___method));
 }
-// Method Definition Index: 47470
+// Method Definition Index: 47486
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F Shadow_get_effectColor_m6E7751BB8792C85BE9DAD0D133D787317D9CF59B_inline (Shadow_tCAA59FE9D6B0DC6DCC505E8E22D8D3C05BE6DE95* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29503,7 +29792,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 46137
+// Method Definition Index: 46153
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline (Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29512,7 +29801,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ButtonClickedEvent_t8EA72E90B3BD1
 		return L_0;
 	}
 }
-// Method Definition Index: 47195
+// Method Definition Index: 47211
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11 Selectable_get_colors_mB53E365D02351D4B64084295C4B2A7AF2DEC4750_inline (Selectable_t3251808068A17B8E92FB33590A4C2FA66D456712* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29521,7 +29810,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ColorBlock_tDD7C62E7AFE442652FC98
 		return L_0;
 	}
 }
-// Method Definition Index: 46177
+// Method Definition Index: 46193
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ColorBlock_get_normalColor_m08A07A74ED743B4B0C1B5A5C35774F2D78F1F20E_inline (ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29530,7 +29819,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 46186
+// Method Definition Index: 46202
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ColorBlock_set_disabledColor_m4D10D1F8525CCC7E8E200E3994AFB28ADABB1D8E_inline (ColorBlock_tDD7C62E7AFE442652FC98F8D058CE8AE6BFD7C11* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29585,7 +29874,7 @@ IL_0006:
 		return L_3;
 	}
 }
-// Method Definition Index: 47059
+// Method Definition Index: 47075
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RectTransform_t6C5DA5E41A89E0F488B001E45E58963480E543A5* ScrollRect_get_viewport_m85092216DD476F77E78F5CE50F9C4E70063ECCF9_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29624,7 +29913,7 @@ IL_0006:
 		return L_3;
 	}
 }
-// Method Definition Index: 47048
+// Method Definition Index: 47064
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ScrollRect_set_vertical_m972088E788E72690AAE139E7C0F8F634C325E7CE_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29635,7 +29924,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ScrollRect_set_vertical_m972
 		return;
 	}
 }
-// Method Definition Index: 47046
+// Method Definition Index: 47062
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ScrollRect_set_horizontal_m99C076AF2B2B596C87435E1465EF0B104281B150_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, bool ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29646,7 +29935,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ScrollRect_set_horizontal_m9
 		return;
 	}
 }
-// Method Definition Index: 47063
+// Method Definition Index: 47079
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* ScrollRect_get_verticalScrollbar_mCEB62CC858B43CE7FB07D287CAFC1363668E78C6_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29655,7 +29944,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4
 		return L_0;
 	}
 }
-// Method Definition Index: 47147
+// Method Definition Index: 47163
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR ScrollEvent_tDDBE21D44D65DF069C54FE3ACF7668D976E6BBB6* Scrollbar_get_onValueChanged_m14356CECC1A2BA96576EB73279AF2ECF28B26D6A_inline (Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29672,7 +29961,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Rect_get_width_m620D6755137
 		return L_0;
 	}
 }
-// Method Definition Index: 47061
+// Method Definition Index: 47077
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* ScrollRect_get_horizontalScrollbar_mDE0EC3FD5C1AC8FDB4D8E8EF4B093A77218DF534_inline (ScrollRect_t17D2F2939CA8953110180DF53164CFC3DC88D70E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29681,7 +29970,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Scrollbar_t7CDC9B956698D9385A11E4
 		return L_0;
 	}
 }
-// Method Definition Index: 47137
+// Method Definition Index: 47153
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Scrollbar_get_direction_m1950D7EE42DDD0E3DBEABCDD59DD7E0FEC164C4C_inline (Scrollbar_t7CDC9B956698D9385A11E4C12964CD51477072C3* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29690,16 +29979,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t Scrollbar_get_direction_m
 		return L_0;
 	}
 }
-// Method Definition Index: 47203
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Selectable_get_interactable_m17DD0484DC62DCB4467109488D7A599BC85EC112_inline (Selectable_t3251808068A17B8E92FB33590A4C2FA66D456712* __this, const RuntimeMethod* method) 
-{
-	{
-		//<source_info:./Library/PackageCache/com.unity.ugui@a9ea81766fbd/Runtime/UGUI/UI/Core/Selectable.cs:363>
-		bool L_0 = __this->___m_Interactable;
-		return L_0;
-	}
-}
-// Method Definition Index: 44339
+// Method Definition Index: 44350
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void CountingSlot_set_CorrectCount_m734C561BF1111CDFDC04F08120AEFDAB50D2F533_inline (CountingSlot_t78AF2B65F3419134115489991CC41F73AE651D5F* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29709,7 +29989,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void CountingSlot_set_CorrectCoun
 		return;
 	}
 }
-// Method Definition Index: 44334
+// Method Definition Index: 44345
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void CountingObject_SetCountValue_m82CF9F4AB8EB98F93C41E942C7C2A2D45661D568_inline (CountingObject_t81AA51458CC38D876F6BDCD85B0A240FA4955399* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29720,7 +30000,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void CountingObject_SetCountValue
 		return;
 	}
 }
-// Method Definition Index: 46853
+// Method Definition Index: 46869
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RectOffset_t6358774A0DEEABA4586840CB9BC7DC88B39660B5* LayoutGroup_get_padding_m91ABA3C588704717EDC82E72BA6D1B82711FE83C_inline (LayoutGroup_t32417833C700E77EDFA7C20034DAFD26604E05CE* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29729,7 +30009,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RectOffset_t6358774A0DEEABA458684
 		return L_0;
 	}
 }
-// Method Definition Index: 46781
+// Method Definition Index: 46797
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t GridLayoutGroup_get_constraint_mAEC0A95B4DF9F48E07B5403CC5F954AFDE503029_inline (GridLayoutGroup_tEE9C68F88C13E6BD716BBD356D008ACFB63F1940* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29738,7 +30018,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t GridLayoutGroup_get_const
 		return L_0;
 	}
 }
-// Method Definition Index: 46783
+// Method Definition Index: 46799
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t GridLayoutGroup_get_constraintCount_m63AE4B7889A27D8CAA8EB04A40B1FE53D80CC318_inline (GridLayoutGroup_tEE9C68F88C13E6BD716BBD356D008ACFB63F1940* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29747,7 +30027,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t GridLayoutGroup_get_const
 		return L_0;
 	}
 }
-// Method Definition Index: 46779
+// Method Definition Index: 46795
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 GridLayoutGroup_get_spacing_m19BC15652BF18D051B0998C14F13DB83191F3E58_inline (GridLayoutGroup_tEE9C68F88C13E6BD716BBD356D008ACFB63F1940* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29756,7 +30036,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2D
 		return L_0;
 	}
 }
-// Method Definition Index: 46777
+// Method Definition Index: 46793
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 GridLayoutGroup_get_cellSize_m30D8A051F44C8EE0C87B6D6CDDC00C2592A78B6D_inline (GridLayoutGroup_tEE9C68F88C13E6BD716BBD356D008ACFB63F1940* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29809,7 +30089,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 44230
+// Method Definition Index: 44239
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_AcceptedScaleMultiplier_mD442B7CAF786B65F7D809EB9246457E817155407_inline (AnswerCard_tAAC65692BB394CC72967EECDE7DE6CEDD146C746* __this, float ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29819,7 +30099,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void AnswerCard_set_AcceptedScale
 		return;
 	}
 }
-// Method Definition Index: 44358
+// Method Definition Index: 44369
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_IsAnswer_mE883527D6A50937C2D9ACE99910485782A8329C2_inline (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29828,7 +30108,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_IsAnswe
 		return L_0;
 	}
 }
-// Method Definition Index: 44356
+// Method Definition Index: 44367
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* LetterAnswerSlot_get_ExpectedLetter_m7DB7D2B0DB9DAD7CF4998E32AB4F3746156BC042_inline (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29837,7 +30117,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* LetterAnswerSlot_get_Ex
 		return L_0;
 	}
 }
-// Method Definition Index: 44360
+// Method Definition Index: 44371
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_ShowHint_mD0A740CCAFF547F8ED5C7328588DBE3940012B8A_inline (LetterAnswerSlot_tA7759BC75772759FC4CAC2643436FE553639029D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29846,7 +30126,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool LetterAnswerSlot_get_ShowHin
 		return L_0;
 	}
 }
-// Method Definition Index: 44092
+// Method Definition Index: 44101
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool RecallAnswerSlot_get_IsAnswer_m47215055A12B78980C3171DAFE54EF7216A81411_inline (RecallAnswerSlot_tA926DDA1AF1E2E342C7CFFC56934BC3C9A79F2BD* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29855,7 +30135,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool RecallAnswerSlot_get_IsAnswe
 		return L_0;
 	}
 }
-// Method Definition Index: 44090
+// Method Definition Index: 44099
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t RecallAnswerSlot_get_ExpectedAnswer_m603D0785DC998180BB2E286146118D41CB2A0FA8_inline (RecallAnswerSlot_tA926DDA1AF1E2E342C7CFFC56934BC3C9A79F2BD* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29864,7 +30144,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t RecallAnswerSlot_get_Expe
 		return L_0;
 	}
 }
-// Method Definition Index: 44094
+// Method Definition Index: 44103
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool RecallAnswerSlot_get_ShowHint_mE6A19DD635138854A5F6E3EED9F8F92B1FD38376_inline (RecallAnswerSlot_tA926DDA1AF1E2E342C7CFFC56934BC3C9A79F2BD* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29873,7 +30153,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool RecallAnswerSlot_get_ShowHin
 		return L_0;
 	}
 }
-// Method Definition Index: 44389
+// Method Definition Index: 44400
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonCard_set_Sign_m7825583FA043855CCBA8D5A797C8A391A1990E4C_inline (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, int32_t ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29883,7 +30163,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonCard_set_Sign_m782
 		return;
 	}
 }
-// Method Definition Index: 44391
+// Method Definition Index: 44402
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonCard_set_CardColor_mCF80AADD0C83681C3AA6DB511A772AF4C5235EEE_inline (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29893,7 +30173,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonCard_set_CardColor
 		return;
 	}
 }
-// Method Definition Index: 44388
+// Method Definition Index: 44399
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t ComparisonCard_get_Sign_m130E70DB46A564322A466A704DB315A333DB2E32_inline (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29902,7 +30182,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t ComparisonCard_get_Sign_m
 		return L_0;
 	}
 }
-// Method Definition Index: 44390
+// Method Definition Index: 44401
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED0260B9591F440C1F ComparisonCard_get_CardColor_m1F3A923F2A2C897455844CE56389C0A3BB4DDE8C_inline (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29911,7 +30191,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Color_tD001788D726C3A7F1379BEED02
 		return L_0;
 	}
 }
-// Method Definition Index: 44407
+// Method Definition Index: 44418
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonDropZone_get_IsAnswered_mDBF0CAEA51E59E5807D29A3AA01FD6F916321B0A_inline (ComparisonDropZone_t27CA94C5B95F91AF4C9B474FD65E1D7707DAC217* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29920,7 +30200,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonDropZone_get_IsAns
 		return L_0;
 	}
 }
-// Method Definition Index: 44392
+// Method Definition Index: 44403
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsAccepted_mAA18311FE2D6E39591C649B7AE2C07D4FF5F76D0_inline (ComparisonCard_tF65690579201FAC2E9F62BCD47232BE1597F4F61* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29929,7 +30209,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonCard_get_IsAccepte
 		return L_0;
 	}
 }
-// Method Definition Index: 44423
+// Method Definition Index: 44434
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonGameManager_set_LeftObjectPrefab_m847894FB4E5ABB10E85A9102B032CD54CE51CF92_inline (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29940,7 +30220,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonGameManager_set_Le
 		return;
 	}
 }
-// Method Definition Index: 44425
+// Method Definition Index: 44436
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonGameManager_set_RightObjectPrefab_m5F8F85E12C9FEBF81911AB76680E1126255889A3_inline (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -29951,7 +30231,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void ComparisonGameManager_set_Ri
 		return;
 	}
 }
-// Method Definition Index: 44421
+// Method Definition Index: 44432
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonGameManager_get_NumbersOnlyMode_m52DC5926A30BCB74D500CCE951DCCADB3522A08E_inline (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29960,7 +30240,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool ComparisonGameManager_get_Nu
 		return L_0;
 	}
 }
-// Method Definition Index: 44422
+// Method Definition Index: 44433
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ComparisonGameManager_get_LeftObjectPrefab_mA616BA450A246AD3D38DA0F24DAC9CC5D10DA84B_inline (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{
@@ -29991,7 +30271,7 @@ IL_0006:
 		return L_3;
 	}
 }
-// Method Definition Index: 44424
+// Method Definition Index: 44435
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ComparisonGameManager_get_RightObjectPrefab_mB722080F67EEA999D725767A9DA5B61CD2C55014_inline (ComparisonGameManager_tB41231B9B5B9E3571BBE173AA7DD6027874BF92D* __this, const RuntimeMethod* method) 
 {
 	{

@@ -193,7 +193,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float DiscreteEvaluationAttributeUtilities_Co
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 59337
+// Method Definition Index: 59353
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetLocalAABB_m04DF27869CF8971148682477CFEC2A1991BB104E (SpriteRenderer_t1DD7FE258F072E1FA87D6577BA27225892B8047B* ___0_spriteRenderer, Bounds_t367E830C64BBF235ED8C3B2F8CF6254FDCAD39C3 ___1_aabb, const RuntimeMethod* method) 
 {
 	{
@@ -205,7 +205,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetLocalAABB_m04DF2
 		return;
 	}
 }
-// Method Definition Index: 59338
+// Method Definition Index: 59354
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InternalEngineBridge_IsGPUSkinningEnabled_m6BD121AE681DC807A0E79174C707913D54DE430A (SpriteRenderer_t1DD7FE258F072E1FA87D6577BA27225892B8047B* ___0_spriteRenderer, const RuntimeMethod* method) 
 {
 	{
@@ -216,7 +216,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InternalEngineBridge_IsGPUSkinningEnable
 		return L_1;
 	}
 }
-// Method Definition Index: 59339
+// Method Definition Index: 59355
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InternalEngineBridge_IsSRPBatchingEnabled_m44042937D5CE1B3EED74EE93E8F664D385707F2F (SpriteRenderer_t1DD7FE258F072E1FA87D6577BA27225892B8047B* ___0_spriteRenderer, const RuntimeMethod* method) 
 {
 	{
@@ -227,7 +227,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool InternalEngineBridge_IsSRPBatchingEnable
 		return L_1;
 	}
 }
-// Method Definition Index: 59340
+// Method Definition Index: 59356
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetBatchDeformableBufferAndLocalAABBArray_mE474FF62DD89223FCCC68A8DFFBA61935B3229A3 (SpriteRendererU5BU5D_t0DEDE77D607814DC56F5AC6D7D80AA5A342ABF28* ___0_spriteRenderers, NativeArray_1_t170B62D6C147DD05888D56F029D4D828DF487EC9 ___1_buffers, NativeArray_1_tA833EB7E3E1C9AF82C37976AD964B8D4BAC38B2C ___2_bufferSizes, NativeArray_1_t596D8D9BF28AE72A671779EB28469319AC3F1147 ___3_bounds, const RuntimeMethod* method) 
 {
 	{
@@ -241,7 +241,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetBatchDeformableB
 		return;
 	}
 }
-// Method Definition Index: 59341
+// Method Definition Index: 59357
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetBatchBoneTransformIndexAndLocalAABBArray_mF1C2297CDF4675A5E2AFB7B502042133D55C9E41 (SpriteRendererU5BU5D_t0DEDE77D607814DC56F5AC6D7D80AA5A342ABF28* ___0_spriteRenderers, NativeArray_1_tA833EB7E3E1C9AF82C37976AD964B8D4BAC38B2C ___1_boneTransformIndices, NativeArray_1_t596D8D9BF28AE72A671779EB28469319AC3F1147 ___2_bounds, const RuntimeMethod* method) 
 {
 	{
@@ -254,7 +254,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InternalEngineBridge_SetBatchBoneTransfo
 		return;
 	}
 }
-// Method Definition Index: 59342
+// Method Definition Index: 59358
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t InternalEngineBridge_ConvertFloatToInt_mE74F74479983A239EE750CAF78760F79F6717F44 (float ___0_f, const RuntimeMethod* method) 
 {
 	{
@@ -265,7 +265,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t InternalEngineBridge_ConvertFloatToIn
 		return L_1;
 	}
 }
-// Method Definition Index: 59343
+// Method Definition Index: 59359
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float InternalEngineBridge_ConvertIntToFloat_mB38ED35A3CD802442791415694C3E8C7E86E8148 (int32_t ___0_i, const RuntimeMethod* method) 
 {
 	{
